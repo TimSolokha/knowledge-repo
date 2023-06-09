@@ -1,5 +1,6 @@
 # Welcome to MkDocs
 
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
@@ -15,6 +16,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+!!! warning "Admonitions are slightly different"
+
+    This looks a little different from Docusuaurs, but gets the same point across I hope.
 
 ## Test Heading
 
