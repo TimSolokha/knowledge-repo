@@ -1,7 +1,4 @@
 site_name: Tim's Knowledge Repository
-nav:
-  - index.md
-  - languages.md
 theme:
   name: material
   features:
