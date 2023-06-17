@@ -3,6 +3,8 @@ theme:
   name: material
   features:
     - navigation.sections
+    - navigation.instant
+    - navigation.indexes
     - toc.integrate
     - toc.follow
     - navigation.top
