@@ -1,26 +1,15 @@
-# Welcome to MkDocs
+# My Knowledge Wiki 🌱
 
+This is the location for links, tools and information that I found and kept in various locations in my life. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The format and structure is inspired by [nikiv.dev](https://wiki.nikiv.dev). Ever since I happened to stumble upon it while researching how to use a specific Jellyfin plugin, I've learned all about **digital gardens**.
 
-## Commands
+My intention is that this repository is more than a place to host links that I've aggregated over the years, but a place of inspiration and insight. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Getting Started
 
-## Project layout
+## My Top 5 Topics
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Thanks
 
-!!! warning "Admonitions are slightly different"
-
-    This looks a little different from Docusuaurs, but gets the same point across I hope.
-
-## Test Heading
-
-Didn't think this would work so well :)
+If you hapeen to read this far down, thanks for taking your time to walk-through some of my content. Feel free to start your own digital garden or personal docs site with this as a template. Have a lovely day.
