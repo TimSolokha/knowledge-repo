@@ -1,4 +1,4 @@
-# [Android](https://www.android.com/)
+# Android
 
 My primary operating system choice for mobile is Android. It's held a consistent sales share at [78% as of Q1 2023](https://www.counterpointresearch.com/global-smartphone-os-market-share/), meaning the platform will stay here for a while. I don't exactly think Apple is evil as a company, but many things like discouraging [Right-to-Repair](https://youtu.be/Vn_v-VxXNoI) are big turn offs for me. Having a personal ecosystem with all of your devices sounds great at first, but if you're ever on a tight budget and need to get a nice home assistant, Apple will charge you $200-$500 more than the competitor all in the name of the brand. But back to Android...
 
