@@ -8,6 +8,7 @@ theme:
     - toc.integrate
     - toc.follow
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.tabs.link
