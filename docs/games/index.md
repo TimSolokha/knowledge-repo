@@ -10,9 +10,33 @@ My first introduction to gaming was with the Nintendo DS Lite. That's where I go
 
 Today, I tend to primarily play indie and multiplayer games on pc. My preferred way of doing this is through Linux using Steam's [Proton](https://github.com/ValveSoftware/Proton/tree/proton_8.0), however, some anti-cheat games still require me to go into my Windows environment :/. Gaming has gone through an amazing revolution over the years, but it feels as if newer AAA titles are lacking good gameplay and polish. So I currently stick to testing out the latest indie games and the unique experiences they provide. 
 
+## Personal Favorites
+
+### Singleplayer
+
+- Slay the Spire
+
+- Enter the Gungeon
+
+- Inscryption 
+
+### Multiplayer
+
+- Planetside 2
+
+- Titanfall 2/Northstar
+
+- CSGO
+
 ## Game Platforms and Launchers
 
+- [Steam](https://store.steampowered.com/)
 
+- [GOG](https://www.gog.com/)
+
+- [Epic Games Store](https://store.epicgames.com/en-US/)
+
+- [Itch.io](https://itch.io/)
 
 ## Emulators 
 
@@ -34,5 +58,18 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 - [PCSX2](https://pcsx2.net/) : Playstation 2 Emulator
 
-## Personal Favorites
+## Game Streaming
 
+- [Moonlight](https://moonlight-stream.org/)
+
+- [Sunshine](https://github.com/LizardByte/Sunshine)
+
+- [Parsec](https://parsec.app/)
+
+- [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/)
+
+- [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)
+
+## Where to Find Free Games
+
+TWITTER ACCOUNTS AND DISCORD GO HERE
