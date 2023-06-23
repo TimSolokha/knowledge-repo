@@ -12,21 +12,23 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 ## Personal Favorites
 
+- [Minecraft](https://www.minecraft.net/en-us)
+
 ### Singleplayer
 
-- Slay the Spire
+- [Slay the Spire](https://www.megacrit.com/)
 
-- Enter the Gungeon
+- [Enter the Gungeon](https://enterthegungeon.com/)
 
-- Inscryption 
+- [Inscryption](https://www.inscryption.com/) 
 
 ### Multiplayer
 
-- Planetside 2
+- [Planetside 2](https://www.planetside2.com/home)
 
-- Titanfall 2/Northstar
+- [Titanfall 2/Northstar](https://northstar.tf/)
 
-- CSGO
+- [CSGO](https://www.counter-strike.net/news)
 
 ## Game Platforms and Launchers
 
