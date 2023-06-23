@@ -34,6 +34,8 @@ As most people have probably experienced in their childhood, popular board games
 
 - Ticket to Ride/Trans America
 
+- Pandemic
+
 - D&D (not really a board game)
 
 ## Board Games That I'd Love to Play
