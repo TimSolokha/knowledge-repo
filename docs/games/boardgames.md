@@ -6,37 +6,37 @@ The best way to find, review and track board games you own/want is [Board Game G
 
 ## Publishers
 
-- [Stonemaier Games](https://stonemaiergames.com/)
+- [Alderac (AEG)](https://www.alderac.com/our-games/)
 
-- [Z-MAN games](https://www.zmangames.com/en/games/)
-
-- [Rio Grande Games](https://www.riograndegames.com/games/)
-
-- [Days of Wonder](https://www.daysofwonder.com/en/games/)
+- [Bezier Games](https://beziergames.com/collections/all-games)
 
 - [Capstone Games](https://capstone-games.com/board-games/)
 
 - [Czech Games Edition](https://czechgames.com/en/games/)
 
-- [Alderac (AEG)](https://www.alderac.com/our-games/)
+- [Days of Wonder](https://www.daysofwonder.com/en/games/)
 
 - [Eagle-Gryphon Games](https://www.eaglegames.net/Shop-s/2.htm)
 
 - [Queen Games](https://queen-games.shop/)
-
-- [Bezier Games](https://beziergames.com/collections/all-games)
-
+  
 - [Ravensburger](https://www.ravensburger.us/products/games/index.html)
+
+- [Rio Grande Games](https://www.riograndegames.com/games/)
+
+- [Stonemaier Games](https://stonemaiergames.com/)
 
 - [Stronghold Games](http://strongholdgames.com/games/)
 
 - [Thames & Kosmos](https://store.thamesandkosmos.com/collections/board-games)
 
+- [Z-MAN games](https://www.zmangames.com/en/games/)
+
 ## Where to Buy Board Games
 
-- [Miniature Market](https://www.miniaturemarket.com/)
-
 - [Cool Stuff Inc](https://www.coolstuffinc.com/)
+
+- [Miniature Market](https://www.miniaturemarket.com/)
 
 ## Board Games That I've Played
 
