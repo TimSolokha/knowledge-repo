@@ -40,4 +40,16 @@
 
 - [Nicalis](https://www.nicalis.com/games)
 
+# Game Design Tools
+
+- [Aseprite](https://www.aseprite.org/) : Animated Sprite Editor & Pixel Art Tool
+
+- [Libresprite](https://libresprite.github.io/#!/) : Open source version of Aseprite
+
+- []
+
 ## Misc Links for Game Dev Content
+
+- [Awesome Godot](https://github.com/godotengine/awesome-godot)
+
+- [Magic Tools](https://github.com/ellisonleao/magictools)
