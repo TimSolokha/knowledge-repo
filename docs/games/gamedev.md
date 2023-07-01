@@ -24,4 +24,20 @@
 
 - [Ubisoft](https://www.ubisoft.com/en-us/)
 
+- [Bethesda](https://bethesda.net/en/dashboard)
+
+- [Xbox Game Studios](https://www.xbox.com/en-US/xbox-game-studios)
+
+- [Extremely OK Games](https://exok.com/games.html)
+
+- [Heart Machine](https://www.heartmachine.com/games-press)
+
+- [studio MDHR](http://studiomdhr.com/)
+
+- [thatgamecompany](https://thatgamecompany.com/)
+
+- [Team Cherry](https://www.teamcherry.com.au/) (Haven't posted updates since 2019 :/)
+
+- [Nicalis](https://www.nicalis.com/games)
+
 ## Misc Links for Game Dev Content
