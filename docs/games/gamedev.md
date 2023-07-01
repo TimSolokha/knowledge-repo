@@ -46,10 +46,14 @@
 
 - [Libresprite](https://libresprite.github.io/#!/) : Open source version of Aseprite
 
-- []
+- [LDtk](https://ldtk.io/) : 2D level editor from the creator of [Dead Cells](https://dead-cells.com/)
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) : Open source pixel art editor made with Godot
 
 ## Misc Links for Game Dev Content
 
 - [Awesome Godot](https://github.com/godotengine/awesome-godot)
 
 - [Magic Tools](https://github.com/ellisonleao/magictools)
+
+- [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
