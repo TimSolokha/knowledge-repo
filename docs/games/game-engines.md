@@ -32,6 +32,6 @@ Playing games has always been a favorite of mine, but I didn't start wanting to 
 
 # Learning about Game Engines
 
-- [Learn GDScript](https://github.com/GDQuest/learn-gdscript)
+- [Learn GDScript](https://github.com/GDQuest/learn-gdscript){target=_blank}
 
-- [More Game Engines](https://github.com/Gforcex/OpenGraphic)
+- [More Game Engines](https://github.com/Gforcex/OpenGraphic){target=_blank}
