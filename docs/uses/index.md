@@ -1,4 +1,4 @@
-# Setup
+# Uses/Setup
 
 Short blurb on setups
 
