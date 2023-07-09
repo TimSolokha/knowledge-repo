@@ -35,3 +35,5 @@ Playing games has always been a favorite of mine, but I didn't start wanting to 
 - [Learn GDScript](https://github.com/GDQuest/learn-gdscript){target=_blank}
 
 - [More Game Engines](https://github.com/Gforcex/OpenGraphic){target=_blank}
+
+- [Water2D with Dynamic Waves in Godot](https://www.reddit.com/r/godot/comments/nq1nlf/tutorial_water_2d_with_dynamic_waves_in_godot/?utm_medium=android_app&utm_source=share)
