@@ -10,3 +10,5 @@ TODO: Explanation paragraph
 
 - [Turning an old laptop into a server](https://dev.to/jayesh_w/this-is-how-i-turned-my-old-laptop-into-a-server-1elf)
 
+- [What are your Most Used Self Hosted Applications?](https://noted.lol/what-are-your-most-used-self-hosted-applications/)
+

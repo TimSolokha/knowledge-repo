@@ -7,3 +7,5 @@ TODO: Small blurb on tools (hardware/software)
 ## Links
 
 - [List of unique tools (software)](https://dev.to/fayaz/tools-i-am-surprised-more-people-aren-t-using-2bn2)
+
+- [Toolhunt: Devtools to help you ship faster](https://www.toolhunt.dev/)

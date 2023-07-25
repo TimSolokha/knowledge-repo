@@ -2,4 +2,38 @@
 
 ## Experience
 
-## Links
+## Software Development
+
+- [10 Things I Wish I'd Learned Sooner After Being a Dev for 10 Years](https://dev.to/lakatos88/10-things-i-wish-i-d-learned-sooner-after-being-a-developer-for-10-years-1261)
+
+- [Do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+
+- [How I Build](http://pketh.org/how-i-build.html)
+
+- [Do things, tell people.](http://carl.flax.ie/dothingstellpeople.html)
+
+- [A career ending mistake](https://bitfieldconsulting.com/golang/career)
+
+- [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+
+- [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work)
+
+- [Ask HN: Have you created programs for only your personal use?](https://news.ycombinator.com/item?id=31018836)
+
+- [1x Programming](https://tim.mcnamara.nz/post/667318290442600448/1x-programming)
+
+## Life
+
+- [10 Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life)
+
+- [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/)
+
+- [Why You're Not Doing Creative Work](https://every.to/superorganizers/why-you-re-not-doing-creative-work)
+
+- [Career advancement (Louis Rossmann)](https://odysee.com/@rossmanngroup:a/career-advancement-and-the-myth-of:0?r=BKHx7yypUWAAkS7a34StVf5eA3aG6CcZ)
+
+## Productivity
+
+- [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
+
+- [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts)

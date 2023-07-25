@@ -57,3 +57,5 @@
 - [Magic Tools](https://github.com/ellisonleao/magictools)
 
 - [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
+
+- [Fixing Input Lag in Godot](https://www.reddit.com/r/godot/comments/q7nthn/is_this_random_input_lag_normal_for_godot/?utm_medium=android_app&utm_source=share)
