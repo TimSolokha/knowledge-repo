@@ -75,3 +75,7 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 ## Where to Find Free Games
 
 TWITTER ACCOUNTS AND DISCORD GO HERE
+
+## Online Games
+
+- [figure.game](https://figure.game/)

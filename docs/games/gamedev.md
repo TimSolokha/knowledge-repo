@@ -1,8 +1,10 @@
 # Game Development
 
-## Tutorials & Informational Videos
+## Tutorials, Informational Videos & Personal Dev Journeys
 
+- [Cramming 'Papers Please' Onto Phones](https://www.opensourcealternative.to/)
 
+- [Finishing a Game](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 
 ## Game Studios
 
@@ -59,3 +61,7 @@
 - [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
 
 - [Fixing Input Lag in Godot](https://www.reddit.com/r/godot/comments/q7nthn/is_this_random_input_lag_normal_for_godot/?utm_medium=android_app&utm_source=share)
+
+- [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
+
+- [GameDev Resource Thread on Reddit](https://www.reddit.com/r/gamedev/comments/wnokm4/ive_spent_5_years_curating_a_gamedev_resource/?utm_medium=android_app&utm_source=share)
