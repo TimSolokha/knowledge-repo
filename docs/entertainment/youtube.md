@@ -1,6 +1,12 @@
 # YouTube
 
+# Animation
+
+- [Alan Becker]
+
 ## Commentary 
+
+- [apandah]
 
 ## Game Development
 
@@ -10,22 +16,18 @@
 
 ## Gameplay
 
-## Game Commentaries
+## Game Breakdowns
+
+- [Arch]
 
 ## Science
 
 ## Tech Review
 
+- [aChair Leg]
+
 ## Unhinged Science/Tech
 
-- [aChair Leg]
-  
-- [Alan Becker]
-
 - [Allen Pan]
-
-- [apandah]
-
-- [Arch]
 
 ## Programming
