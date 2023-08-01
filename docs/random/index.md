@@ -13,3 +13,9 @@
 - [Sound Effects Website](https://thirtydollar.website/)
 
 - [Someone getting mad that GNOME doesn't have thumbnails (FIXED NOW)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker)
+
+- [Do's and Don'ts of Creating Your Portfolio Website](https://dev.to/ioanat94/dos-and-donts-of-creating-your-portfolio-website-2h4p)
+
+- [What's the Best Documentation You've Used?](https://dev.to/medusajs/whats-the-best-documentation-youve-used-83d)
+
+- [Don't think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
