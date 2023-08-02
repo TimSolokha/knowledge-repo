@@ -22,6 +22,10 @@
 
 - [1x Programming](https://tim.mcnamara.nz/post/667318290442600448/1x-programming)
 
+- [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
+
+- [Just Say No (Jeff Geerling)](https://www.jeffgeerling.com/blog/2022/just-say-no)
+
 ## Life
 
 - [10 Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life)

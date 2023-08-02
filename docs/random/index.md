@@ -16,6 +16,10 @@
 
 - [Do's and Don'ts of Creating Your Portfolio Website](https://dev.to/ioanat94/dos-and-donts-of-creating-your-portfolio-website-2h4p)
 
-- [What's the Best Documentation You've Used?](https://dev.to/medusajs/whats-the-best-documentation-youve-used-83d)
-
 - [Don't think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
+
+- [Chiptune :)](https://twitter.com/lukhash/status/1601632836515434496?t=OW8Xjq81tm-mOg2bOEp-vQ&s=35)
+
+- [Creating music with your computer mouse](https://teropa.info/musicmouse/)
+
+- [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
