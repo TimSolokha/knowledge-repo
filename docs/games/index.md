@@ -60,7 +60,7 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 - [PCSX2](https://pcsx2.net/) : Playstation 2 Emulator
 
-## Game Streaming
+## Game Streaming & Platforms
 
 - [Moonlight](https://moonlight-stream.org/)
 
@@ -71,6 +71,12 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/)
 
 - [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)
+
+- [Twitch](https://www.twitch.tv/)
+
+## Game Bundles
+
+- [Bundle Browser (View previous Itch.io bundles)](https://randombundlegame.com/?bundles=blm&category=Game&platforms=Linux&sort=popularity)
 
 ## Where to Find Free Games
 

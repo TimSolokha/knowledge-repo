@@ -22,6 +22,12 @@
 
 - [GNOME CLEAN Purple theme](https://www.reddit.com/r/unixporn/comments/yyp6jd/gnome_i_use_arch_in_distrobox_btw/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
+## Wallpapers
+
+- [My fav wallpaper of the week 2](https://www.reddit.com/r/wallpapers/comments/vzsvek/my_fav_wallpapers_of_the_week_2/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
+
+- [Random Pile of Desktop Wallpapers/Backgrounds](https://www.reddit.com/r/wallpapers/comments/rztnw1/random_pile_of_desktop_wallpapersbackgrounds/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
+
 ## Links
 
 - [A Dotfile History](https://myme.no/posts/2022-04-11-a-dotfile-history.html)

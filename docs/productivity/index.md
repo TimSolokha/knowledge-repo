@@ -15,3 +15,5 @@
 - [How I'm a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
 
 - [Productivity hack chosen by the internet](https://50hacks.co/#top)
+
+- [Only Solve One New Problem At A Time](https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm)
