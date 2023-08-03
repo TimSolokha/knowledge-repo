@@ -17,3 +17,5 @@ TODO: Small blurb on tools (hardware/software)
 - [Toolhunt: Devtools to help you ship faster](https://www.toolhunt.dev/)
 
 - [When did our tools become our religion?](https://vanschneider.com/blog/youre-using-the-wrong-design-tool/)
+
+- [Ask HN: Software I'm thankful for (2021)](https://news.ycombinator.com/item?id=32953732)

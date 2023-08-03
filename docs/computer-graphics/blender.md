@@ -7,3 +7,5 @@
 ## Tools & Resources
 
 - [MRMO-Halftone Shader](https://mrmotarius.itch.io/mrmo-halftone)
+
+- [Ask HN: Recommend me a Blender course](https://news.ycombinator.com/item?id=33273022)

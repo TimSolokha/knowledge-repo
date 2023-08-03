@@ -42,6 +42,8 @@
 
 - [Nicalis](https://www.nicalis.com/games)
 
+- [tobspr Games](https://tobspr.io/)
+
 # Game Design Tools
 
 - [Aseprite](https://www.aseprite.org/) : Animated Sprite Editor & Pixel Art Tool
@@ -65,3 +67,5 @@
 - [Modern Cloud for Multiplayer Games](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 
 - [GameDev Resource Thread on Reddit](https://www.reddit.com/r/gamedev/comments/wnokm4/ive_spent_5_years_curating_a_gamedev_resource/?utm_medium=android_app&utm_source=share)
+
+- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)

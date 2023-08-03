@@ -23,3 +23,7 @@
 - [Creating music with your computer mouse](https://teropa.info/musicmouse/)
 
 - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
+
+- [Generate a QR Code with Python](https://dev.to/codedex/generate-a-qr-code-with-python-386m)
+
+- [Create TailwindCSS Components](https://devdojo.com/tails/app)

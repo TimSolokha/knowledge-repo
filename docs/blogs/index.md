@@ -2,6 +2,10 @@
 
 ## Experience
 
+## My Favorite Blogs
+
+- [Bartosz Ciechanowski](https://ciechanow.ski/) : Great visuals and deep dives into various topics
+
 ## Software Development
 
 - [10 Things I Wish I'd Learned Sooner After Being a Dev for 10 Years](https://dev.to/lakatos88/10-things-i-wish-i-d-learned-sooner-after-being-a-developer-for-10-years-1261)
@@ -35,6 +39,14 @@
 - [Why You're Not Doing Creative Work](https://every.to/superorganizers/why-you-re-not-doing-creative-work)
 
 - [Career advancement (Louis Rossmann)](https://odysee.com/@rossmanngroup:a/career-advancement-and-the-myth-of:0?r=BKHx7yypUWAAkS7a34StVf5eA3aG6CcZ)
+
+- [Ask HN: Advice that changed your life?](https://news.ycombinator.com/item?id=33382056)
+
+- [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
+
+- [Advice That Actually Worked For Me](https://nabeelqu.co/advice)
+
+- [Ask HN: Comment here about whatever you're passionate about at the moment](https://news.ycombinator.com/item?id=33488891)
 
 ## Productivity
 

@@ -8,8 +8,16 @@ TODO: Small blurb on linux
 
 - [The Linux Desktop Deep Dive](https://dev.to/l04db4l4nc3r/the-linux-desktop-deep-dive-1jh3)
 
+- [How to Automate Your Linux Desktop](https://hackernoon.com/how-to-automate-your-linux-desktop)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)
 
 - [Linux Gaming Central](https://linuxgamingcentral.com/)
+
+- [Hardware for Linux](https://linux-hardware.org/)
+
+- [Improving Performance in Linux](https://linux-gaming.kwindu.eu/index.php?title=Improving_performance)
+
+- [Linux for Devices](https://www.linuxfordevices.com/)

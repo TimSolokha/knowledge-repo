@@ -11,3 +11,19 @@ TODO: Short blurb on privacy and my thoughts on it
 ## Privacy Resources
 
 - [Privacy Tools List](https://www.privacytools.io/undefined)
+
+- [SimpleLogin](https://simplelogin.io/)
+
+## Password Manager
+
+TODO: Blurb on having a password manager
+
+- [BYOPM - Bring Your Own Password Manager](https://novamostra.com/2022/10/23/byopm/)
+
+- [Bitwarden](https://bitwarden.com/)
+
+## Virus Protection
+
+TODO: Blurb about current state of virus protection
+
+[VirusTotal - Online Scanner](https://www.virustotal.com/gui/home/upload)
