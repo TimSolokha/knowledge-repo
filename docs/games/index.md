@@ -85,3 +85,5 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 ## Online Games
 
 - [figure.game](https://figure.game/)
+
+- [Human Benchmark](https://humanbenchmark.com/)

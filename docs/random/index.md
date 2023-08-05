@@ -27,3 +27,5 @@
 - [Generate a QR Code with Python](https://dev.to/codedex/generate-a-qr-code-with-python-386m)
 
 - [Create TailwindCSS Components](https://devdojo.com/tails/app)
+
+- [Lofi Music Radio](https://www.lofi.cafe/)

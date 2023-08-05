@@ -4,6 +4,10 @@ TODO: Explanation paragraph
 
 ## Experience
 
+## Resources
+
+- [Noted: Self-hosting solutions](https://noted.lol/)
+
 ## Links
 
 - [Make a Linux server for less than $50](https://dev.to/xenoxdev/make-a-linux-dev-server-for-less-than-50life--3gc7)
