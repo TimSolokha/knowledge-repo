@@ -4,6 +4,8 @@
 
 - [DevDocs](https://devdocs.io/)
 
+- [Vikunja: A self-hostable to-do app](https://vikunja.io/)
+
 ## Links
 
 - [What's the Best Documentation You've Used?](https://dev.to/medusajs/whats-the-best-documentation-youve-used-83d)

@@ -27,3 +27,7 @@
 - [Lipstick on a Pig: learning the most important lesson in design](https://ar.al/2022/08/17/lipstick-on-a-pig/)
 
 - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+
+- [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
+
+- [Design Rules](https://anthonyhobday.com/sideprojects/saferules/)

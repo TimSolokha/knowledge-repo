@@ -8,7 +8,11 @@
 
 ## Software Development
 
+- [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+
 - [10 Things I Wish I'd Learned Sooner After Being a Dev for 10 Years](https://dev.to/lakatos88/10-things-i-wish-i-d-learned-sooner-after-being-a-developer-for-10-years-1261)
+
+- [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 
 - [Do-nothing scripting](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 

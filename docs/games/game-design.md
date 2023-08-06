@@ -15,3 +15,13 @@
 - [Kenney - Thousands of completely free game assets](https://www.kenney.nl/)
 
 - [Free Controller & Keyboard Prompts](https://thoseawesomeguys.com/prompts/)
+
+# Game Design Tools
+
+- [Aseprite](https://www.aseprite.org/) : Animated Sprite Editor & Pixel Art Tool
+
+- [Libresprite](https://libresprite.github.io/#!/) : Open source version of Aseprite
+
+- [LDtk](https://ldtk.io/) : 2D level editor from the creator of [Dead Cells](https://dead-cells.com/)
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) : Open source pixel art editor made with Godot

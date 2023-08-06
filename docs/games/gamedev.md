@@ -44,15 +44,9 @@
 
 - [tobspr Games](https://tobspr.io/)
 
-# Game Design Tools
+## Math
 
-- [Aseprite](https://www.aseprite.org/) : Animated Sprite Editor & Pixel Art Tool
-
-- [Libresprite](https://libresprite.github.io/#!/) : Open source version of Aseprite
-
-- [LDtk](https://ldtk.io/) : 2D level editor from the creator of [Dead Cells](https://dead-cells.com/)
-
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) : Open source pixel art editor made with Godot
+- [Fundamental Math for Game Developers](https://pikuma.com/blog/math-for-game-developers)
 
 ## Misc Links for Game Dev Content
 

@@ -13,3 +13,5 @@
 - [OpenRGB: Control RGB in one utility](https://gitlab.com/CalcProgrammer1/OpenRGB)
 
 - [GreenWithEnvy: Fan Control for Nvidia GPUs](https://gitlab.com/leinardi/gwe)
+
+- [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder)

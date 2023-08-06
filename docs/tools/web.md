@@ -6,6 +6,8 @@
 
 - [Augmented Stem](https://github.com/IsThereAnyDeal/AugmentedSteam) : Great for the Steam marketplace & finding the best sales.
 
+- [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html)
+
 ## Email
 
 - [Proton Mail](https://proton.me/mail)
