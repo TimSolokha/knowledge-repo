@@ -9,3 +9,5 @@
 - [How to fix ssh permission in home dir](https://stackoverflow.com/questions/47654131/how-to-fix-ssh-permission-in-home-dir)
 
 - [Adding swap space](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-22-04)
+
+- [Disable GPU Acceleration in VSCode](https://gist.github.com/andriyudatama/fe5d00deb36feeea30ef35a5ea0f7eff)

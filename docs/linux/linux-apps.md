@@ -5,3 +5,11 @@
 - [FFmpeg - The Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 
 - [FFmpeg Guide](https://ffmpeg.guide/)
+
+## Peripheral & Accessories 
+
+- [CoolerControl: Fan Control in Linux](https://gitlab.com/coolercontrol/coolercontrol)
+
+- [OpenRGB: Control RGB in one utility](https://gitlab.com/CalcProgrammer1/OpenRGB)
+
+- [GreenWithEnvy: Fan Control for Nvidia GPUs](https://gitlab.com/leinardi/gwe)
