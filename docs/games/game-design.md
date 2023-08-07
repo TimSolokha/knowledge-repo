@@ -25,3 +25,5 @@
 - [LDtk](https://ldtk.io/) : 2D level editor from the creator of [Dead Cells](https://dead-cells.com/)
 
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) : Open source pixel art editor made with Godot
+
+- [Pixel Composer](https://makham.itch.io/pixel-composer?s=35) : Paid tool that makes it easier to create pixel art animations

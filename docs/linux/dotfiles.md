@@ -22,6 +22,8 @@
 
 - [GNOME CLEAN Purple theme](https://www.reddit.com/r/unixporn/comments/yyp6jd/gnome_i_use_arch_in_distrobox_btw/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
+- [Plasma Yachiyo Theme](https://www.reddit.com/r/unixporn/comments/npqgn7/plasma_yachiyo/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
+
 ## Wallpapers
 
 - [My fav wallpaper of the week 2](https://www.reddit.com/r/wallpapers/comments/vzsvek/my_fav_wallpapers_of_the_week_2/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)

@@ -14,6 +14,8 @@ TODO: Short blurb on privacy and my thoughts on it
 
 - [SimpleLogin](https://simplelogin.io/)
 
+- [NeverSSL](http://silverinnershinylight.neverssl.com/online/)
+
 ## Password Manager
 
 TODO: Blurb on having a password manager

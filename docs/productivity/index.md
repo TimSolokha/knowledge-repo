@@ -17,3 +17,7 @@
 - [Productivity hack chosen by the internet](https://50hacks.co/#top)
 
 - [Only Solve One New Problem At A Time](https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm)
+
+- [Work Less, Get More Done: Analytics for Maximizing Productivity](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/)
+
+- [A trick to reaching flow: Leave your work broken](https://news.ycombinator.com/item?id=35456059)

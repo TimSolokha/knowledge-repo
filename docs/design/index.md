@@ -8,6 +8,10 @@
 
 - [Godly Websites](https://godly.website/)
 
+- [Insane Landing Page (Web3 which kinda cringe but design is great)](https://www.awwwards.com/kpr-by-resn-wins-sotm.html?utm_source=twitter&utm_medium=social&utm_campaign=Blog_promo&utm_content=kpr-by-resn-wins-sotm&s=35)
+
+- [Futuristic Neo Tokyo Art](https://twitter.com/Atmonez/status/1629139418677186560?t=gd3EPAu-UFdGRtlyL2eWog&s=35)
+
 ## Resources
 
 - [Discover Useful Design Tools](https://www.toools.design/)
@@ -19,6 +23,8 @@
 - [UI/UX Design Tests](https://cantunsee.space/)
 
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
+
+- [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 ## Links
 

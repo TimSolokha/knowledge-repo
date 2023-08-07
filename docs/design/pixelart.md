@@ -17,3 +17,5 @@
 - [Lighting by hand #1: the thin dark line](https://medium.com/hackernoon/pico-8-lighting-part-1-thin-dark-line-8ea15d21fed7)
 
 - [Rock in Water Tutorial](https://twitter.com/Franrekk/status/1607541732530622464?t=wlqEr9VS8C2CnYcpo2FJtA&s=35)
+
+- [Making Shiny Pickups!](https://twitter.com/rayslynyrd/status/1650505332777533444?t=ZkwVWXuB35OdCl0eV91iSg&s=35)

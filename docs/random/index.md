@@ -29,3 +29,7 @@
 - [Create TailwindCSS Components](https://devdojo.com/tails/app)
 
 - [Lofi Music Radio](https://www.lofi.cafe/)
+
+- [Desktop in the Browser](https://www.reddit.com/r/unixporn/comments/114ycxr/oc_i_spent_almost_two_years_building_a_desktop/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
+
+- [Crontab Guru](https://crontab.guru/)

@@ -17,3 +17,5 @@ TODO: Explanation paragraph
 - [What are your Most Used Self Hosted Applications?](https://noted.lol/what-are-your-most-used-self-hosted-applications/)
 
 - [Ask HN: What's on your home server?](https://news.ycombinator.com/item?id=34271167)
+
+- [Self hosting in 2023](https://grifel.dev/decentralization/)

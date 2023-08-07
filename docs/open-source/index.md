@@ -4,6 +4,8 @@
 
 - [Open Source Alternative To...](https://www.opensourcealternative.to/)
 
+- [OSS Insight](https://ossinsight.io/?s=09)
+
 ## Niche Projects
 
 - [ntfy](https://github.com/binwiederhier/ntfy) : A simple HTTP-based pub-sub notification service.
@@ -11,3 +13,5 @@
 ## Links
 
 - [I'm now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
+
+- [Night of the living brain fog dead or how I hacked myself better bia open source](https://news.ycombinator.com/item?id=35511047)

@@ -6,6 +6,8 @@
 
 - [Bartosz Ciechanowski](https://ciechanow.ski/) : Great visuals and deep dives into various topics
 
+- [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) : Wacky side project that looks super cool
+
 ## Software Development
 
 - [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
@@ -57,3 +59,7 @@
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
 
 - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts)
+
+- [Ask HN: What has your personal website/blog done for you?](https://news.ycombinator.com/item?id=35164819)
+
+- [Everything is a Practice](https://news.ycombinator.com/item?id=35437062)
