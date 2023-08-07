@@ -6,6 +6,8 @@
 
 - [FFmpeg Guide](https://ffmpeg.guide/)
 
+- [Editing Videos with ffmpeg](https://www.hadet.dev/ffmpeg-cheatsheet/)
+
 ## Peripheral & Accessories 
 
 - [CoolerControl: Fan Control in Linux](https://gitlab.com/coolercontrol/coolercontrol)

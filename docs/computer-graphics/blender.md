@@ -11,3 +11,5 @@
 - [MRMO-Halftone Shader](https://mrmotarius.itch.io/mrmo-halftone)
 
 - [Ask HN: Recommend me a Blender course](https://news.ycombinator.com/item?id=33273022)
+
+- [Blender Tutorial for Beginners: How To Make A Mushroom](https://www.kodeco.com/21459096-blender-tutorial-for-beginners-how-to-make-a-mushroom?s=35)

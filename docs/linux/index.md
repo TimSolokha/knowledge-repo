@@ -12,6 +12,8 @@ TODO: Small blurb on linux
 
 - [Desktop Linux Hardening](https://news.ycombinator.com/item?id=36291169)
 
+- [Linux guide for power users](https://xnacly.me/posts/2022/linux-for-powerusers/)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

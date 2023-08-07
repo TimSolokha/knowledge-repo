@@ -7,7 +7,17 @@ Personalization. It's present in many possessions that we own, and the desktop s
 
 There are plenty of inspirations online, but some of my favorite are:
 
-TODO: Add a list of resources here
+- [uses this](https://usesthis.com/)
+
+- [uses.tech](https://uses.tech/)
+
+- [Hacker Stations](https://hackerstations.com/)
+
+- [Workspaces.xyz](https://www.workspaces.xyz/?s=35)
+
+- [Maker Stations](https://www.makerstations.io/)
+
+- [What a random dev uses](https://www.bradleyshellnut.com/uses)
 
 ## Experience
 

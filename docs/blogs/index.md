@@ -8,13 +8,25 @@
 
 - [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) : Wacky side project that looks super cool
 
+- [Show HN: Hacker News user blogroll](https://news.ycombinator.com/item?id=36605493)
+
+- [Keyboards and web apps, my post/rant for the year](https://news.ycombinator.com/item?id=36725417)
+
+- [Cool looking site from Antarctica](https://news.ycombinator.com/item?id=36833252)
+
+- [Putting the "You" in CPU](https://news.ycombinator.com/item?id=36823605)
+
 ## Software Tooling
 
 - [Codespaces but open-source, client-only and unopinionated](https://news.ycombinator.com/item?id=36407477)
 
 - [Is tech moving backwards (Twitter Thread)](https://twitter.com/jmmv/status/1671670996921896960?t=804Wbh6C44YlpAq9XZ7rPg&s=35)
 
+- [The 90s Developer Starter Pack](https://news.ycombinator.com/item?id=36658941)
+
 ## Software Development
+
+- [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 
 - [Identity Crisis - A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
 
@@ -66,6 +78,8 @@
 
 - [Ask HN: Comment here about whatever you're passionate about at the moment](https://news.ycombinator.com/item?id=33488891)
 
+- [Show HN: I built a transit travel time map](https://news.ycombinator.com/item?id=36847960)
+
 ## Productivity
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
@@ -77,3 +91,5 @@
 - [Everything is a Practice](https://news.ycombinator.com/item?id=35437062)
 
 - [Finish your projects](https://news.ycombinator.com/item?id=36313671)
+
+- [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)

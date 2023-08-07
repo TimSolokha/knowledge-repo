@@ -35,3 +35,9 @@
 - [Desktop in the Browser](https://www.reddit.com/r/unixporn/comments/114ycxr/oc_i_spent_almost_two_years_building_a_desktop/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
 - [Crontab Guru](https://crontab.guru/)
+
+- [How to be a UI Designer in 2023 (funny)](https://twitter.com/tsoding/status/1679257432894177281?t=k0ScawxgT4uy2kbkMLw5gg&s=35)
+
+- [Recreate a decryption effect from the movie 'Sneakers'](https://news.ycombinator.com/item?id=36799776)
+
+- [Stem Formulas](https://stemformulas.com/formulas/)

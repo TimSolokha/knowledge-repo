@@ -40,3 +40,5 @@
 
 - [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/tree/master)
 
+- [Keyboard Switch Wallpaper](https://imgur.com/a/LbXpqYb)
+

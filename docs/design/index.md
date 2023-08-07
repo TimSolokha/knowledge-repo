@@ -12,6 +12,8 @@
 
 - [Futuristic Neo Tokyo Art](https://twitter.com/Atmonez/status/1629139418677186560?t=gd3EPAu-UFdGRtlyL2eWog&s=35)
 
+- [Unique color wheel](https://twitter.com/Krep_pxl/status/1681691748207042561?t=KQumwp27tChr84zRTbR2jA&s=35)
+
 ## Resources
 
 - [Discover Useful Design Tools](https://www.toools.design/)
@@ -27,6 +29,16 @@
 - [Juice](https://garden.bradwoods.io/notes/design/juice)
 
 - [Color & Contrast](https://colorandcontrast.com/#/)
+
+- [Spectacle](https://spectacle.is/?s=35)
+
+- [Showreelz](https://www.showreelz.com/?s=35)
+
+- [Dribble](https://dribbble.com/shots)
+
+- [Awwwards](https://www.awwwards.com/)
+
+- [A Checklist for Choosing Type](https://news.ycombinator.com/item?id=36790280)
 
 ## Links
 

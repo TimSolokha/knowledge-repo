@@ -23,3 +23,5 @@
 - [A trick to reaching flow: Leave your work broken](https://news.ycombinator.com/item?id=35456059)
 
 - [Ask HN: Advice on starting a YouTube Channel?](https://news.ycombinator.com/item?id=36253565)
+
+- [What makes developers productive?](https://news.ycombinator.com/item?id=36747052)
