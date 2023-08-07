@@ -15,3 +15,5 @@
 - [I'm now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
 
 - [Night of the living brain fog dead or how I hacked myself better bia open source](https://news.ycombinator.com/item?id=35511047)
+
+- [The Asymmetry of Open Source](https://news.ycombinator.com/item?id=36279403)

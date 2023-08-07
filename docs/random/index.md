@@ -10,6 +10,8 @@
 
 - [Create a QR Code for WiFi](https://wificard.io/)
 
+- [QR Code Designer](https://github.com/kochrt/qr-designer)
+
 - [Sound Effects Website](https://thirtydollar.website/)
 
 - [Someone getting mad that GNOME doesn't have thumbnails (FIXED NOW)](https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker)

@@ -8,6 +8,8 @@ TODO: Explanation paragraph
 
 - [Noted: Self-hosting solutions](https://noted.lol/)
 
+- [Yunohost](https://yunohost.org/#/)
+
 ## Links
 
 - [Make a Linux server for less than $50](https://dev.to/xenoxdev/make-a-linux-dev-server-for-less-than-50life--3gc7)
@@ -19,3 +21,5 @@ TODO: Explanation paragraph
 - [Ask HN: What's on your home server?](https://news.ycombinator.com/item?id=34271167)
 
 - [Self hosting in 2023](https://grifel.dev/decentralization/)
+
+- [Show HN: Homelab Monitoring Setup with Grafana](https://news.ycombinator.com/item?id=36225239)

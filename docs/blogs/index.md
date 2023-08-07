@@ -8,11 +8,23 @@
 
 - [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) : Wacky side project that looks super cool
 
+## Software Tooling
+
+- [Codespaces but open-source, client-only and unopinionated](https://news.ycombinator.com/item?id=36407477)
+
+- [Is tech moving backwards (Twitter Thread)](https://twitter.com/jmmv/status/1671670996921896960?t=804Wbh6C44YlpAq9XZ7rPg&s=35)
+
 ## Software Development
+
+- [Identity Crisis - A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
+
+- [Developer Relations Career Ladders](https://www.devrel-ladders.com/)
 
 - [20 Things I've Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 
 - [10 Things I Wish I'd Learned Sooner After Being a Dev for 10 Years](https://dev.to/lakatos88/10-things-i-wish-i-d-learned-sooner-after-being-a-developer-for-10-years-1261)
+
+- [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.htmlv)
 
 - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 
@@ -63,3 +75,5 @@
 - [Ask HN: What has your personal website/blog done for you?](https://news.ycombinator.com/item?id=35164819)
 
 - [Everything is a Practice](https://news.ycombinator.com/item?id=35437062)
+
+- [Finish your projects](https://news.ycombinator.com/item?id=36313671)

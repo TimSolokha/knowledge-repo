@@ -15,3 +15,5 @@
 - [Juice Glass made in Blender](https://www.reddit.com/r/blender/comments/lpdr6q/so_i_was_only_given_7_predetermined_colors_to/?utm_medium=android_app&utm_source=share)
 
 - [Insane animation](https://twitter.com/King_Sukunaaa/status/1586026664211152897?t=BJ1VP1-1iOOH8lUlXsuiRg&s=35)
+
+- [Objects that "passes" through a card](https://twitter.com/0xca0a/status/1670064466963181569?t=CkUGPfOibtKL2ljwJ2YzWA&s=35)

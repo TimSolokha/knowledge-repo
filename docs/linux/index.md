@@ -10,6 +10,8 @@ TODO: Small blurb on linux
 
 - [How to Automate Your Linux Desktop](https://hackernoon.com/how-to-automate-your-linux-desktop)
 
+- [Desktop Linux Hardening](https://news.ycombinator.com/item?id=36291169)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)
