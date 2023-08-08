@@ -12,3 +12,5 @@
 ## Go
 
 - [The Go Handbook - Learn Golang for Beginners](https://www.freecodecamp.org/news/go-beginners-handbook/)
+
+- [Go Developer Roadmap](https://roadmap.sh/golang)

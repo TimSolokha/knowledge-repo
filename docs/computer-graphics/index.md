@@ -6,6 +6,8 @@
 
 - [MoonRay: Dreamworks' Renderer](https://github.com/dreamworksanimation/openmoonray)
 
+- [Spline: 3D Web-based editor](https://spline.design/)
+
 ## Graphics
 
 - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)

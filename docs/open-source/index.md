@@ -1,5 +1,11 @@
 # Open Source
 
+## Fediverse
+
+- [FediDB](https://fedidb.org/)
+
+- [sub.rehab](https://sub.rehab/)
+
 ## Resources
 
 - [Open Source Alternative To...](https://www.opensourcealternative.to/)

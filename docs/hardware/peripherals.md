@@ -14,7 +14,9 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [NuPhy](https://nuphy.com/)
 
-- [Drop]
+- [Drop](https://drop.com/home)
+
+- [Mechanical Keyboard Guide](https://switchandclick.com/mechanical-keyboard-switch-guide/)
 
 ### Keycaps
 
