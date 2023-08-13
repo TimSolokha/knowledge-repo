@@ -2,7 +2,7 @@
 
 # Animation
 
-- [Alan Becker]
+- [Alan Becker](https://www.youtube.com/@alanbecker/videos) : One of the oldest animation channels around, Alan's stickman can never seem to get old. He puts them through various new situations, each building upon the last and creating a "stickman universe". Sometimes I get a nostalgia hit and look through his videos to get that sense of exploration. 
 
 ## Commentary 
 
@@ -24,7 +24,7 @@
 
 ## Tech Review
 
-- [aChair Leg]
+- [aChair Leg](https://www.youtube.com/@aChairLeg/videos) : Usually, tech review channels go for the best of the best. But aChair reviews products from years ago and daily drives them to see if they're a right fit in our current bustling tech-filled world. If you're looking to save a few bucks or want to expand on a personal tech project, his videos have a gem or two that may fulfill your needs. 
 
 ## Unhinged Science/Tech
 
