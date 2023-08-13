@@ -2,6 +2,14 @@
 
 ## Browsers
 
+## CI/CD
+
+- [GitHub Actions](https://github.com/features/actions)
+
+- [Jenkins](https://www.jenkins.io/)
+
+- [CircleCI](https://circleci.com/)
+
 ## Extensions
 
 - [Augmented Stem](https://github.com/IsThereAnyDeal/AugmentedSteam) : Great for the Steam marketplace & finding the best sales.
@@ -11,6 +19,14 @@
 ## Email
 
 - [Proton Mail](https://proton.me/mail)
+
+## Speedtest
+
+- [Speedtest.net](https://www.speedtest.net/)
+
+- [fast.com](https://fast.com/) : Uses Netflix's servers to generate a speed test. 
+
+- [Cloudflare Speed Test](https://speed.cloudflare.com/)
 
 ## VPN
 

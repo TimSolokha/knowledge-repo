@@ -1,10 +1,16 @@
 # PC Building
 
+## Experience
+
 ## Resources
 
 - [PcPartPicker](https://pcpartpicker.com/)
 
 - [IFIXIT Guides](https://www.ifixit.com/Guide)
+
+- [How to clean your computer](https://www.pcgamer.com/how-to-clean-your-computer-case/) : My key is to clean my pc(s) every 6-8 months to keep them in the best shape possible. 
+
+- [List of Storage Prices](https://diskprices.com/)
 
 ## Desk Setups
 

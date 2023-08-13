@@ -16,6 +16,10 @@
 
 - [Putting the "You" in CPU](https://news.ycombinator.com/item?id=36823605)
 
+## Business
+
+- [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
+
 ## Software Tooling
 
 - [Codespaces but open-source, client-only and unopinionated](https://news.ycombinator.com/item?id=36407477)
@@ -79,6 +83,8 @@
 - [Ask HN: Comment here about whatever you're passionate about at the moment](https://news.ycombinator.com/item?id=33488891)
 
 - [Show HN: I built a transit travel time map](https://news.ycombinator.com/item?id=36847960)
+
+- [The PARA Method: A Simple System for Organizing your Digital Life](https://fortelabs.com/blog/para/)
 
 ## Productivity
 

@@ -8,6 +8,10 @@ TODO: Add a flatpak section because there are too many
 
 - [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/)
 
+- [Syncthing](https://syncthing.net/)
+
+- [Article on Syncthing](https://hackaday.com/2020/07/23/linux-fu-keep-in-sync/)
+
 ## Video
 
 - [FFmpeg - The Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/)

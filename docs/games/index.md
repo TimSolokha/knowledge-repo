@@ -93,3 +93,7 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [Grimace Birthday Game 2023](https://archive.org/details/grimaces-birthday)
 
 - [Noclip: A digital museum of video game levels](https://news.ycombinator.com/item?id=37043934)
+
+## Modding
+
+- [Trombone Champ Modding](https://trombone.wiki/#/)
