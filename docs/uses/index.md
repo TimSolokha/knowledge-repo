@@ -1,7 +1,13 @@
 # Uses/Setup
 
 Short blurb on setups
-Personalization. It's present in many possessions that we own, and the desktop setup is no exception, picking up steam in recent years. Custom cases, weird aspect ratios, unique peripherals and more create an awesome user setup.  
+Personalization. It's present in many possessions that we own, and the desktop setup is no exception, picking up steam in recent years. Custom cases, weird aspect ratios, unique peripherals and more create an awesome user setup. I'm still a bit away from a dream setup, but am slowly getting there every month. 
+
+## What Hardware I use
+
+
+
+## What Software I use
 
 ## Inspirations
 
