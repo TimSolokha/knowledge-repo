@@ -1,5 +1,11 @@
 # Web Tools
 
+## Backend
+
+- [nhost](https://nhost.io/)
+
+- [Pocketbase: Open Source Backend in 1 file](https://pocketbase.io/)
+
 ## Browsers
 
 ## CI/CD
@@ -57,3 +63,7 @@
 - [How to disable "Reset Firefox..." button pop-up at Firefox browser startup](https://superuser.com/questions/1056617/how-to-disable-reset-firefox-button-pop-up-at-firefox-browser-startup)
 
 - [Firefox Hardening Resources](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
+
+## Links
+
+- [PocketBase Walkthrough via DigitalOcean](https://docs.digitalocean.com/products/marketplace/catalog/pocketbase/)
