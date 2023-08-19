@@ -1,4 +1,4 @@
-# Dotfiles
+# Customization
 
 ## Firefox
 
@@ -11,6 +11,8 @@
 ## Linux Rices
 
 - [Large Resource of Dotfiles Scraped from Reddit](https://unixporn-dots.github.io/#main_header)
+
+- [GitHub Repo of Awesome Rices](https://github.com/zemmsoares/awesome-rices)
 
 - [GNOME Rice w/Endeavor OS](https://www.reddit.com/r/unixporn/comments/wk5w0c/gnome_after_all_this_time_im_finally_freeee/?utm_medium=android_app&utm_source=share)
 
@@ -30,6 +32,8 @@
 
 - [Random Pile of Desktop Wallpapers/Backgrounds](https://www.reddit.com/r/wallpapers/comments/rztnw1/random_pile_of_desktop_wallpapersbackgrounds/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
+- [Animated wallpapers in Wayland](https://github.com/Horus645/swww)
+
 ## Links
 
 - [A Dotfile History](https://myme.no/posts/2022-04-11-a-dotfile-history.html)
@@ -42,3 +46,10 @@
 
 - [Keyboard Switch Wallpaper](https://imgur.com/a/LbXpqYb)
 
+## Terminal Goodness
+
+- [NeoCat](https://github.com/m3tozz/NeoCat) : Custom neofetch configs
+
+## Themes
+
+- [Gogh](https://github.com/Gogh-Co/Gogh)

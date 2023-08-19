@@ -25,6 +25,8 @@ There are plenty of inspirations online, but some of my favorite are:
 
 - [What a random dev uses](https://www.bradleyshellnut.com/uses)
 
+- [Repository of Awesome Uses](https://github.com/wesbos/awesome-uses)
+
 ## Experience
 
 TODO: Experience with UnixPron
