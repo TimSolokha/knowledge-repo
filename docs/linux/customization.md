@@ -52,4 +52,14 @@
 
 ## Themes
 
+- [Catpuccin](https://github.com/catppuccin/catppuccin)
+
+- [Dracula](https://github.com/dracula/dracula-theme)
+
+- [Everforest](https://github.com/sainnhe/everforest)
+
 - [Gogh](https://github.com/Gogh-Co/Gogh)
+
+- [Nord](https://github.com/nordtheme/nord)
+
+- [Rose Pine](https://github.com/rose-pine/rose-pine-theme)
