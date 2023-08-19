@@ -7,3 +7,7 @@ This section lists out some advice and resources around financing. Keep in mind 
 ## Blog Posts
 
 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
+
+## What I do
+
+- [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page)

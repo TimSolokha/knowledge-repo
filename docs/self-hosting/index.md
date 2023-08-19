@@ -33,3 +33,7 @@ TODO: Explanation paragraph
 - [Self hosting in 2023](https://grifel.dev/decentralization/)
 
 - [Show HN: Homelab Monitoring Setup with Grafana](https://news.ycombinator.com/item?id=36225239)
+
+## Homepages
+
+- [Example of a cool homepage](https://www.reddit.com/r/selfhosted/comments/15ssm6o/my_selfhosted_journey_so_far_dashboard/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=1)

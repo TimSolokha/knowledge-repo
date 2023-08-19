@@ -14,6 +14,8 @@
 
 - [Hackernoon article on vim](https://hackernoon.com/hard-to-learn-but-way-more-fun-why-you-should-try-vim-ks1b35x1?source=rss)
 
+- [Learn Vim For the Last Time](https://danielmiessler.com/p/vim/)
+
 ## Terminal Editors
 
 - [Helix](https://helix-editor.com/)
