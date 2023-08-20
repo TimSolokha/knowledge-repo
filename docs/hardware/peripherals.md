@@ -34,6 +34,16 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [Divinikey Switches](https://divinikey.com/collections/switches)
 
+- [Gateron](https://www.gateron.co/) : One of the original creators in the space
+
+- [Cannon Keys](https://cannonkeys.com/collections/switches?filter.p.m.my_fields.type_of_switch=Linear&sort_by=manual#shopify-section-template--15026341281903__main)
+
+- [Novelkeys (Switches)](https://novelkeys.com/collections/switches)
+
+- [The Key Company](https://thekey.company/collections/switches)
+
+- [Mech Land](https://mech.land/collections/switches)
+
 ## Mice
 
 - [LogitechG Mice](https://www.logitechg.com/en-us/products/gaming-mice.html)
