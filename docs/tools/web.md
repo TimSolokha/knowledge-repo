@@ -22,6 +22,8 @@
 
 - [For your next side project, make a browser extension](https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html)
 
+- [Bento: The minimalist, elegant and hackable startpage](https://github.com/migueravila/Bento)
+
 ## Email
 
 - [Proton Mail](https://proton.me/mail)

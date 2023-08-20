@@ -1,5 +1,11 @@
 # Customization
 
+## Backup Dotfiles
+
+- [Chezmoi](https://github.com/twpayne/chezmoi)
+
+- [dotdrop](https://github.com/deadc0de6/dotdrop)
+
 ## Firefox
 
 - [Build your own Firefox theme](https://color.firefox.com/)
@@ -26,6 +32,10 @@
 
 - [Plasma Yachiyo Theme](https://www.reddit.com/r/unixporn/comments/npqgn7/plasma_yachiyo/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
+- [ARCH ONLY rice repo](https://github.com/gh0stzk/dotfiles)
+
+- [ARCH-BASED ONLY Yoru | Aesthetic and Beautiful Awesome Environment](https://github.com/rxyhn/yoru)
+
 ## Wallpapers
 
 - [My fav wallpaper of the week 2](https://www.reddit.com/r/wallpapers/comments/vzsvek/my_fav_wallpapers_of_the_week_2/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
@@ -40,15 +50,19 @@
 
 - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
 
+- [Awesome Ricing Repository](https://github.com/fosslife/awesome-ricing)
+
+- [Awesome Dotfiles Repository](https://github.com/webpro/awesome-dotfiles)
+
 # Wallpapers
 
 - [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/tree/master)
 
 - [Keyboard Switch Wallpaper](https://imgur.com/a/LbXpqYb)
 
-## Terminal Goodness
+- [Random wallpaper repository](https://github.com/dharmx/walls)
 
-- [NeoCat](https://github.com/m3tozz/NeoCat) : Custom neofetch configs
+- [Aesthetic Wallpapers Repo](https://github.com/D3Ext/aesthetic-wallpapers)
 
 ## Themes
 
@@ -63,3 +77,17 @@
 - [Nord](https://github.com/nordtheme/nord)
 
 - [Rose Pine](https://github.com/rose-pine/rose-pine-theme)
+
+## Window Managers, Compositors, Widgets
+
+- [Hyprland: Dynamic tiling Wayland compositor](https://github.com/hyprwm/Hyprland)
+
+- [Rofi: A window switcher, application launcher](https://github.com/davatorium/rofi)
+
+- [A collection of Rofi based launchers and powermenus](https://github.com/adi1090x/rofi)
+
+- [Polybar: A fast and easy-to-use status bar](https://github.com/polybar/polybar)
+
+- [Waybar: A status bar suited for wayland](https://github.com/Alexays/Waybar)
+
+- [i3: A tiling window manager for X11](https://github.com/i3/i3)
