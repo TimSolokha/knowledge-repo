@@ -15,6 +15,10 @@
 
 - [Go Developer Roadmap](https://roadmap.sh/golang)
 
+- [LearnGo GitHub Repo](https://github.com/inancgumus/learngo)
+
+- [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
+
 ## Flutter
 
 - [Learn Flutter](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)

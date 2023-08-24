@@ -22,6 +22,8 @@
 
 ## Software Tooling
 
+- [Learn AutoHotKey by stealing my scripts](https://news.ycombinator.com/item?id=37218263)
+
 - [Codespaces but open-source, client-only and unopinionated](https://news.ycombinator.com/item?id=36407477)
 
 - [Is tech moving backwards (Twitter Thread)](https://twitter.com/jmmv/status/1671670996921896960?t=804Wbh6C44YlpAq9XZ7rPg&s=35)

@@ -14,6 +14,8 @@
 
 - [Unique color wheel](https://twitter.com/Krep_pxl/status/1681691748207042561?t=KQumwp27tChr84zRTbR2jA&s=35)
 
+- [Cool layout of a site](https://viewports.fyi/)
+
 ## Resources
 
 - [Discover Useful Design Tools](https://www.toools.design/)

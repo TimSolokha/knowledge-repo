@@ -19,3 +19,5 @@ TODO: Short blurb on programming
 - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 
 - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
+
+- [Writing a Package Manager](https://news.ycombinator.com/item?id=37220953)
