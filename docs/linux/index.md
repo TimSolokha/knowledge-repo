@@ -4,6 +4,16 @@ TODO: Small blurb on linux
 
 ## Experience
 
+## Distros
+
+- [Fedora](https://fedoraproject.org/)
+
+- [Pop OS](https://pop.system76.com/)
+
+- [EndeavourOS](https://endeavouros.com/)
+
+- [Linux Mint](https://linuxmint.com/)
+
 ## Links
 
 - [The Linux Desktop Deep Dive](https://dev.to/l04db4l4nc3r/the-linux-desktop-deep-dive-1jh3)

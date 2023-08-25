@@ -44,6 +44,8 @@
 
 - [Mullvad](https://mullvad.net/en)
 
+- [Pros/Cons of some common VPNs](https://www.techlore.tech/vpn.html)
+
 ## Storage
 
 - [Proton Drive](https://proton.me/drive)

@@ -47,3 +47,7 @@ TODO: Add a flatpak section because there are too many
 ## Finance
 
 - [Denaro](https://flathub.org/apps/org.nickvision.money)
+
+## Running Programs
+
+- [AppImage](https://appimage.org/)
