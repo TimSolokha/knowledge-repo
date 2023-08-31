@@ -97,3 +97,5 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 ## Modding
 
 - [Trombone Champ Modding](https://trombone.wiki/#/)
+
+- [3DS Hack Guide](https://3ds.hacks.guide/)

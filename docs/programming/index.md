@@ -21,3 +21,5 @@ TODO: Short blurb on programming
 - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 
 - [Writing a Package Manager](https://news.ycombinator.com/item?id=37220953)
+
+- [Visualization of Common Algorithms](https://news.ycombinator.com/item?id=37304870)

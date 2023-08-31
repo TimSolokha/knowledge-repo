@@ -18,6 +18,20 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [Mechanical Keyboard Guide](https://switchandclick.com/mechanical-keyboard-switch-guide/)
 
+- [Awesome Wooting](https://github.com/WootingKb/awesome-wooting)
+
+- [A split keyboard based on Lily58, Crkbd and Helix keyboards](https://github.com/josefadamcik/SofleKeyboard)
+
+- [Corne Keyboard: A split keyboard with 3x6 column](https://github.com/foostan/crkbd)
+
+- [Lily58: 6x4+4 keys column-staggered split keyboard](https://github.com/kata0510/Lily58)
+
+- [Open Source Firmware for Keyboards](https://github.com/zmkfirmware/zmk)
+
+- [VIA: Keyboard Configuration](https://www.caniusevia.com/)
+
+- [Keyboards Supported by VIA](https://github.com/the-via/keyboards)
+
 ### Keycaps
 
 - [NovelKeys](https://novelkeys.com/)
