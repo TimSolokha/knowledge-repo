@@ -1,6 +1,6 @@
 # YouTube
 
-# Animation
+## Animation
 
 - [Alan Becker](https://www.youtube.com/@alanbecker/videos) : One of the oldest animation channels around, Alan's stickman can never seem to get old. He puts them through various new situations, each building upon the last and creating a "stickman universe". Sometimes I get a nostalgia hit and look through his videos to get that sense of exploration. 
 

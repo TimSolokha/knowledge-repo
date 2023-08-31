@@ -18,7 +18,7 @@
 
 - [Free Controller & Keyboard Prompts](https://thoseawesomeguys.com/prompts/)
 
-# Game Design Tools
+## Game Design Tools
 
 - [Aseprite](https://www.aseprite.org/) : Animated Sprite Editor & Pixel Art Tool
 

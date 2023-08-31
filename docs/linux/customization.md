@@ -44,6 +44,14 @@
 
 - [Animated wallpapers in Wayland](https://github.com/Horus645/swww)
 
+- [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/tree/master)
+
+- [Keyboard Switch Wallpaper](https://imgur.com/a/LbXpqYb)
+
+- [Random wallpaper repository](https://github.com/dharmx/walls)
+
+- [Aesthetic Wallpapers Repo](https://github.com/D3Ext/aesthetic-wallpapers)
+
 ## Links
 
 - [A Dotfile History](https://myme.no/posts/2022-04-11-a-dotfile-history.html)
@@ -53,16 +61,6 @@
 - [Awesome Ricing Repository](https://github.com/fosslife/awesome-ricing)
 
 - [Awesome Dotfiles Repository](https://github.com/webpro/awesome-dotfiles)
-
-# Wallpapers
-
-- [Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/tree/master)
-
-- [Keyboard Switch Wallpaper](https://imgur.com/a/LbXpqYb)
-
-- [Random wallpaper repository](https://github.com/dharmx/walls)
-
-- [Aesthetic Wallpapers Repo](https://github.com/D3Ext/aesthetic-wallpapers)
 
 ## Themes
 

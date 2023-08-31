@@ -1,6 +1,6 @@
 # Cloud
 
-# Domain Hosting
+## Domain Hosting
 
 - [Porkbun](https://porkbun.com/)
 
