@@ -2,6 +2,8 @@
 
 ## Links
 
+- [Just Build It...](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/) [Hacker News](https://news.ycombinator.com/item?id=37369416)
+
 - [Build Your Career on Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html) ⭐
 
 - [No more Insight P*rn](https://jakobgreenfeld.com/insight-porn)

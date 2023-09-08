@@ -41,3 +41,5 @@
 - [Recreate a decryption effect from the movie 'Sneakers'](https://news.ycombinator.com/item?id=36799776)
 
 - [Stem Formulas](https://stemformulas.com/formulas/)
+
+- [Animated Knots](https://www.animatedknots.com/)

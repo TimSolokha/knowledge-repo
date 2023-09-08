@@ -16,6 +16,8 @@
 
 - [Putting the "You" in CPU](https://news.ycombinator.com/item?id=36823605)
 
+- [RSS-like Feed of Blogs](https://boredreading.com/) [Hacker News](https://news.ycombinator.com/item?id=37403534)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)

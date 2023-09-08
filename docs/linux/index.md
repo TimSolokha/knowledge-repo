@@ -24,6 +24,10 @@ TODO: Small blurb on linux
 
 - [Linux guide for power users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 
+- [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+
+- [Linux Network Performance Parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

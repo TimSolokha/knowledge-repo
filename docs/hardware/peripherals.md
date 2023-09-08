@@ -26,6 +26,8 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [Lily58: 6x4+4 keys column-staggered split keyboard](https://github.com/kata0510/Lily58)
 
+- [Voyager: A powerful, low-profile, split ergonomic keyboard](https://www.zsa.io/voyager/) [Hacker News](https://news.ycombinator.com/item?id=37391934)
+
 - [Open Source Firmware for Keyboards](https://github.com/zmkfirmware/zmk)
 
 - [VIA: Keyboard Configuration](https://www.caniusevia.com/)
@@ -77,6 +79,10 @@ TODO: Use emojis to create ways to decipher between resources
 - [Deskmat](https://deskmat.io/)
 
 - [DROP Desk Mats](https://drop.com/battlestations/drops?sc=deskmats)
+
+## Mice
+
+- [EloShapes: Compare mouse sizes](https://www.eloshapes.com/index.html)
 
 ## Accessories 
 

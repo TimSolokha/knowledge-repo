@@ -8,6 +8,8 @@ TODO: Short blurb on privacy and my thoughts on it
 
 - [Privacy vs "I have nothing to hide"](https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/)
 
+- [Modern Cars are a privacy nightmare](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
+
 ## Privacy Resources
 
 - [Privacy Tools List](https://www.privacytools.io/undefined)
