@@ -4,6 +4,8 @@
 
 - [Alan Becker](https://www.youtube.com/@alanbecker/videos) : One of the oldest animation channels around, Alan's stickman can never seem to get old. He puts them through various new situations, each building upon the last and creating a "stickman universe". Sometimes I get a nostalgia hit and look through his videos to get that sense of exploration. 
 
+- [Andrei Terbea](https://www.youtube.com/@andrei/videos) : Andrei can be summarized as a commentary channel assisted by animated visuals. Sure his content may not be for everyone, but it does tackle some serious topics and keeps you invested with the handwritten-like animation. A good channel to keep up to date on certain social media movements or emerging social changes. 
+
 ## Commentary 
 
 - [apandah]
@@ -28,6 +30,6 @@
 
 ## Unhinged Science/Tech
 
-- [Allen Pan]
+- [Allen Pan](https://www.youtube.com/@allenpan/videos) : Allen Pan's ideas are some of the craziest I've seen on YouTube, but they never fail to disappoint. My favorite videos are the ones where he tries to tackle failed Kickstarter projects or childhood "dream" technology. This includes classics such as "Redeeming a Failed Kickstarter project" or "Making shoes to jump 200% higher". No matter the crazy idea or risk, Allen is there to test it and I can respect that.  
 
 ## Programming
