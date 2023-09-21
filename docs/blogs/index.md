@@ -18,6 +18,8 @@
 
 - [RSS-like Feed of Blogs](https://boredreading.com/) [Hacker News](https://news.ycombinator.com/item?id=37403534)
 
+- [I Hate Jira](https://ifuckinghatejira.com/1/)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)

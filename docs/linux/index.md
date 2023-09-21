@@ -16,6 +16,8 @@ TODO: Small blurb on linux
 
 ## Links
 
+- [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process) [Hacker News](https://news.ycombinator.com/item?id=37521240)
+
 - [The Linux Desktop Deep Dive](https://dev.to/l04db4l4nc3r/the-linux-desktop-deep-dive-1jh3)
 
 - [How to Automate Your Linux Desktop](https://hackernoon.com/how-to-automate-your-linux-desktop)

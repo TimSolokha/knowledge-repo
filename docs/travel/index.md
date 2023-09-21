@@ -1,5 +1,9 @@
 # Travel
 
+## Destinations
+
+- [Slanic Salt Mine](https://paliparan.com/2023/04/11/slanic-salt-mine/)
+
 ## Links
 
 - [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/)

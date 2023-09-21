@@ -63,3 +63,5 @@
 - [GameDev Resource Thread on Reddit](https://www.reddit.com/r/gamedev/comments/wnokm4/ive_spent_5_years_curating_a_gamedev_resource/?utm_medium=android_app&utm_source=share)
 
 - [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
+
+- [A guy preserving the new history o fPC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/) [Hacker News](https://news.ycombinator.com/item?id=37443316)

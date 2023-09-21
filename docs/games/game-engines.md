@@ -34,6 +34,8 @@ Playing games has always been a favorite of mine, but I didn't start wanting to 
 
 - [More Game Engines](https://github.com/Gforcex/OpenGraphic){target=_blank}
 
+- [CUSTOM GAME ENGINES: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74?s=35)
+
 ## Godot Specific Resources
 
 - [Awesome Godot](https://github.com/godotengine/awesome-godot)
