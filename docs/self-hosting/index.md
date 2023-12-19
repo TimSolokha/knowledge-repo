@@ -10,6 +10,8 @@ TODO: Explanation paragraph
 
 - [Yunohost](https://yunohost.org/#/)
 
+- [Nerdy Articles Homelab](https://nerdyarticles.com/my-homelab-a-general-overview/)
+
 ## Media
 
 - [Jellyfin](https://jellyfin.org/)
@@ -19,6 +21,10 @@ TODO: Explanation paragraph
 - [Plex](https://www.plex.tv/)
 
 - [Jellyfin Remote Access with Tailscale](https://www.ethanmad.com/post/jellyfin_remote_access/)
+
+## Documentation
+
+- [Paperless NGX: Open Source document management system](https://github.com/paperless-ngx/paperless-ngx) [Hacker News 📰](https://news.ycombinator.com/item?id=37800951)
 
 ## Links
 
@@ -33,6 +39,8 @@ TODO: Explanation paragraph
 - [Self hosting in 2023](https://grifel.dev/decentralization/)
 
 - [Show HN: Homelab Monitoring Setup with Grafana](https://news.ycombinator.com/item?id=36225239)
+
+- [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/) [Hacker News 📰](https://news.ycombinator.com/item?id=37819114)
 
 ## Homepages
 

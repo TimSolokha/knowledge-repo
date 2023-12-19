@@ -76,6 +76,8 @@
 
 - [Rose Pine](https://github.com/rose-pine/rose-pine-theme)
 
+- [Flexoki](https://stephango.com/flexoki)
+
 ## Window Managers, Compositors, Widgets
 
 - [Hyprland: Dynamic tiling Wayland compositor](https://github.com/hyprwm/Hyprland)

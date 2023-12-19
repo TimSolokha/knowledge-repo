@@ -109,3 +109,7 @@
 - [Finish your projects](https://news.ycombinator.com/item?id=36313671)
 
 - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
+
+## Game Development
+
+- [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)

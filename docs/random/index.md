@@ -45,3 +45,7 @@
 - [Animated Knots](https://www.animatedknots.com/)
 
 - [Life-Dashboard](https://github.com/davidhampgonsalves/life-dashboard) [Hacker News](https://news.ycombinator.com/item?id=37642671)
+
+- [Show HN: Use an old tablet as an extra monitor](https://news.ycombinator.com/item?id=37789371)
+
+- [Lensm: A tool for viewing disassembly](https://www.storj.io/blog/lensm) [Hacker News 📰](https://news.ycombinator.com/item?id=37822284)

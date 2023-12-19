@@ -30,6 +30,8 @@ TODO: Small blurb on linux
 
 - [Linux Network Performance Parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 
+- [How fast are LInux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37782493)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

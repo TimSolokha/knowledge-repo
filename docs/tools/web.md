@@ -8,6 +8,8 @@
 
 ## Browsers
 
+- [Floorp: A customizable Firefox fork from Japan](https://floorp.app/en/) [Hacker News](https://news.ycombinator.com/item?id=37734759)
+
 ## CI/CD
 
 - [GitHub Actions](https://github.com/features/actions)
@@ -71,3 +73,5 @@
 ## Links
 
 - [PocketBase Walkthrough via DigitalOcean](https://docs.digitalocean.com/products/marketplace/catalog/pocketbase/)
+
+- [Extism tool makes WebAssembly easy](https://dylibso.com/blog/why-extism/) [Hacker News](https://news.ycombinator.com/item?id=37751270)
