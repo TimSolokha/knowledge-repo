@@ -43,3 +43,5 @@
 - [Stem Formulas](https://stemformulas.com/formulas/)
 
 - [Animated Knots](https://www.animatedknots.com/)
+
+- [Life-Dashboard](https://github.com/davidhampgonsalves/life-dashboard) [Hacker News](https://news.ycombinator.com/item?id=37642671)

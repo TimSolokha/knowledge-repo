@@ -20,6 +20,8 @@
 
 - [I Hate Jira](https://ifuckinghatejira.com/1/)
 
+- [It's okay to Make Something Nobody Wants](https://zhangluyao.com/blog/make-something-nobody-wants/) [Hacker News](https://news.ycombinator.com/item?id=37596513)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -95,6 +97,8 @@
 ## Productivity
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
+
+- [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 
 - [A dev's thoughts on developer productivity](https://about.sourcegraph.com/blog/developer-productivity-thoughts)
 

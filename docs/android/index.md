@@ -28,3 +28,7 @@ Sure, the ecosystem isn't as succinct as Apple's, but the innovation is pouring 
 - [Nova Launcher](https://novalauncher.com/)
 - [Microsoft Launcher](https://en.wikipedia.org/wiki/Microsoft_Launcher)
 - [Smart Launcher](https://www.smartlauncher.net/)
+
+## Features
+
+- [Android smartphone can be used as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam) [Hacker News](https://news.ycombinator.com/item?id=37603467)

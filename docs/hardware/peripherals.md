@@ -87,3 +87,7 @@ TODO: Use emojis to create ways to decipher between resources
 ## Accessories 
 
 - [Zap Cables](https://www.zapcables.com/)
+
+## Blog Posts and Video on Peripherals
+
+- [My unhealthy relationship with keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html) [Hacker News](https://news.ycombinator.com/item?id=37658208)
