@@ -36,9 +36,9 @@
 
 - [The 90s Developer Starter Pack](https://news.ycombinator.com/item?id=36658941)
 
-## Software Development
+- [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/) [Hacker News 📰](https://news.ycombinator.com/item?id=37979930)
 
-- [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/) [Hacker News 📰](https://news.ycombinator.com/item?id=37997423)
+## Software Development
 
 - [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/) [Hacker News 📰](https://news.ycombinator.com/item?id=37911900)
 
@@ -78,7 +78,11 @@
 
 - [We have used too many levels of abstractions...](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37965142)
 
+- [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/) [Hacker News 📰](https://news.ycombinator.com/item?id=38069710)
+
 ## Life
+
+- [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/) [Hacker News 📰](https://news.ycombinator.com/item?id=38046396)
 
 - [10 Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life)
 
@@ -123,5 +127,7 @@
 ## Game Development
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
+
+- [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/) [Hacker News 📰](https://news.ycombinator.com/item?id=37997423)
 
 - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)

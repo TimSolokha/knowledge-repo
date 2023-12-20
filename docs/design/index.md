@@ -50,6 +50,8 @@
 
 ## Links
 
+- [Why Your Web Design Sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/) [Hacker News 📰](https://news.ycombinator.com/item?id=38034023)
+
 - [A beginner's guide to applying color in UI design](https://dev.to/georgedoescode/a-beginner-s-guide-to-applying-color-in-ui-design-3904)
 
 - [Lipstick on a Pig: learning the most important lesson in design](https://ar.al/2022/08/17/lipstick-on-a-pig/)

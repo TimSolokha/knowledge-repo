@@ -6,6 +6,8 @@
 
 - [Game design wiki](https://news.ycombinator.com/item?id=36725406)
 
+- [Blog Dedicated to Text-Based Gaming](https://writing-games.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=37995718)
+
 ## UI/UX
 
 - [The UX of video game tutorials](https://uxdesign.cc/the-ux-of-video-game-tutorials-7e7bc37e2ceb)

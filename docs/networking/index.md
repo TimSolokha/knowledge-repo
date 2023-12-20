@@ -11,3 +11,5 @@
 - [Some Must-Know System Design Concepts](https://twitter.com/bibryam/status/1713505316749402228?t=j-DcMfkzzpJoALOPRRQGmw)
 
 - [Blocklist of Certain Domains](https://oisd.nl/)
+
+- [Ask HN: How to improve terrible home WiFi?](https://news.ycombinator.com/item?id=37688125)
