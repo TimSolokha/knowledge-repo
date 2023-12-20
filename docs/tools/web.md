@@ -64,6 +64,8 @@
 
 - [My journey away from the JAMstack](https://news.ycombinator.com/item?id=36944545)
 
+- [State Sync in the Web](https://reflect.net/) [Hacker News 📰](https://news.ycombinator.com/item?id=37931373)
+
 ## Fixes
 
 - [How to disable "Reset Firefox..." button pop-up at Firefox browser startup](https://superuser.com/questions/1056617/how-to-disable-reset-firefox-button-pop-up-at-firefox-browser-startup)

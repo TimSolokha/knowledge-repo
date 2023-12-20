@@ -1,10 +1,14 @@
 # Side Projects
 
+## Lists & Search Engines
+
 ## Interesting Projects
 
 - [Building a 'Now Playing' Display](https://taoofmac.com/space/blog/2021/12/01/1920)
 
 - [Cyberdeck](https://github.com/g1sbi/qaz-cyberdeck)
+
+- [Build your own BitTorrent](https://blog.jse.li/posts/torrent/) [Hacker News 📰](https://news.ycombinator.com/item?id=37941075)
 
 ## Links
 

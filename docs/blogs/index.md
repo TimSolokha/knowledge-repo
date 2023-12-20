@@ -38,6 +38,10 @@
 
 ## Software Development
 
+- [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/) [Hacker News 📰](https://news.ycombinator.com/item?id=37997423)
+
+- [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/) [Hacker News 📰](https://news.ycombinator.com/item?id=37911900)
+
 - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 
 - [Identity Crisis - A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
@@ -72,6 +76,8 @@
 
 - [Just Say No (Jeff Geerling)](https://www.jeffgeerling.com/blog/2022/just-say-no)
 
+- [We have used too many levels of abstractions...](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37965142)
+
 ## Life
 
 - [10 Years of Logging My Life](https://chaidarun.com/ten-years-of-logging-my-life)
@@ -94,6 +100,8 @@
 
 - [The PARA Method: A Simple System for Organizing your Digital Life](https://fortelabs.com/blog/para/)
 
+- [Unauthoritative Pronouncements](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37949899)
+
 ## Productivity
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
@@ -110,6 +118,10 @@
 
 - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 
+- [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars) [Hacker News 📰](https://news.ycombinator.com/item?id=37946203)
+
 ## Game Development
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
+
+- [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)

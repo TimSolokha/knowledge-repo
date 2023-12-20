@@ -15,3 +15,7 @@
 - [Enable XMP profile when buying RAM with higher clock speeds](https://www.reddit.com/r/buildapc/comments/kelbm8/friendly_reminder_to_enable_xmp_profile_when/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
 - [virt-manager guest resize not workin FIX](https://stackoverflow.com/questions/41990600/virt-manager-guest-resize-not-working)
+
+- [How to Make Firefox Faster](https://gist.github.com/RubenKelevra/fd66c2f856d703260ecdf0379c4f59db)
+
+- [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack) [Hacker News 📰](https://news.ycombinator.com/item?id=37952719)

@@ -10,6 +10,8 @@
 
 - [Build your own Firefox theme](https://color.firefox.com/)
 
+- [A Clean Firefox Config](https://www.reddit.com/r/unixporn/comments/17cr508/oc_my_firefox_config/?share_id=n-T9fLVEiAuoChEO_WYNA&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 - [Customizable New Tab page](https://tabliss.io/)
 
 - [Nightly: A minimal start page](https://www.reddit.com/r/unixporn/comments/t21uqc/oc_nightly_a_minimal_start_page_for_the_web/?utm_medium=android_app&utm_source=share)
@@ -35,6 +37,8 @@
 - [ARCH ONLY rice repo](https://github.com/gh0stzk/dotfiles)
 
 - [ARCH-BASED ONLY Yoru | Aesthetic and Beautiful Awesome Environment](https://github.com/rxyhn/yoru)
+
+- [AwesomeWM Rice Inspired by Gnome](https://www.reddit.com/r/unixporn/comments/174k879/awesomewm_awesome_is_awesome/?share_id=0zYqePAhNanHhZVY4eZrx&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 ## Wallpapers
 

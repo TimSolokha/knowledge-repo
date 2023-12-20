@@ -22,6 +22,8 @@
 
 - [NerdFonts: Iconic Font Collection](https://github.com/ryanoasis/nerd-fonts)
 
+- [Geist](https://vercel.com/font/sans)
+
 ## Links
 
 - [List of Fonts for Coding](https://github.com/Gaafar/dev-fonts)

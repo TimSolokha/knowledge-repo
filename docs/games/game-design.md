@@ -29,3 +29,7 @@
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) : Open source pixel art editor made with Godot
 
 - [Pixel Composer](https://makham.itch.io/pixel-composer?s=35) : Paid tool that makes it easier to create pixel art animations
+
+## Visuals
+
+- [Cocoon Visuals Thread](https://twitter.com/JgDoesThings/status/1716518216686584226?t=e05T-mBeD1yLfGZVCiuC0Q)

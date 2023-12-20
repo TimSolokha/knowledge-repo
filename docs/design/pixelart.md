@@ -1,5 +1,9 @@
 # Pixel Art
 
+## Tools & Fun
+
+- [World of Pixels](https://ourworldofpixels.com/)
+
 ## Inspiration
 
 - [kirokaze](https://www.deviantart.com/kirokaze)
@@ -23,3 +27,9 @@
 - [Rock in Water Tutorial](https://twitter.com/Franrekk/status/1607541732530622464?t=wlqEr9VS8C2CnYcpo2FJtA&s=35)
 
 - [Making Shiny Pickups!](https://twitter.com/rayslynyrd/status/1650505332777533444?t=ZkwVWXuB35OdCl0eV91iSg&s=35)
+
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+
+- [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/) [Hacker News 📰](https://news.ycombinator.com/item?id=37832432)
+
+- [Making CRDTs 98% More Efficient](https://jakelazaroff.com/words/making-crdts-98-percent-more-efficient/) [Hacker News 📰](https://news.ycombinator.com/item?id=37915934)

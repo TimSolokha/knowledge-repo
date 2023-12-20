@@ -1,5 +1,13 @@
 # Open Source
 
+## Platforms
+
+## Contributing
+
+- [First Timers Only](https://www.firsttimersonly.com/)
+
+- [CodeTriage](https://www.codetriage.com/)
+
 ## Fediverse
 
 - [FediDB](https://fedidb.org/)
@@ -12,9 +20,11 @@
 
 - [OSS Insight](https://ossinsight.io/?s=09)
 
-## Niche Projects
+## Projects
 
 - [ntfy](https://github.com/binwiederhier/ntfy) : A simple HTTP-based pub-sub notification service.
+
+- [Localsend](https://github.com/localsend/localsend) 
 
 ## Links
 

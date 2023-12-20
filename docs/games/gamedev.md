@@ -6,6 +6,8 @@
 
 - [Finishing a Game](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 
+- [Slay the Spire Team Evaluating Godot](https://caseyyano.com/on-evaluating-godot-b35ea86e8cf4)
+
 ## Game Studios
 
 - [Bungie](https://www.bungie.net/7)

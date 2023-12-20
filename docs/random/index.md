@@ -49,3 +49,13 @@
 - [Show HN: Use an old tablet as an extra monitor](https://news.ycombinator.com/item?id=37789371)
 
 - [Lensm: A tool for viewing disassembly](https://www.storj.io/blog/lensm) [Hacker News 📰](https://news.ycombinator.com/item?id=37822284)
+
+-[Traffic Map of Japan](https://minitokyo3d.com/)
+
+- [Show HN: Building a 42-inch E-Ink frame for generative art](https://news.ycombinator.com/item?id=37835995)
+
+- [Ishkur's Guide to Electronic Music](https://news.ycombinator.com/item?id=37919241)
+
+- [Psytrance Guide](https://psytranceguide.com/)
+
+- [Thermal Printer That Prints Doodles From The Internet](https://guestbook.goodenough.us/) [Hacker News 📰](https://news.ycombinator.com/item?id=37941234)

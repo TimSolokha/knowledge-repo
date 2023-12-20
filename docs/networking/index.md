@@ -7,3 +7,7 @@
 - [Why is DNS still hard to learn?](https://news.ycombinator.com/item?id=36909427)
 
 - [How DNS works](https://twitter.com/hackinarticles/status/1709644990366859394?t=u7DEcYFD-VpzyaQ2jqNIOg)
+
+- [Some Must-Know System Design Concepts](https://twitter.com/bibryam/status/1713505316749402228?t=j-DcMfkzzpJoALOPRRQGmw)
+
+- [Blocklist of Certain Domains](https://oisd.nl/)
