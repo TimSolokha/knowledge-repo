@@ -22,6 +22,10 @@
 
 - [It's okay to Make Something Nobody Wants](https://zhangluyao.com/blog/make-something-nobody-wants/) [Hacker News](https://news.ycombinator.com/item?id=37596513)
 
+- [Compressing Codebase Collocates](https://taylor.town/code-collocates) [Hacker News 📰](https://news.ycombinator.com/item?id=38249616) I also like the way this site looks...
+
+- [Daily Driving FreeBSD](http://www.lilysthings.org/blog/daily-driving-freebsd/) [Hacker News 📰](https://news.ycombinator.com/item?id=38270473) I like the way this site looks as well...
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -39,6 +43,10 @@
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/) [Hacker News 📰](https://news.ycombinator.com/item?id=37979930)
 
 ## Software Development
+
+- [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects) [Hacker News 📰](https://news.ycombinator.com/item?id=38239358)
+
+- [10 hard-to-swallow truths they won't tell you about software engineering jobs](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) [Hacker News 📰](https://news.ycombinator.com/item?id=38188689)
 
 - [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/) [Hacker News 📰](https://news.ycombinator.com/item?id=37911900)
 

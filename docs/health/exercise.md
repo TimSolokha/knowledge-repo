@@ -4,6 +4,8 @@
 
 - [The Fitness Wiki](https://thefitness.wiki/)
 
+- [Randumb Fitness](https://www.randumbfitness.com/) [Youtube Channel](https://www.youtube.com/channel/UCdTpg5EtOBtCbNDu5opXThQ)
+
 ## Stretching
 
 - [Show HN: A 15 min daily stretch routine for desk workers](https://news.ycombinator.com/item?id=35639810)

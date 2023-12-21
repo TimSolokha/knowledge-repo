@@ -59,3 +59,7 @@
 - [Psytrance Guide](https://psytranceguide.com/)
 
 - [Thermal Printer That Prints Doodles From The Internet](https://guestbook.goodenough.us/) [Hacker News 📰](https://news.ycombinator.com/item?id=37941234)
+
+- [How the Steam Deck OLED ad was made :O](https://idlethumbs.social/@ja2ke/111396017651485944) [Hacker News 📰](https://news.ycombinator.com/item?id=38240861)
+
+- [What to Buy INSTEAD of Diamonds](https://diamondssuck.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=38247300)

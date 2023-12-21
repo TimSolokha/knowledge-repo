@@ -94,6 +94,8 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 
 - [Noclip: A digital museum of video game levels](https://news.ycombinator.com/item?id=37043934)
 
+- [Jackbox Style Game vs AI](https://news.ycombinator.com/item?id=38318889)
+
 ## Modding
 
 - [Trombone Champ Modding](https://trombone.wiki/#/)

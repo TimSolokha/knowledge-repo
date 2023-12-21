@@ -8,6 +8,8 @@
 
 - [Spline: 3D Web-based editor](https://spline.design/)
 
+- [Womp: Easy to use online 3D Modeling Program](https://womp.com/?s=35)
+
 ## Graphics
 
 - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
@@ -23,3 +25,9 @@
 - [Objects that "passes" through a card](https://twitter.com/0xca0a/status/1670064466963181569?t=CkUGPfOibtKL2ljwJ2YzWA&s=35)
 
 - [Showreels](https://www.showreelz.com/?s=35)
+
+## Tutorials
+
+- [Rendering References GitHub](https://github.com/Angelo1211/SoftwareRenderer/wiki/Rendering-References)
+
+- [Textures for VFX](https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc)

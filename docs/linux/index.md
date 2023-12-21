@@ -43,3 +43,7 @@ TODO: Small blurb on linux
 - [Improving Performance in Linux](https://linux-gaming.kwindu.eu/index.php?title=Improving_performance)
 
 - [Linux for Devices](https://www.linuxfordevices.com/)
+
+- [Using NixOS in Practice](https://www.slice.zone/blog/nix-in-practice) [Hacker News 📰](https://news.ycombinator.com/item?id=38237696)
+
+- [How a Kernel Developer Made a Stylus Work Again](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again) [Hacker News 📰](https://news.ycombinator.com/item?id=38245198)
