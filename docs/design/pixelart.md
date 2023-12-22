@@ -14,6 +14,8 @@
 
 ## Resources
 
+- [Great Resource for Pixel Art Tutorials](http://saint11.org/blog/pixel-art-tutorials/)
+
 - [Lospec](https://lospec.com/dailies/)
 
 - [Pixel Art: Common Mistakes](https://derekyu.com/makegames/pixelart2.html)

@@ -47,3 +47,5 @@ TODO: Small blurb on linux
 - [Using NixOS in Practice](https://www.slice.zone/blog/nix-in-practice) [Hacker News 📰](https://news.ycombinator.com/item?id=38237696)
 
 - [How a Kernel Developer Made a Stylus Work Again](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again) [Hacker News 📰](https://news.ycombinator.com/item?id=38245198)
+
+- [Make Apps for Linux](https://makealinux.app/#/) [Hacker News 📰](https://news.ycombinator.com/item?id=38583399)

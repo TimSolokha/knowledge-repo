@@ -4,6 +4,10 @@
 
 ## My Favorite Blogs
 
+- [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/) [Hacker News 📰](https://news.ycombinator.com/item?id=38706697)
+
+- [Writing Documentation for Your House](https://luke.hsiao.dev/blog/housing-documentation/) [Hacker News 📰](https://news.ycombinator.com/item?id=38444577)
+
 - [Bartosz Ciechanowski](https://ciechanow.ski/) : Great visuals and deep dives into various topics
 
 - [My Business Card Runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) : Wacky side project that looks super cool
@@ -32,6 +36,8 @@
 
 ## Software Tooling
 
+- [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools) [Hacker News 📰](https://news.ycombinator.com/item?id=38455505)
+
 - [Learn AutoHotKey by stealing my scripts](https://news.ycombinator.com/item?id=37218263)
 
 - [Codespaces but open-source, client-only and unopinionated](https://news.ycombinator.com/item?id=36407477)
@@ -42,7 +48,11 @@
 
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/) [Hacker News 📰](https://news.ycombinator.com/item?id=37979930)
 
+- [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
+
 ## Software Development
+
+- [Coding is actually hard](https://duttakapil.com/posts/coding-is-hard) [Hacker News 📰](https://news.ycombinator.com/item?id=38322573)
 
 - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects) [Hacker News 📰](https://news.ycombinator.com/item?id=38239358)
 
@@ -114,6 +124,12 @@
 
 - [Unauthoritative Pronouncements](https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37949899)
 
+- [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/) [Hacker News 📰](https://news.ycombinator.com/item?id=38312649)
+
+- [My Toddler Loves Planes, So I Built Her a Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built) [Hacker News 📰](https://news.ycombinator.com/item?id=38435908)
+
+- [I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/) [Hacker News 📰](https://news.ycombinator.com/item?id=38657126)
+
 ## Productivity
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
@@ -132,6 +148,8 @@
 
 - [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars) [Hacker News 📰](https://news.ycombinator.com/item?id=37946203)
 
+- [How I make OKRs more playful for my team using Hill-Charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/) [Hacker News 📰](https://news.ycombinator.com/item?id=38617346)
+
 ## Game Development
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
@@ -139,3 +157,9 @@
 - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/) [Hacker News 📰](https://news.ycombinator.com/item?id=37997423)
 
 - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)
+
+## Miscellaneous Tech Topics
+
+- [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill) [Hacker News 📰](https://news.ycombinator.com/item?id=38579899)
+
+- [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult) [Hacker News 📰](https://news.ycombinator.com/item?id=38627674)

@@ -4,6 +4,8 @@
 
 - [My inspiration for this site](https://wiki.nikiv.dev/)
 
+- [Get started with technical writing](https://opensource.net/get-started-with-technical-writing/) [Hacker News 📰](https://news.ycombinator.com/item?id=38425907)
+
 ## Links
 
 - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)

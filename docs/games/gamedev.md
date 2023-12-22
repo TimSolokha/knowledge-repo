@@ -8,6 +8,8 @@
 
 - [Slay the Spire Team Evaluating Godot](https://caseyyano.com/on-evaluating-godot-b35ea86e8cf4)
 
+- [Interesting Desktop Game Idea](https://twitter.com/MrMorrisGames/status/1729174090530111943?t=O85S1l7d5-kEjVmUiuSQeA)
+
 ## Game Studios
 
 - [Bungie](https://www.bungie.net/7)

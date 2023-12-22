@@ -60,6 +60,8 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 - [PCSX2](https://pcsx2.net/) : Playstation 2 Emulator
 
+- [Game Boy Development Community](https://gbdev.io/) [Hacker News 📰](https://news.ycombinator.com/item?id=38391403)
+
 ## Game Streaming & Platforms
 
 - [Moonlight](https://moonlight-stream.org/)

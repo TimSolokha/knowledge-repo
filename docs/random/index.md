@@ -2,6 +2,8 @@
 
 ## Links
 
+- [Brother Printers and Not Innovating](https://retro.social/@ifixcoinops/111480744130939877) [Hacker News 📰](https://news.ycombinator.com/item?id=38429291)
+
 - [Reddit AMA with SpaceX software team](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/?utm_medium=android_app&utm_source=share)
 
 - [A Guide to Common Clothing Color Combinations](https://www.reddit.com/r/coolguides/comments/l4fpke/a_guide_to_common_clothing_color_combinations/?utm_medium=android_app&utm_source=share)
@@ -63,3 +65,5 @@
 - [How the Steam Deck OLED ad was made :O](https://idlethumbs.social/@ja2ke/111396017651485944) [Hacker News 📰](https://news.ycombinator.com/item?id=38240861)
 
 - [What to Buy INSTEAD of Diamonds](https://diamondssuck.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=38247300)
+
+- [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071) [Hacker News 📰](https://news.ycombinator.com/item?id=38475926)

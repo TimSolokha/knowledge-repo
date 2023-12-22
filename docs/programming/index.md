@@ -6,6 +6,8 @@ TODO: Short blurb on programming
 
 - [Set Up Pathfinding Correctly](https://pathfinding-visualizer-nu.vercel.app/)
 
+- [Find Hard to Track Information on Various Tech Products](https://endoflife.date/) [Hacker News 📰](https://news.ycombinator.com/item?id=38589742)
+
 ## Inspiration
 
 - [A game-like programming portfolio using Pixi.js](https://dev.to/endigo9740/my-new-portfolio-3ke6)

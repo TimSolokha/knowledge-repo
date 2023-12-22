@@ -52,6 +52,8 @@
 
 - [Why Your Web Design Sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/) [Hacker News 📰](https://news.ycombinator.com/item?id=38034023)
 
+- [Why Do Everyone's Logo Fonts Look the Same?](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/) [Hacker News 📰](https://news.ycombinator.com/item?id=38497963)
+
 - [A beginner's guide to applying color in UI design](https://dev.to/georgedoescode/a-beginner-s-guide-to-applying-color-in-ui-design-3904)
 
 - [Lipstick on a Pig: learning the most important lesson in design](https://ar.al/2022/08/17/lipstick-on-a-pig/)
@@ -61,3 +63,5 @@
 - [How to draw ideas](https://ralphammer.com/how-to-draw-ideas/)
 
 - [Design Rules](https://anthonyhobday.com/sideprojects/saferules/)
+
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) [Hacker News 📰](https://news.ycombinator.com/item?id=38482486)
