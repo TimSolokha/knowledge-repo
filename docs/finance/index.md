@@ -12,6 +12,8 @@ This section lists out some advice and resources around financing. Keep in mind 
 
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page)
 
+- [GitHub README on Building a Stock Portfolio](https://github.com/investindex/Portfolio)
+
 ## Pro Tips
 
 - [LPT: Convert your tax-deferred 401k/IRA/TSP to tax-free Roth before 2026](https://www.reddit.com/r/LifeProTips/comments/178i6xz/lpt_convert_your_taxdeferred_401kiratsp_to/?share_id=sRxJIu7m3hN-dWY7hpFpo&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)

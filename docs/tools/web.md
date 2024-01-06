@@ -6,6 +6,10 @@
 
 - [Pocketbase: Open Source Backend in 1 file](https://pocketbase.io/)
 
+## Blogging
+
+- [Blot: Turns a Folder into a Blog](https://github.com/davidmerfield/blot) [Hacker News 📰](https://news.ycombinator.com/item?id=38809145)
+
 ## Browsers
 
 - [Floorp: A customizable Firefox fork from Japan](https://floorp.app/en/) [Hacker News](https://news.ycombinator.com/item?id=37734759)
@@ -76,4 +80,6 @@
 
 - [PocketBase Walkthrough via DigitalOcean](https://docs.digitalocean.com/products/marketplace/catalog/pocketbase/)
 
-- [Extism tool makes WebAssembly easy](https://dylibso.com/blog/why-extism/) [Hacker News](https://news.ycombinator.com/item?id=37751270)
+- [Extism tool makes WebAssembly easy](https://dylibso.com/blog/why-extism/) [Hacker News 📰](https://news.ycombinator.com/item?id=37751270)
+
+- [Creating Old-School Web Tech Once Again](https://rednafi.com/go/reminiscing_cgi_scripts/)

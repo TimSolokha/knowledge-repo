@@ -17,3 +17,5 @@
 - [Ask HN: Side project of more than $2k monthly revenue? What's your project?](https://news.ycombinator.com/item?id=35567822)
 
 - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
+
+- [Switching Keyboard/Mouse Input Between 2 Computers](https://github.com/hrvach/deskhop) [Hacker News 📰](https://news.ycombinator.com/item?id=38780519)

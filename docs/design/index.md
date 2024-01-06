@@ -50,6 +50,8 @@
 
 ## Links
 
+- [What I've learned about flow fields so far.](https://damoonrashidi.me/articles/flow-field-methods) [Hacker News 📰](https://news.ycombinator.com/item?id=38839506)
+
 - [Why Your Web Design Sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/) [Hacker News 📰](https://news.ycombinator.com/item?id=38034023)
 
 - [Why Do Everyone's Logo Fonts Look the Same?](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/) [Hacker News 📰](https://news.ycombinator.com/item?id=38497963)

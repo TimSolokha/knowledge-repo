@@ -4,6 +4,8 @@
 
 ## My Favorite Blogs
 
+- [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
+
 - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/) [Hacker News 📰](https://news.ycombinator.com/item?id=38706697)
 
 - [Writing Documentation for Your House](https://luke.hsiao.dev/blog/housing-documentation/) [Hacker News 📰](https://news.ycombinator.com/item?id=38444577)
@@ -34,7 +36,14 @@
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
 
+
+## Design
+
+- [Gorilla Sun Articles](https://www.gorillasun.de/articles/)
+
 ## Software Tooling
+
+- [Articles on Go/Golang and web development](https://www.willem.dev/articles/)
 
 - [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools) [Hacker News 📰](https://news.ycombinator.com/item?id=38455505)
 
@@ -51,6 +60,10 @@
 - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
 
 ## Software Development
+
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) [Hacker News 📰](https://news.ycombinator.com/item?id=38768678)
+
+- [The Web is Yours](https://jamesg.blog/2024/01/06/the-web-is-yours/)
 
 - [Coding is actually hard](https://duttakapil.com/posts/coding-is-hard) [Hacker News 📰](https://news.ycombinator.com/item?id=38322573)
 
@@ -99,6 +112,8 @@
 - [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/) [Hacker News 📰](https://news.ycombinator.com/item?id=38069710)
 
 ## Life
+
+- [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext) [Hacker News 📰](https://news.ycombinator.com/item?id=38777647)
 
 - [Staring at a Wall: Embracing Deliberate Boredom](https://www.ch3ngl0rd.com/staring-at-a-wall/) [Hacker News 📰](https://news.ycombinator.com/item?id=38046396)
 
@@ -157,6 +172,10 @@
 - [Good times create weak men](https://tonsky.me/blog/good-times-weak-men/) [Hacker News 📰](https://news.ycombinator.com/item?id=37997423)
 
 - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)
+
+## Self-Host & Explroing Tech
+
+- [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
 
 ## Miscellaneous Tech Topics
 
