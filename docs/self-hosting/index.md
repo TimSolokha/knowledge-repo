@@ -6,6 +6,8 @@ TODO: Explanation paragraph
 
 ## Resources
 
+- [TRaSH-Guides](https://trash-guides.info/)
+
 - [Noted: Self-hosting solutions](https://noted.lol/)
 
 - [Yunohost](https://yunohost.org/#/)

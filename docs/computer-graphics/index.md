@@ -12,6 +12,12 @@
 
 ## Graphics
 
+- [4 Methods of Making a Cel-Shader in Blender](https://medium.com/@josephclaytonhansen/four-different-methods-for-making-cel-shaders-in-blender-eevee-2-8-2-9-6d976ce2555d)
+
+- [The Book of Shaders](https://thebookofshaders.com/)
+
+- [A Gentle Introduction to Computer Graphics](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started/gentle-introduction-to-computer-graphics-programming.html)
+
 - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 
 - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders) [Hacker News 📰](https://news.ycombinator.com/item?id=38032288)

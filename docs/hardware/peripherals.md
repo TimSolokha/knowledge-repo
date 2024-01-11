@@ -34,6 +34,12 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [Keyboards Supported by VIA](https://github.com/the-via/keyboards)
 
+- [Colemak Layout](https://colemak.com/)
+
+- [Dvorak Layout](https://dvorak-keyboard.com/)
+
+- [Workman Layout](https://workmanlayout.org/)
+
 ### Keycaps
 
 - [NovelKeys](https://novelkeys.com/)

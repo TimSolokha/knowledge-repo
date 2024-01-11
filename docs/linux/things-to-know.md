@@ -19,3 +19,5 @@
 - [How to Make Firefox Faster](https://gist.github.com/RubenKelevra/fd66c2f856d703260ecdf0379c4f59db)
 
 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack) [Hacker News 📰](https://news.ycombinator.com/item?id=37952719)
+
+- [Getting Videos to Work Properly in Fedora](https://leochavez.org/index.php/2020/10/12/fedora-firefox-and-h264/)

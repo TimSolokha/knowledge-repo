@@ -84,6 +84,14 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 TWITTER ACCOUNTS AND DISCORD GO HERE
 
+## Where to Keep Track of Your Backlog
+
+- [Infinite Backlog](https://infinitebacklog.net/)
+
+- [GGapp](https://ggapp.io/)
+
+- [Backloggd](https://www.backloggd.com/)
+
 ## Online Games
 
 - [figure.game](https://figure.game/)
@@ -103,3 +111,7 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [Trombone Champ Modding](https://trombone.wiki/#/)
 
 - [3DS Hack Guide](https://3ds.hacks.guide/)
+
+- [The 15 best Minecraft Shaders](https://www.pcgamesn.com/minecraft/minecraft-shaders-best-graphics-mods)
+
+- [Lunar Client](https://www.lunarclient.com/)

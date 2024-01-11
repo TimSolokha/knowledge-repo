@@ -2,7 +2,27 @@
 
 ## Experience
 
+## Bloggers
+
+- [Tom Critchlow](https://tomcritchlow.com/)
+
+- [Shawn Wang](https://www.swyx.io/)
+
+- [Simon Willison](https://simonwillison.net/)
+
+- [Eugene Yun](https://eugeneyan.com/)
+
+- [Andy Matuschak](https://andymatuschak.org/)
+
+- [Gwern Branwen](https://gwern.net/)
+
+- [Azlen Elza's Notes](https://notes.azlen.me/g3tibyfv/)
+
+- [Buster's "Pile" of Notes](https://busterbenson.com/piles)
+
 ## My Favorite Blogs
+
+- [The fresh start effect](https://lars.yencken.org/fresh-start-effect) [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
 
 - [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
 
@@ -43,6 +63,8 @@
 
 ## Software Tooling
 
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages#:~:text=We%20partition%20our%20messages%20by,ve%20set%20the%20replication%20factor)
+
 - [Articles on Go/Golang and web development](https://www.willem.dev/articles/)
 
 - [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools) [Hacker News 📰](https://news.ycombinator.com/item?id=38455505)
@@ -60,6 +82,10 @@
 - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
 
 ## Software Development
+
+- [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html) [Hacker News 📰](https://news.ycombinator.com/item?id=38924310)
+
+- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) [Hacker News 📰](https://news.ycombinator.com/item?id=38877423)
 
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) [Hacker News 📰](https://news.ycombinator.com/item?id=38768678)
 
@@ -111,7 +137,15 @@
 
 - [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/) [Hacker News 📰](https://news.ycombinator.com/item?id=38069710)
 
+- [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/) [Hacker News 📰](https://news.ycombinator.com/item?id=38933999)
+
 ## Life
+
+- [I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project) [Hacker News 📰](https://news.ycombinator.com/item?id=38935205)
+
+- [2024: one pull up](https://winnielim.org/journal/2024-one-pull-up/)
+
+- [Programming Your Hands](https://blog.codinghorror.com/programming-your-hands/)
 
 - [10 Things Software Developers Should Learn about Learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext) [Hacker News 📰](https://news.ycombinator.com/item?id=38777647)
 
@@ -145,6 +179,8 @@
 
 - [I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/) [Hacker News 📰](https://news.ycombinator.com/item?id=38657126)
 
+- [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/) [Hacker News 📰](https://news.ycombinator.com/item?id=38886030)
+
 ## Productivity
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
@@ -166,6 +202,8 @@
 - [How I make OKRs more playful for my team using Hill-Charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/) [Hacker News 📰](https://news.ycombinator.com/item?id=38617346)
 
 ## Game Development
+
+- [Develop Games](https://www.develop.games/)
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
 
