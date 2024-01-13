@@ -22,7 +22,7 @@
 
 ## My Favorite Blogs
 
-- [The fresh start effect](https://lars.yencken.org/fresh-start-effect) [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
+- [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
 
 - [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
 
