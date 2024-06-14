@@ -16,7 +16,13 @@
 
 - [Cool layout of a site](https://viewports.fyi/)
 
+- [Clean Color Palette](https://x.com/bartek_marzec/status/1766899026111139969?t=_y3woORi9h7AjhW1CKkrvg)
+
 ## Resources
+
+- [World's Largest Mobile and Web Design Library](https://mobbin.com/browse/android/apps)
+
+- [List of Well Designed Websites](https://www.siteofsites.co/?s=35)
 
 - [Discover Useful Design Tools](https://www.toools.design/)
 
@@ -49,6 +55,10 @@
 - [Snappify: Create Stunning Visuals](https://snappify.com/)
 
 ## Links
+
+- [Trangram: Adobe Illustrator but for Animation](https://www.trangram.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=39675807)
+
+- [Futuristic Figma Design](https://x.com/dchernyshuk/status/1782724977000632671?t=3kkDoKm1I6sPy1tuie2kVg)
 
 - [What I've learned about flow fields so far.](https://damoonrashidi.me/articles/flow-field-methods) [Hacker News 📰](https://news.ycombinator.com/item?id=38839506)
 

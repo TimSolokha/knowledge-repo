@@ -12,7 +12,11 @@ TODO: Short blurb on privacy and my thoughts on it
 
 ## Privacy Resources
 
+- [Reddit Thread with List of Tools for Privacy](https://www.reddit.com/r/f0am/comments/1c21wex/no_more_ads_no_more_sponsors_no_more_paywalls_no/?share_id=TEbVWvb26kDCeFZApiRO8&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 - [Privacy Tools List](https://www.privacytools.io/undefined)
+
+- [Privacy Guides](https://www.privacyguides.org/en/)
 
 - [SimpleLogin](https://simplelogin.io/)
 

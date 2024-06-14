@@ -4,11 +4,19 @@ It's unfortunate that finances aren't as heavily stressed early on in the educat
 
 This section lists out some advice and resources around financing. Keep in mind that I am **NOT** a financial expert and am doing my own research on the side. 
 
+## Tools & Tips
+
+- [Living Wage Calculator](https://livingwage.mit.edu/)
+
 ## Blog Posts
+
+- [Ask HN: Those making $500/month on side projects in 2024 - Show and tell](https://news.ycombinator.com/item?id=39110194)
 
 - [My Path to Financial Independence as a Software Engineer](https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/)
 
 ## What I do
+
+- [Get Rich Slowly](https://www.getrichslowly.org/building-wealth/)
 
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page)
 

@@ -28,6 +28,8 @@
 
 ## Links
 
+- [What contributing to Open-source is, and what it isn't](https://news.ycombinator.com/item?id=40177171)
+
 - [I'm now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
 
 - [Night of the living brain fog dead or how I hacked myself better bia open source](https://news.ycombinator.com/item?id=35511047)

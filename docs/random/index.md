@@ -2,6 +2,12 @@
 
 ## Links
 
+- [Water Way Map](https://waterwaymap.org/#map=2/0/0) [Hacker News 📰](https://news.ycombinator.com/item?id=39110434)
+
+- [GodotOS](https://github.com/popcar2/GodotOS) [Hacker News 📰](https://news.ycombinator.com/item?id=38951172)
+
+- [Reddit Thread About a Fake Resume with Buzzwords](https://www.reddit.com/r/csMajors/comments/1c1wlgm/we_are_just_doing_it_wrong/?share_id=91mOKncp7ghpa9JpW-MQ8&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 - [Brother Printers and Not Innovating](https://retro.social/@ifixcoinops/111480744130939877) [Hacker News 📰](https://news.ycombinator.com/item?id=38429291)
 
 - [Reddit AMA with SpaceX software team](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/?utm_medium=android_app&utm_source=share)

@@ -115,3 +115,9 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [The 15 best Minecraft Shaders](https://www.pcgamesn.com/minecraft/minecraft-shaders-best-graphics-mods)
 
 - [Lunar Client](https://www.lunarclient.com/)
+
+- [Voxels Shader - Minecraft](https://minecraftshader.com/rethinking-voxels-shaders/)
+
+- [Complementary Shader - Minecraft](https://www.complementary.dev/shaders/)
+
+- [Bliss Shader - Minecraft](https://github.com/X0nk/Bliss-Shader)

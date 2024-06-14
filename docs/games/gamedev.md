@@ -48,9 +48,13 @@
 
 - [tobspr Games](https://tobspr.io/)
 
+- [Game Studios Around the Globe](https://x.com/DevteamL/status/1779852444316410330?t=XLzGcuAO6TpIVGKMRXItkA)
+
 ## Math
 
 - [Fundamental Math for Game Developers](https://pikuma.com/blog/math-for-game-developers)
+
+- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html) [Hacker News](https://news.ycombinator.com/item?id=40081541)
 
 ## Misc Links for Game Dev Content
 

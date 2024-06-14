@@ -27,3 +27,5 @@ TODO: Short blurb on programming
 - [Writing a Package Manager](https://news.ycombinator.com/item?id=37220953)
 
 - [Visualization of Common Algorithms](https://news.ycombinator.com/item?id=37304870)
+
+- [List of Challenging Software Projects](https://www.andreinc.net/2024/03/28/programming-projects-ideas) [Hacker News 📰](https://news.ycombinator.com/item?id=40037583)

@@ -44,6 +44,8 @@
 
 - [Another Hyprland Rice](https://github.com/linkfrg/dotfiles)
 
+- [HyprNova Rice](https://github.com/zDyanTB/HyprNova)
+
 ## Wallpapers
 
 - [My fav wallpaper of the week 2](https://www.reddit.com/r/wallpapers/comments/vzsvek/my_fav_wallpapers_of_the_week_2/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)

@@ -10,6 +10,8 @@
 
 - [Womp: Easy to use online 3D Modeling Program](https://womp.com/?s=35)
 
+- [PBR Textures and 3D Models Site](https://news.ycombinator.com/item?id=40168519)
+
 ## Graphics
 
 - [4 Methods of Making a Cel-Shader in Blender](https://medium.com/@josephclaytonhansen/four-different-methods-for-making-cel-shaders-in-blender-eevee-2-8-2-9-6d976ce2555d)

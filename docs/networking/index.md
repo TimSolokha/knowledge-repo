@@ -2,6 +2,8 @@
 
 ## Links
 
+- [The OSI Model Revisited](https://www.nathanhandy.blog/articles/osi-model-revisited.html)
+
 - [Ask HN: Good book to learn modern networking/](https://news.ycombinator.com/item?id=38918418)
 
 - [12 Common Network Protocols](https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained)

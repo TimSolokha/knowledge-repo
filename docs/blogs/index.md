@@ -52,6 +52,8 @@
 
 - [Daily Driving FreeBSD](http://www.lilysthings.org/blog/daily-driving-freebsd/) [Hacker News 📰](https://news.ycombinator.com/item?id=38270473) I like the way this site looks as well...
 
+- [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/) [Hacker News 📰](https://news.ycombinator.com/item?id=39063242)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -82,6 +84,10 @@
 - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
 
 ## Software Development
+
+- [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+
+- [Choose Boring Technology](https://boringtechnology.club/)
 
 - [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html) [Hacker News 📰](https://news.ycombinator.com/item?id=38924310)
 
@@ -139,7 +145,13 @@
 
 - [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/) [Hacker News 📰](https://news.ycombinator.com/item?id=38933999)
 
+- [Things they didn't teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+
+- [Is it Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/) [Hacker News 📰](https://news.ycombinator.com/item?id=39989992)
+
 ## Life
+
+- [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/) [Hacker News 📰](https://news.ycombinator.com/item?id=40078106)
 
 - [I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project) [Hacker News 📰](https://news.ycombinator.com/item?id=38935205)
 
@@ -181,7 +193,15 @@
 
 - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/) [Hacker News 📰](https://news.ycombinator.com/item?id=38886030)
 
+- [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life) [Hacker News 📰](https://news.ycombinator.com/item?id=40028643)
+
+- [Men over 30: What do you wish you knew at 21?](https://www.reddit.com/r/AskMen/comments/1b8v88p/men_over_30_what_do_you_wish_you_knew_at_21/?share_id=qzei_BAS9MpFZUw6Qj_sK&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 ## Productivity
+
+- [Extreme Brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&s=35)
+
+- [LPT: If you find a way to do your job faster and are satisfied with your current level of responsibility, keep it to yourself](https://www.reddit.com/r/LifeProTips/comments/1bd0x71/lpt_if_you_find_a_way_to_do_your_job_faster_and/?share_id=xkj63QS-RxzseQPUZ6SQ8&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 - [Ask HN: How do I develop focus?](https://news.ycombinator.com/item?id=30905620)
 
@@ -211,12 +231,22 @@
 
 - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)
 
+- [How to colorize Game Boy games](https://toruzz.com/blog/how-to-colorize-gb-games-04/) [Hacker News 📰](https://news.ycombinator.com/item?id=39672965)
+
 ## Self-Host & Explroing Tech
 
 - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
 
 ## Miscellaneous Tech Topics
 
+- [Reading QR Codes Without a Computer](https://qr.blinry.org/) [Hacker News 📰](https://news.ycombinator.com/item?id=39087752)
+
 - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill) [Hacker News 📰](https://news.ycombinator.com/item?id=38579899)
 
 - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult) [Hacker News 📰](https://news.ycombinator.com/item?id=38627674)
+
+- [My favorite animation trick: exponential smoothing](https://news.ycombinator.com/item?id=39637487)
+
+## Entertainment
+
+- [Anime: A Slave Industry](https://hitregbroke.com/anime/) [Hacker News 📰](https://news.ycombinator.com/item?id=39074062)
