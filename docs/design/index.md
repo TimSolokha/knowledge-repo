@@ -54,6 +54,10 @@
 
 - [Snappify: Create Stunning Visuals](https://snappify.com/)
 
+- [Mobbin: Mobile and web design library](https://mobbin.com/browse/android/apps?s=35)
+
+- [Color Designer](https://colordesigner.io/?s=35)
+
 ## Links
 
 - [Trangram: Adobe Illustrator but for Animation](https://www.trangram.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=39675807)
@@ -77,3 +81,5 @@
 - [Design Rules](https://anthonyhobday.com/sideprojects/saferules/)
 
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) [Hacker News 📰](https://news.ycombinator.com/item?id=38482486)
+
+- [Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)

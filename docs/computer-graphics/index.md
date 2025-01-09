@@ -43,3 +43,7 @@
 - [Rendering References GitHub](https://github.com/Angelo1211/SoftwareRenderer/wiki/Rendering-References)
 
 - [Textures for VFX](https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc)
+
+## Links
+
+- [Graphics Programming - Where to Start?](https://www.stefanpijnacker.nl/article/graphics-programming-where-to-start/?s=35)

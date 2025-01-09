@@ -14,6 +14,8 @@
 
 - [Game UI Database](https://www.gameuidatabase.com/)
 
+- [Kenney's Input Prompts](https://kenney.nl/assets/input-prompts?s=35)
+
 ## Assets
 
 - [Kenney - Thousands of completely free game assets](https://www.kenney.nl/)

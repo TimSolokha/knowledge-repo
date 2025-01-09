@@ -54,9 +54,13 @@
 
 - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/) [Hacker News 📰](https://news.ycombinator.com/item?id=39063242)
 
+- [About Ideas Now: List of personal blogs and sites](https://aboutideasnow.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=39511714)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
+
+- [Growing a tiny SaaS to $1M/year in 2 years](https://x.com/thepatwalls/status/1755264819014303866?t=WOZDsQ26PPQJrA8akJTZuA)
 
 
 ## Design
@@ -149,7 +153,13 @@
 
 - [Is it Dry Yet?](https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/) [Hacker News 📰](https://news.ycombinator.com/item?id=39989992)
 
+- [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/) [Hacker News 📰](https://news.ycombinator.com/item?id=39406804)
+
+- [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/) [Hacker News 📰](https://news.ycombinator.com/item?id=39480605)
+
 ## Life
+
+- [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern) [Hacker News 📰](https://news.ycombinator.com/item?id=39373254)
 
 - [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/) [Hacker News 📰](https://news.ycombinator.com/item?id=40078106)
 
@@ -197,6 +207,14 @@
 
 - [Men over 30: What do you wish you knew at 21?](https://www.reddit.com/r/AskMen/comments/1b8v88p/men_over_30_what_do_you_wish_you_knew_at_21/?share_id=qzei_BAS9MpFZUw6Qj_sK&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
+- [Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/) [Hacker News 📰](https://news.ycombinator.com/item?id=39522249)
+
+- [Thread: How do you fit a whole life in a routine?](https://www.reddit.com/r/LifeProTips/comments/1c9bygg/lpt_im_going_to_start_a_debate_how_the_hell_do/?share_id=pYjzhXVMf8p2g3scwcpxc&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
+- [Stop Acting Like You're Famous](https://ajkprojects.com/stopactinglikeyourefamous) [Hacker News 📰](https://news.ycombinator.com/item?id=40059887)
+
+- [Thread: How do you typically stay motivated on a project?](https://www.reddit.com/r/gamedev/comments/1bxi21p/how_do_you_typically_stay_motivated_on_a_project/?share_id=WxQA4aGJsYiWpfyK2zVqb&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 ## Productivity
 
 - [Extreme Brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&s=35)
@@ -221,6 +239,14 @@
 
 - [How I make OKRs more playful for my team using Hill-Charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/) [Hacker News 📰](https://news.ycombinator.com/item?id=38617346)
 
+- [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up) [Hacker News 📰](https://news.ycombinator.com/item?id=39232004)
+
+- [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/) [Hacker News 📰](https://news.ycombinator.com/item?id=39432876)
+
+- [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess) [Hacker News 📰](https://news.ycombinator.com/item?id=39451793)
+
+- [Focus By Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html) [Hacker News 📰](https://news.ycombinator.com/item?id=39766236)
+
 ## Game Development
 
 - [Develop Games](https://www.develop.games/)
@@ -232,6 +258,8 @@
 - [How the Creator of Alone in the Dark Came Back to Games](https://news.play.date/news/skew/) [Hacker News 📰](https://news.ycombinator.com/item?id=37961232)
 
 - [How to colorize Game Boy games](https://toruzz.com/blog/how-to-colorize-gb-games-04/) [Hacker News 📰](https://news.ycombinator.com/item?id=39672965)
+
+- [Coding the anime "woosh" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/) [Hacker News 📰](https://news.ycombinator.com/item?id=39494227)
 
 ## Self-Host & Explroing Tech
 
@@ -245,8 +273,18 @@
 
 - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult) [Hacker News 📰](https://news.ycombinator.com/item?id=38627674)
 
-- [My favorite animation trick: exponential smoothing](https://news.ycombinator.com/item?id=39637487)
+- [My favorite animation trick: exponential smoothing](https://lisyarus.github.io/blog/posts/exponential-smoothing.html) [Hacker News 📰](https://news.ycombinator.com/item?id=39637487)
+
+- [Leadership is a Hell of a Drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/) [Hacker News 📰](https://news.ycombinator.com/item?id=39624842)
+
+- [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 
 ## Entertainment
 
 - [Anime: A Slave Industry](https://hitregbroke.com/anime/) [Hacker News 📰](https://news.ycombinator.com/item?id=39074062)
+
+## Job Market
+
+- [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential) [Hacker News 📰](https://news.ycombinator.com/item?id=39288669)
+
+- [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first) [Hacker News 📰](https://news.ycombinator.com/item?id=39867160)

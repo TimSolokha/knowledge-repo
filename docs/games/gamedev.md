@@ -50,6 +50,10 @@
 
 - [Game Studios Around the Globe](https://x.com/DevteamL/status/1779852444316410330?t=XLzGcuAO6TpIVGKMRXItkA)
 
+## Game Developers
+
+- [Thread: Who is the best solo video game developer of all time?](https://www.reddit.com/r/gaming/comments/17m86d3/who_is_the_best_solo_video_game_developer_of_all/?share_id=IqRcUdPdTDt1LJhU-_dqc&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 ## Math
 
 - [Fundamental Math for Game Developers](https://pikuma.com/blog/math-for-game-developers)

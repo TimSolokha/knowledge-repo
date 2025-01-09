@@ -32,6 +32,8 @@ TODO: Small blurb on linux
 
 - [How fast are LInux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37782493)
 
+- [Notes on EndeavorOS](https://mudkip.me/2024/03/28/Notes-on-EndeavourOS/) [Hacker News 📰](https://news.ycombinator.com/item?id=39840518)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

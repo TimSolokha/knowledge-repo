@@ -13,3 +13,5 @@
 - [A Software Developer's Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj)
 
 - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
+
+- [How I Edit](https://evaparish.com/blog/how-i-edit)
