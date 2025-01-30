@@ -27,6 +27,8 @@ There are plenty of inspirations online, but some of my favorite are:
 
 - [Repository of Awesome Uses](https://github.com/wesbos/awesome-uses)
 
+- [Tools a Youtuber Uses](https://syj-links.webflow.io/tools-i-use)
+
 ## Experience
 
 TODO: Experience with UnixPron

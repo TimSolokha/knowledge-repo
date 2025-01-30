@@ -58,7 +58,11 @@
 
 - [Color Designer](https://colordesigner.io/?s=35)
 
+- [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer?s=35)
+
 ## Links
+
+- [Animations That Feel Right](https://abhisaha.com/blog/guide-to-animations-that-feels-right)
 
 - [Trangram: Adobe Illustrator but for Animation](https://www.trangram.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=39675807)
 

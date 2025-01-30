@@ -32,6 +32,8 @@ TODO: Experience with command line
 
 - [neofetch](https://github.com/dylanaraps/neofetch)
 
+- [Terminal Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+
 ## Articles on the Command Line
 
 - [Give your linux terminal a makeover](https://www.roboleary.net/2021/06/09/give-your-terminal-a-makeover.html)

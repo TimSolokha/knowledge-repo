@@ -10,6 +10,8 @@
 
 - [Interesting Desktop Game Idea](https://twitter.com/MrMorrisGames/status/1729174090530111943?t=O85S1l7d5-kEjVmUiuSQeA)
 
+- [List of important aspects in games](https://dek.engineer/)
+
 ## Game Studios
 
 - [Bungie](https://www.bungie.net/7)
@@ -77,3 +79,5 @@
 - [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
 
 - [A guy preserving the new history o fPC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/) [Hacker News](https://news.ycombinator.com/item?id=37443316)
+
+- [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/) [HackerNews 📰](https://news.ycombinator.com/item?id=41092861)

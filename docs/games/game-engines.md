@@ -49,3 +49,5 @@ Playing games has always been a favorite of mine, but I didn't start wanting to 
 - [Water2D with Dynamic Waves in Godot](https://www.reddit.com/r/godot/comments/nq1nlf/tutorial_water_2d_with_dynamic_waves_in_godot/?utm_medium=android_app&utm_source=share)
 
 - [Hacker News Response to Murder Engine](https://news.ycombinator.com/item?id=38581852)
+
+- [Godot Shaders](https://godotshaders.com/)

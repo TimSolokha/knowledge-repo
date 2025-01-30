@@ -17,3 +17,5 @@
 - [How to Write an Awesome README](https://dev.to/documatic/how-to-write-an-awesome-readme-cfl)
 
 - [The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium)
+
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) [Hacker News 📰](https://news.ycombinator.com/item?id=40273534)

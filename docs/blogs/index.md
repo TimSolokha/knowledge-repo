@@ -20,6 +20,8 @@
 
 - [Buster's "Pile" of Notes](https://busterbenson.com/piles)
 
+- [Vin](https://vin.gg/)
+
 ## My Favorite Blogs
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
@@ -56,6 +58,10 @@
 
 - [About Ideas Now: List of personal blogs and sites](https://aboutideasnow.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=39511714)
 
+- [A Brief History of the Digital Garden](https://maggieappleton.com/garden-history)
+
+- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) [Hacker News 📰](https://news.ycombinator.com/item?id=41954375)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -90,6 +96,8 @@
 ## Software Development
 
 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+
+- [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain) [Hacker News 📰](https://news.ycombinator.com/item?id=40704812)
 
 - [Choose Boring Technology](https://boringtechnology.club/)
 
@@ -159,6 +167,8 @@
 
 ## Life
 
+- [You are NOT dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) [Hacker News 📰](https://news.ycombinator.com/item?id=41338354)
+
 - [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern) [Hacker News 📰](https://news.ycombinator.com/item?id=39373254)
 
 - [Why you need a "WTF Notebook"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/) [Hacker News 📰](https://news.ycombinator.com/item?id=40078106)
@@ -215,6 +225,10 @@
 
 - [Thread: How do you typically stay motivated on a project?](https://www.reddit.com/r/gamedev/comments/1bxi21p/how_do_you_typically_stay_motivated_on_a_project/?share_id=WxQA4aGJsYiWpfyK2zVqb&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
+- [Thread: LPT - You can become reasonably proficient in just about anything in six months](https://www.reddit.com/r/LifeProTips/comments/1cv5xfe/lpt_you_can_become_reasonably_proficient_in_just/?share_id=P1lVc-f5k163Vj3JJdnIx&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
+- [Thread: Which real life cheat codes do yo know?](https://www.reddit.com/r/AskMen/comments/1doi5hh/which_real_life_cheat_codes_do_you_know/?share_id=zY6O4aqe23SLjgSZJgxMd&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 ## Productivity
 
 - [Extreme Brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&s=35)
@@ -233,6 +247,8 @@
 
 - [Finish your projects](https://news.ycombinator.com/item?id=36313671)
 
+- [Tweet: Finish Your Projects](https://x.com/frozenboon/status/1836419978540601466?t=mnY51H_f96GkkEO8HUYIxw)
+
 - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 
 - [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars) [Hacker News 📰](https://news.ycombinator.com/item?id=37946203)
@@ -246,6 +262,10 @@
 - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess) [Hacker News 📰](https://news.ycombinator.com/item?id=39451793)
 
 - [Focus By Automation](https://myme.no/posts/2024-03-19-focus-by-automation.html) [Hacker News 📰](https://news.ycombinator.com/item?id=39766236)
+
+- [Use a Work Journal](https://fev.al/posts/work-journal/) [Hacker News 📰](https://news.ycombinator.com/item?id=40950584)
+
+- [How To Learn](https://learnhowtolearn.org/)
 
 ## Game Development
 
@@ -265,7 +285,11 @@
 
 - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
 
+- [Local first, forever](https://tonsky.me/blog/crdt-filesync/) [Hacker News 📰](https://news.ycombinator.com/item?id=40786425)
+
 ## Miscellaneous Tech Topics
+
+- [Microfeatures I love in Blogs](https://danilafe.com/blog/blog_microfeatures/) [Hacker News 📰](https://news.ycombinator.com/item?id=40774277)
 
 - [Reading QR Codes Without a Computer](https://qr.blinry.org/) [Hacker News 📰](https://news.ycombinator.com/item?id=39087752)
 
@@ -278,6 +302,10 @@
 - [Leadership is a Hell of a Drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/) [Hacker News 📰](https://news.ycombinator.com/item?id=39624842)
 
 - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
+
+- [Woodworking as an excape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/) [Hacker News 📰](https://news.ycombinator.com/item?id=40245601)
+
+- [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) [Hacker News 📰](https://news.ycombinator.com/item?id=40408291)
 
 ## Entertainment
 

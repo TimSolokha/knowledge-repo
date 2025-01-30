@@ -24,6 +24,8 @@
 
 - [Geist](https://vercel.com/font/sans)
 
+- [Departure Mono](https://departuremono.com/)
+
 ## Links
 
 - [List of Fonts for Coding](https://github.com/Gaafar/dev-fonts)

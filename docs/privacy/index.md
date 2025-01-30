@@ -35,3 +35,7 @@ TODO: Blurb on having a password manager
 TODO: Blurb about current state of virus protection
 
 [VirusTotal - Online Scanner](https://www.virustotal.com/gui/home/upload)
+
+## Block Lists
+
+- [Hosts: List of sites that can be blocked](https://github.com/StevenBlack/hosts?tab=readme-ov-file)

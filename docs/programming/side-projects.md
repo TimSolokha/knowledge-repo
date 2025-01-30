@@ -10,6 +10,12 @@
 
 - [Build your own BitTorrent](https://blog.jse.li/posts/torrent/) [Hacker News 📰](https://news.ycombinator.com/item?id=37941075)
 
+- [Web Scraping: Part 1](https://x.com/tunahorse21/status/1844589100608668035?t=wqEwQTsOmI4-58nPCUeBxw)
+
+- [Web Scraping: Part 2](https://x.com/tunahorse21/status/1851481299506380952?t=ePr2LQ5uaLqk41KfZ3FKSw)
+
+- [Tracking Supermarket Prices](https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/) [Hacker News 📰](https://news.ycombinator.com/item?id=41173335)
+
 ## Links
 
 - [Indiehackers](https://www.indiehackers.com/)
@@ -21,3 +27,5 @@
 - [Ask HN: Most interesting tech you built for just yourself?](https://news.ycombinator.com/item?id=35729232)
 
 - [Switching Keyboard/Mouse Input Between 2 Computers](https://github.com/hrvach/deskhop) [Hacker News 📰](https://news.ycombinator.com/item?id=38780519)
+
+- [Shazamed Music](https://walzr.com/bop-spotter) [Hacker News 📰](https://news.ycombinator.com/item?id=41694044)

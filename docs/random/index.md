@@ -1,5 +1,9 @@
 # Random
 
+## Fun
+
+- [Blue Emoji faces](https://bluemoji.io/?s=35)
+
 ## Links
 
 - [Water Way Map](https://waterwaymap.org/#map=2/0/0) [Hacker News 📰](https://news.ycombinator.com/item?id=39110434)
@@ -73,3 +77,9 @@
 - [What to Buy INSTEAD of Diamonds](https://diamondssuck.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=38247300)
 
 - [How to ripen and store avocados](https://www.seriouseats.com/how-to-ripen-avocados-7377071) [Hacker News 📰](https://news.ycombinator.com/item?id=38475926)
+
+- [A Single Div](https://a.singlediv.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=40242410)
+
+- [Scaling One Million Checkboxes to 650,000,000 Checks](https://eieio.games/blog/scaling-one-million-checkboxes/)
+
+- [Cool little nook behind a house](https://x.com/isaacfrench_/status/1799110042526089423?t=WzHi319KWjfWsDUaiafthQ)

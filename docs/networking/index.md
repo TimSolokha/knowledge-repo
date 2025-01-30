@@ -21,3 +21,5 @@
 - [Ask HN: How to improve terrible home WiFi?](https://news.ycombinator.com/item?id=37688125)
 
 - [DNS Toys](https://www.dns.toys/) [Hacker News 📰](https://news.ycombinator.com/item?id=38899290)
+
+- [The Journey of an Internet Packet](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/) [Hacker News 📰](https://news.ycombinator.com/item?id=41327394)
