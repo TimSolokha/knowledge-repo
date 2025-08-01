@@ -165,6 +165,8 @@
 
 - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/) [Hacker News 📰](https://news.ycombinator.com/item?id=39480605)
 
+- [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years) [Hacker News 📰](https://news.ycombinator.com/item?id=42946281)
+
 ## Life
 
 - [You are NOT dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) [Hacker News 📰](https://news.ycombinator.com/item?id=41338354)

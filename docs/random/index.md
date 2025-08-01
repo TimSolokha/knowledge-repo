@@ -83,3 +83,5 @@
 - [Scaling One Million Checkboxes to 650,000,000 Checks](https://eieio.games/blog/scaling-one-million-checkboxes/)
 
 - [Cool little nook behind a house](https://x.com/isaacfrench_/status/1799110042526089423?t=WzHi319KWjfWsDUaiafthQ)
+
+- [Linux in a PDF](https://news.ycombinator.com/item?id=42959775)
