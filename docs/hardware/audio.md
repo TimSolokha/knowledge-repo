@@ -22,4 +22,10 @@ TODO: Blurb about audio
 
 - [Simgot](http://www.simgot.com/en/)
 
+- [Hangout by Crinacle](https://hangout.audio/)
+
 ## Microphones
+
+## Tuning
+
+- [Galaxy Buds Client OSS](https://github.com/timschneeb/GalaxyBudsClient)

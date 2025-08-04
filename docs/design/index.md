@@ -60,6 +60,8 @@
 
 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer?s=35)
 
+- [Deck Gallery: Beautifully Designed Docs](https://www.deck.gallery/)
+
 ## Links
 
 - [Animations That Feel Right](https://abhisaha.com/blog/guide-to-animations-that-feels-right)
@@ -87,3 +89,5 @@
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) [Hacker News 📰](https://news.ycombinator.com/item?id=38482486)
 
 - [Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+
+- [Gamefication of Scrolling](https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification)

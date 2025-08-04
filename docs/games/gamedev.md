@@ -64,6 +64,8 @@
 
 ## Misc Links for Game Dev Content
 
+- [Hacker News for Gamedev](https://gamedev.city/) [HackerNews 📰](https://news.ycombinator.com/item?id=42885520)
+
 - [Awesome Godot](https://github.com/godotengine/awesome-godot)
 
 - [Magic Tools](https://github.com/ellisonleao/magictools)

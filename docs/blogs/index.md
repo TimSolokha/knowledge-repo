@@ -22,6 +22,8 @@
 
 - [Vin](https://vin.gg/)
 
+- [Lelouch Dev](https://lelouch.dev/)
+
 ## My Favorite Blogs
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
@@ -62,6 +64,8 @@
 
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) [Hacker News 📰](https://news.ycombinator.com/item?id=41954375)
 
+- [The best programmers I know](https://endler.dev/2025/best-programmers/) [Hacker News 📰](https://news.ycombinator.com/item?id=43629307)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -72,6 +76,8 @@
 ## Design
 
 - [Gorilla Sun Articles](https://www.gorillasun.de/articles/)
+
+- [Cool Reference Manual on Software](https://www.makingsoftware.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=43678144)
 
 ## Software Tooling
 
@@ -167,6 +173,8 @@
 
 - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years) [Hacker News 📰](https://news.ycombinator.com/item?id=42946281)
 
+- [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/) [Hacker News 📰](https://news.ycombinator.com/item?id=43210858)
+
 ## Life
 
 - [You are NOT dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) [Hacker News 📰](https://news.ycombinator.com/item?id=41338354)
@@ -233,6 +241,8 @@
 
 ## Productivity
 
+- [How is it that I'm making more money while doing less...?](https://www.reddit.com/r/sysadmin/comments/1ldp297/how_is_it_that_im_making_more_money_while_doing/?share_id=otnFxUIcwvjFL-xZbfikh&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
 - [Extreme Brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&s=35)
 
 - [LPT: If you find a way to do your job faster and are satisfied with your current level of responsibility, keep it to yourself](https://www.reddit.com/r/LifeProTips/comments/1bd0x71/lpt_if_you_find_a_way_to_do_your_job_faster_and/?share_id=xkj63QS-RxzseQPUZ6SQ8&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
@@ -283,6 +293,8 @@
 
 - [Coding the anime "woosh" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/) [Hacker News 📰](https://news.ycombinator.com/item?id=39494227)
 
+- [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
+
 ## Self-Host & Explroing Tech
 
 - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
@@ -308,6 +320,8 @@
 - [Woodworking as an excape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/) [Hacker News 📰](https://news.ycombinator.com/item?id=40245601)
 
 - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) [Hacker News 📰](https://news.ycombinator.com/item?id=40408291)
+
+- [JUST USE HTML](https://justfuckingusehtml.com/)
 
 ## Entertainment
 

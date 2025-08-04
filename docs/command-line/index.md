@@ -36,6 +36,8 @@ TODO: Experience with command line
 
 ## Articles on the Command Line
 
+- [How I use my terminal](https://jyn.dev/how-i-use-my-terminal/) [Hacker News 📰](https://news.ycombinator.com/item?id=44356646)
+
 - [Give your linux terminal a makeover](https://www.roboleary.net/2021/06/09/give-your-terminal-a-makeover.html)
 
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)

@@ -26,6 +26,10 @@ TODO: Explanation paragraph
 
 - [Hardware examples for Jellyfin](https://www.reddit.com/r/jellyfin/comments/s67xea/what_hardware_would_you_recommend_to_build_a/?share_id=qDoF1SPGmhSvyaTXbzAv3&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
+## Misc
+
+- [Bracket: Tournament System](https://github.com/evroon/bracket) [Hacker News 📰](https://news.ycombinator.com/item?id=43895456)
+
 ## Documentation
 
 - [Paperless NGX: Open Source document management system](https://github.com/paperless-ngx/paperless-ngx) [Hacker News 📰](https://news.ycombinator.com/item?id=37800951)
@@ -53,3 +57,5 @@ TODO: Explanation paragraph
 - [Example of a cool homepage](https://www.reddit.com/r/selfhosted/comments/15ssm6o/my_selfhosted_journey_so_far_dashboard/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=1)
 
 - [Another exapmle of a homepage](https://www.reddit.com/r/selfhosted/comments/18xgcsu/my_dashboard_now_with_descriptions/?share_id=ElkDWRSP6NQh7p0eTHPAK&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
+- [Glance](https://github.com/glanceapp/glance)
