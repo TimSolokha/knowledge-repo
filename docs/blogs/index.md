@@ -24,6 +24,8 @@
 
 - [Lelouch Dev](https://lelouch.dev/)
 
+- [Robb Knight](https://rknight.me/
+
 ## My Favorite Blogs
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
@@ -119,6 +121,8 @@
 
 - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects) [Hacker News 📰](https://news.ycombinator.com/item?id=38239358)
 
+- [Writing Toy Software Is a Joy](https://blog.jsbarretto.com/post/software-is-joy) [Hacker News 📰](https://news.ycombinator.com/item?id=44367084)
+
 - [10 hard-to-swallow truths they won't tell you about software engineering jobs](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/) [Hacker News 📰](https://news.ycombinator.com/item?id=38188689)
 
 - [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/) [Hacker News 📰](https://news.ycombinator.com/item?id=37911900)
@@ -174,6 +178,8 @@
 - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years) [Hacker News 📰](https://news.ycombinator.com/item?id=42946281)
 
 - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/) [Hacker News 📰](https://news.ycombinator.com/item?id=43210858)
+
+- [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) [Hacker News 📰](https://news.ycombinator.com/item?id=44557115)
 
 ## Life
 
@@ -241,6 +247,8 @@
 
 ## Productivity
 
+- [Ask HN: What are you working on? July 2025](https://news.ycombinator.com/item?id=44702833)
+
 - [How is it that I'm making more money while doing less...?](https://www.reddit.com/r/sysadmin/comments/1ldp297/how_is_it_that_im_making_more_money_while_doing/?share_id=otnFxUIcwvjFL-xZbfikh&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 - [Extreme Brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&s=35)
@@ -302,6 +310,8 @@
 - [Local first, forever](https://tonsky.me/blog/crdt-filesync/) [Hacker News 📰](https://news.ycombinator.com/item?id=40786425)
 
 ## Miscellaneous Tech Topics
+
+- [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/) [Hacker News 📰](https://news.ycombinator.com/item?id=44636240)
 
 - [Microfeatures I love in Blogs](https://danilafe.com/blog/blog_microfeatures/) [Hacker News 📰](https://news.ycombinator.com/item?id=40774277)
 

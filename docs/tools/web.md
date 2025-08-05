@@ -14,6 +14,10 @@
 
 - [Floorp: A customizable Firefox fork from Japan](https://floorp.app/en/) [Hacker News](https://news.ycombinator.com/item?id=37734759)
 
+- [How to Firefox](https://kau.sh/blog/how-to-firefox/) [Hacker News 📰](https://news.ycombinator.com/item?id=44645353)
+
+- [Zen Browser](https://github.com/zen-browser/desktop)
+
 ## CI/CD
 
 - [GitHub Actions](https://github.com/features/actions)

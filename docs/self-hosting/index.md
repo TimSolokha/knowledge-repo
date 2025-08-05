@@ -26,6 +26,12 @@ TODO: Explanation paragraph
 
 - [Hardware examples for Jellyfin](https://www.reddit.com/r/jellyfin/comments/s67xea/what_hardware_would_you_recommend_to_build_a/?share_id=qDoF1SPGmhSvyaTXbzAv3&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
+## VPN
+
+- [Headscale](https://github.com/juanfont/headscale)
+
+- [Tailscale](https://github.com/tailscale/tailscale)
+
 ## Misc
 
 - [Bracket: Tournament System](https://github.com/evroon/bracket) [Hacker News 📰](https://news.ycombinator.com/item?id=43895456)
@@ -51,6 +57,8 @@ TODO: Explanation paragraph
 - [Zimaboard: The closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/) [Hacker News 📰](https://news.ycombinator.com/item?id=37819114)
 
 - [Ask HN: Tell me your most exotic selfhosted solution](https://news.ycombinator.com/item?id=39260685)
+
+- [My Ultimate Self-hosting Setup](https://sameemul-haque.vercel.app/blog/dotfiles) [Hacker News 📰](https://news.ycombinator.com/item?id=44612151)
 
 ## Homepages
 

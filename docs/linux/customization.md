@@ -40,6 +40,8 @@
 
 - [ARCH-BASED ONLY Yoru | Aesthetic and Beautiful Awesome Environment](https://github.com/rxyhn/yoru)
 
+- [Another Clean Hyprland Rice](https://github.com/binnewbs/arch-hyprland)
+
 - [AwesomeWM Rice Inspired by Gnome](https://www.reddit.com/r/unixporn/comments/174k879/awesomewm_awesome_is_awesome/?share_id=0zYqePAhNanHhZVY4eZrx&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 - [Another Hyprland Rice](https://github.com/linkfrg/dotfiles)
@@ -72,6 +74,8 @@
 
 - [Awesome Dotfiles Repository](https://github.com/webpro/awesome-dotfiles)
 
+- [Dotefiles Breakdown](https://sameemul-haque.vercel.app/blog/dotfiles)
+
 ## Themes
 
 - [Catpuccin](https://github.com/catppuccin/catppuccin)
@@ -101,3 +105,5 @@
 - [Waybar: A status bar suited for wayland](https://github.com/Alexays/Waybar)
 
 - [i3: A tiling window manager for X11](https://github.com/i3/i3)
+
+- [Omarchy: An opinionated Arch + Hyprland Setup](https://omarchy.org/?s=35)

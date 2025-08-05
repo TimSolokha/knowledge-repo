@@ -26,6 +26,10 @@
 
 - [Localsend](https://github.com/localsend/localsend) 
 
+- [PairDrop](https://github.com/schlagmichdoch/PairDrop)
+
+- [Copyparty](https://github.com/9001/copyparty) [Hacker News 📰](https://news.ycombinator.com/item?id=44711519)
+
 ## Links
 
 - [What contributing to Open-source is, and what it isn't](https://news.ycombinator.com/item?id=40177171)

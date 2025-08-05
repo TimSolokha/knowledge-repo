@@ -51,3 +51,7 @@ TODO: Add a flatpak section because there are too many
 ## Running Programs
 
 - [AppImage](https://appimage.org/)
+
+## PC Component Software
+
+- [GeForce Infinity](https://github.com/AstralVixen/GeForce-Infinity)

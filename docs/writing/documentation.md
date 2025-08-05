@@ -12,6 +12,8 @@
 
 ## Links
 
+- [How to write a good design document](https://grantslatton.com/how-to-design-document) [Hacker News 📰](https://news.ycombinator.com/item?id=44779428)
+
 - [What's the Best Documentation You've Used?](https://dev.to/medusajs/whats-the-best-documentation-youve-used-83d)
 
 - [How to Write an Awesome README](https://dev.to/documatic/how-to-write-an-awesome-readme-cfl)

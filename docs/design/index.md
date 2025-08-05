@@ -62,6 +62,8 @@
 
 - [Deck Gallery: Beautifully Designed Docs](https://www.deck.gallery/)
 
+- [Liftkit](https://github.com/Chainlift/liftkit)
+
 ## Links
 
 - [Animations That Feel Right](https://abhisaha.com/blog/guide-to-animations-that-feels-right)

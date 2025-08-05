@@ -28,3 +28,7 @@
 ## Linter
 
 - [Vale.sh](https://vale.sh/)
+
+## Python
+
+- [I'm Switching to Python And Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html) [Hacker News 📰](https://news.ycombinator.com/item?id=44579717)

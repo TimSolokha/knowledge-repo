@@ -21,3 +21,5 @@
 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack) [Hacker News 📰](https://news.ycombinator.com/item?id=37952719)
 
 - [Getting Videos to Work Properly in Fedora](https://leochavez.org/index.php/2020/10/12/fedora-firefox-and-h264/)
+
+- [Power Management/Suspend and Hibernate](https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate#PC_will_not_wake_from_sleep_on_A520I_and_B550I_motherboards)
