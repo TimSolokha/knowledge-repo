@@ -47,3 +47,5 @@
 ## Links
 
 - [Graphics Programming - Where to Start?](https://www.stefanpijnacker.nl/article/graphics-programming-where-to-start/?s=35)
+
+- [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings) [Hacker News 📰](https://news.ycombinator.com/item?id=44792441)

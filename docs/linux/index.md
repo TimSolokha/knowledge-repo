@@ -14,6 +14,12 @@ TODO: Small blurb on linux
 
 - [Linux Mint](https://linuxmint.com/)
 
+- [Project Bluefin](https://projectbluefin.io/)
+
+- [Baszzite](https://bazzite.gg/)
+
+- [CachyOS](https://cachyos.org/)
+
 ## Links
 
 - [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process) [Hacker News](https://news.ycombinator.com/item?id=37521240)
