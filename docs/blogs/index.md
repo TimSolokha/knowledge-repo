@@ -24,7 +24,21 @@
 
 - [Lelouch Dev](https://lelouch.dev/)
 
-- [Robb Knight](https://rknight.me/
+- [Robb Knight](https://rknight.me/)
+
+- [Zoltán Hosszú](https://zoltan.co/37signals/)
+
+- [Mitchell Hashimoto](https://mitchellh.com/)
+
+- [Carlos Becker](https://carlosbecker.com/)
+
+- [Ham Vocke](https://hamvocke.com/blog/)
+
+- [マリウス](https://マリウス.com/)
+
+- [Parasrah](https://blog.parasrah.com/posts)
+
+- [Daudix](https://daudix.one/blog/archiving-gradience/#top)
 
 ## My Favorite Blogs
 
@@ -67,6 +81,8 @@
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) [Hacker News 📰](https://news.ycombinator.com/item?id=41954375)
 
 - [The best programmers I know](https://endler.dev/2025/best-programmers/) [Hacker News 📰](https://news.ycombinator.com/item?id=43629307)
+
+- [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
 
 ## Business
 
@@ -286,6 +302,8 @@
 - [Use a Work Journal](https://fev.al/posts/work-journal/) [Hacker News 📰](https://news.ycombinator.com/item?id=40950584)
 
 - [How To Learn](https://learnhowtolearn.org/)
+
+- [I Tried Every Todo app and stuck with a .txt file](https://www.al3rez.com/todo-txt-journey) [Hacker News 📰](https://news.ycombinator.com/item?id=44864134)
 
 ## Game Development
 

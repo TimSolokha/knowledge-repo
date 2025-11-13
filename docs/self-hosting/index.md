@@ -14,12 +14,14 @@ TODO: Explanation paragraph
 
 - [Nerdy Articles Homelab](https://nerdyarticles.com/my-homelab-a-general-overview/)
 
+- [Tech Geek's Homelab](https://homelab.techgeek01.com/)
+
 ## Media
 
 - [Jellyfin](https://jellyfin.org/)
-  
+
 - [Emby](https://emby.media/)
-  
+
 - [Plex](https://www.plex.tv/)
 
 - [Jellyfin Remote Access with Tailscale](https://www.ethanmad.com/post/jellyfin_remote_access/)

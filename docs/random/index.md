@@ -4,6 +4,8 @@
 
 - [Blue Emoji faces](https://bluemoji.io/?s=35)
 
+- [Fluid Simulation on a card](https://github.com/Nicholas-L-Johnson/flip-card) [Hacker News 📰](https://news.ycombinator.com/item?id=44835879)
+
 ## Links
 
 - [Water Way Map](https://waterwaymap.org/#map=2/0/0) [Hacker News 📰](https://news.ycombinator.com/item?id=39110434)

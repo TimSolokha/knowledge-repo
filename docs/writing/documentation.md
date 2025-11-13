@@ -1,5 +1,9 @@
 # Documentation
 
+## Inspiration
+
+- [Immich "Cursed Knowledge"](https://immich.app/cursed-knowledge) [Hacker News 📰](https://news.ycombinator.com/item?id=44831704)
+
 ## Resources
 
 - [DevDocs](https://devdocs.io/)
