@@ -5,7 +5,7 @@
 
 - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 
-- [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings) [Hacker News](https://news.ycombinator.com/item?id=37393820)
+- [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings) [Hacker News 📰](https://news.ycombinator.com/item?id=37393820)
 
 ## Java
 

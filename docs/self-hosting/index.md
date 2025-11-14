@@ -16,6 +16,8 @@ TODO: Explanation paragraph
 
 - [Tech Geek's Homelab](https://homelab.techgeek01.com/)
 
+- [Self Managed Life by Louis Rossman](https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software)
+
 ## Media
 
 - [Jellyfin](https://jellyfin.org/)
@@ -27,6 +29,8 @@ TODO: Explanation paragraph
 - [Jellyfin Remote Access with Tailscale](https://www.ethanmad.com/post/jellyfin_remote_access/)
 
 - [Hardware examples for Jellyfin](https://www.reddit.com/r/jellyfin/comments/s67xea/what_hardware_would_you_recommend_to_build_a/?share_id=qDoF1SPGmhSvyaTXbzAv3&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
+- [Setting up Stremio](https://guides.viren070.me/stremio)
 
 ## VPN
 
@@ -61,6 +65,8 @@ TODO: Explanation paragraph
 - [Ask HN: Tell me your most exotic selfhosted solution](https://news.ycombinator.com/item?id=39260685)
 
 - [My Ultimate Self-hosting Setup](https://sameemul-haque.vercel.app/blog/dotfiles) [Hacker News 📰](https://news.ycombinator.com/item?id=44612151)
+
+- [More Random Home Lab Things](https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/) [Hacker News 📰](https://news.ycombinator.com/item?id=45490938)
 
 ## Homepages
 

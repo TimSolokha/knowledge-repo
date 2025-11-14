@@ -4,6 +4,8 @@
 
 - [World of Pixels](https://ourworldofpixels.com/)
 
+- [Dithering: Part 1](https://visualrambling.space/dithering-part-1/) [Hacker News 📰](https://news.ycombinator.com/item?id=45750954)
+
 ## Inspiration
 
 - [kirokaze](https://www.deviantart.com/kirokaze)

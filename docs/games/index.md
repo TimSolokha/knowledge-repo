@@ -123,3 +123,9 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [Complementary Shader - Minecraft](https://www.complementary.dev/shaders/)
 
 - [Bliss Shader - Minecraft](https://github.com/X0nk/Bliss-Shader)
+
+## Game Hardware
+
+- [List of Steam Deck Resources](https://www.reddit.com/r/SteamdeckGames/comments/1h3dl3k/megathread_list_of_steamdeck_resources_hacks/?share_id=iJQJC8kQTaI6-e1jonZ1j&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
+
+- [ShareDeck: Sharing Steam Deck settings](https://sharedeck.games/)

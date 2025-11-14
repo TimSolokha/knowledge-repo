@@ -10,4 +10,4 @@
 
 ## Tools
 
-- [Nomnoml: A tool for drawing UML diagrams](https://nomnoml.com/) [Hacker News](https://news.ycombinator.com/item?id=37734875)
+- [Nomnoml: A tool for drawing UML diagrams](https://nomnoml.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=37734875)

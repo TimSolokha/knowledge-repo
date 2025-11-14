@@ -60,7 +60,7 @@
 
 - [Fundamental Math for Game Developers](https://pikuma.com/blog/math-for-game-developers)
 
-- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html) [Hacker News](https://news.ycombinator.com/item?id=40081541)
+- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html) [Hacker News 📰](https://news.ycombinator.com/item?id=40081541)
 
 ## Misc Links for Game Dev Content
 
@@ -80,6 +80,6 @@
 
 - [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
 
-- [A guy preserving the new history o fPC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/) [Hacker News](https://news.ycombinator.com/item?id=37443316)
+- [A guy preserving the new history o fPC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/) [Hacker News 📰](https://news.ycombinator.com/item?id=37443316)
 
 - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/) [HackerNews 📰](https://news.ycombinator.com/item?id=41092861)

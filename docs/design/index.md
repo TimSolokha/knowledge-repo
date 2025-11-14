@@ -20,6 +20,8 @@
 
 ## Resources
 
+- [Website Theme Toggle Effect](https://theme-toggle.rdsx.dev/)
+
 - [World's Largest Mobile and Web Design Library](https://mobbin.com/browse/android/apps)
 
 - [List of Well Designed Websites](https://www.siteofsites.co/?s=35)

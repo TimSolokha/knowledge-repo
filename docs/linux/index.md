@@ -36,9 +36,11 @@ TODO: Small blurb on linux
 
 - [Linux Network Performance Parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 
-- [How fast are LInux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37782493)
+- [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37782493)
 
 - [Notes on EndeavorOS](https://mudkip.me/2024/03/28/Notes-on-EndeavourOS/) [Hacker News 📰](https://news.ycombinator.com/item?id=39840518)
+
+- [Niri: Scrollable-tiling Wayland compositor](https://news.ycombinator.com/item?id=45461500)
 
 ## Content around Linux
 

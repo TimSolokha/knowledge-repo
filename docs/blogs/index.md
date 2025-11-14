@@ -62,11 +62,11 @@
 
 - [Putting the "You" in CPU](https://news.ycombinator.com/item?id=36823605)
 
-- [RSS-like Feed of Blogs](https://boredreading.com/) [Hacker News](https://news.ycombinator.com/item?id=37403534)
+- [RSS-like Feed of Blogs](https://boredreading.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=37403534)
 
 - [I Hate Jira](https://ifuckinghatejira.com/1/)
 
-- [It's okay to Make Something Nobody Wants](https://zhangluyao.com/blog/make-something-nobody-wants/) [Hacker News](https://news.ycombinator.com/item?id=37596513)
+- [It's okay to Make Something Nobody Wants](https://zhangluyao.com/blog/make-something-nobody-wants/) [Hacker News 📰](https://news.ycombinator.com/item?id=37596513)
 
 - [Compressing Codebase Collocates](https://taylor.town/code-collocates) [Hacker News 📰](https://news.ycombinator.com/item?id=38249616) I also like the way this site looks...
 
@@ -124,6 +124,8 @@
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/)
 
 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
+
+- [Things I Learnt The Hard Way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
 - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain) [Hacker News 📰](https://news.ycombinator.com/item?id=40704812)
 
@@ -204,6 +206,8 @@
 - [Developer's Block](https://underlap.org/developers-block/) [Hacker News 📰](https://news.ycombinator.com/item?id=44994590)
 
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) [Hacker News 📰](https://news.ycombinator.com/item?id=45006801)
+
+- [Mistakes I made in pricing dev projects](https://x.com/alxfazio/status/1980292397616484862)
 
 ## Life
 
@@ -390,3 +394,7 @@
 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential) [Hacker News 📰](https://news.ycombinator.com/item?id=39288669)
 
 - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first) [Hacker News 📰](https://news.ycombinator.com/item?id=39867160)
+
+## Outdoors
+
+- [Indefinite Backpack Travel](https://jeremymaluf.com/onebag/) [Hacker News 📰](https://news.ycombinator.com/item?id=45452472)

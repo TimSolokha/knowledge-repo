@@ -60,7 +60,7 @@
 
 - [Animated Knots](https://www.animatedknots.com/)
 
-- [Life-Dashboard](https://github.com/davidhampgonsalves/life-dashboard) [Hacker News](https://news.ycombinator.com/item?id=37642671)
+- [Life-Dashboard](https://github.com/davidhampgonsalves/life-dashboard) [Hacker News 📰](https://news.ycombinator.com/item?id=37642671)
 
 - [Show HN: Use an old tablet as an extra monitor](https://news.ycombinator.com/item?id=37789371)
 
@@ -89,3 +89,5 @@
 - [Cool little nook behind a house](https://x.com/isaacfrench_/status/1799110042526089423?t=WzHi319KWjfWsDUaiafthQ)
 
 - [Linux in a PDF](https://news.ycombinator.com/item?id=42959775)
+
+- [PC Button Launch Project](https://github.com/veloci-official/pc-button-extension-v2d)

@@ -6,7 +6,7 @@
 
 ## Windows
 
-- [List of Bootleg Windows Programs](https://crustywindo.ws/Main_Page) [Hacker News](https://news.ycombinator.com/item?id=37735704)
+- [List of Bootleg Windows Programs](https://crustywindo.ws/Main_Page) [Hacker News 📰](https://news.ycombinator.com/item?id=37735704)
 
 ## Unique
 
