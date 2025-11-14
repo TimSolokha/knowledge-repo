@@ -119,6 +119,8 @@
 
 ## Software Development
 
+- [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/)
+
 - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 
 - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain) [Hacker News 📰](https://news.ycombinator.com/item?id=40704812)
@@ -196,6 +198,10 @@
 - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/) [Hacker News 📰](https://news.ycombinator.com/item?id=43210858)
 
 - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/) [Hacker News 📰](https://news.ycombinator.com/item?id=44557115)
+
+- [Developer's Block](https://underlap.org/developers-block/) [Hacker News 📰](https://news.ycombinator.com/item?id=44994590)
+
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) [Hacker News 📰](https://news.ycombinator.com/item?id=45006801)
 
 ## Life
 
@@ -321,11 +327,15 @@
 
 - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 
-## Self-Host & Explroing Tech
+## Self-Host & Exploring Tech
 
 - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
 
 - [Local first, forever](https://tonsky.me/blog/crdt-filesync/) [Hacker News 📰](https://news.ycombinator.com/item?id=40786425)
+
+- [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/) [Hacker News 📰](https://news.ycombinator.com/item?id=45015814)
+
+- [Use One Big Server](https://specbranch.com/posts/one-big-server/) [Hacker News 📰](https://news.ycombinator.com/item?id=45085029)
 
 ## Miscellaneous Tech Topics
 
@@ -348,6 +358,10 @@
 - [Woodworking as an excape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/) [Hacker News 📰](https://news.ycombinator.com/item?id=40245601)
 
 - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) [Hacker News 📰](https://news.ycombinator.com/item?id=40408291)
+
+- [Big O Notation Visualization](https://samwho.dev/big-o/) [Hacker News 📰](https://news.ycombinator.com/item?id=45002182)
+
+- [Cognitive load is what matters](https://news.ycombinator.com/item?id=45074248)
 
 - [JUST USE HTML](https://justfuckingusehtml.com/)
 

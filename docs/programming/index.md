@@ -16,7 +16,7 @@ TODO: Short blurb on programming
 
 - [OSI Model Breakdown](https://www.imperva.com/learn/application-security/osi-model/#:~:text=SecurityEssentialsProtocols-,What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
 
-- [diff.blog: Link Aggregator](https://diff.blog/) 
+- [diff.blog: Link Aggregator](https://diff.blog/)
 
 - [Passing Time in an IT job](https://www.reddit.com/r/iiiiiiitttttttttttt/comments/ycmtis/i_got_my_first_it_job_and_finished_tickets_early/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=14&utm_content=share_button)
 
@@ -31,3 +31,5 @@ TODO: Short blurb on programming
 - [List of Challenging Software Projects](https://www.andreinc.net/2024/03/28/programming-projects-ideas) [Hacker News 📰](https://news.ycombinator.com/item?id=40037583)
 
 - [Ask HN: How to secure website for public launch](https://news.ycombinator.com/item?id=39874201)
+
+- [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth) [Hacker News 📰](https://news.ycombinator.com/item?id=45013131)

@@ -42,7 +42,7 @@
 
 - [Speedtest.net](https://www.speedtest.net/)
 
-- [fast.com](https://fast.com/) : Uses Netflix's servers to generate a speed test. 
+- [fast.com](https://fast.com/) : Uses Netflix's servers to generate a speed test.
 
 - [Cloudflare Speed Test](https://speed.cloudflare.com/)
 
@@ -69,6 +69,8 @@
 - [Site of Sites](https://www.siteofsites.co/?s=35&p=1)
 
 - [Breakdown of Company Tech Stacks](https://stackshare.io/stacks)
+
+- [Lazy Brush](https://lazybrush.dulnan.net/) [Hacker News 📰](https://news.ycombinator.com/item?id=44915897)
 
 ## Frameworks/Libraries
 
