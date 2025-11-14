@@ -90,10 +90,12 @@ TODO: Use emojis to create ways to decipher between resources
 
 - [EloShapes: Compare mouse sizes](https://www.eloshapes.com/index.html)
 
-## Accessories 
+## Accessories
 
 - [Zap Cables](https://www.zapcables.com/)
 
-## Blog Posts and Video on Peripherals
+## Blog Posts and Videos on Peripherals
 
-- [My unhealthy relationship with keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html) [Hacker News](https://news.ycombinator.com/item?id=37658208)
+- [My unhealthy relationship with keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html) [Hacker News 📰](https://news.ycombinator.com/item?id=37658208)
+
+- [50 Keyboards from my collection](https://aresluna.org/50-keyboards-from-my-collection/) [Hacker News 📰](https://news.ycombinator.com/item?id=45099192)

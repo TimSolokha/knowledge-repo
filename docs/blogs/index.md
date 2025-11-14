@@ -97,6 +97,8 @@
 
 - [Cool Reference Manual on Software](https://www.makingsoftware.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=43678144)
 
+- [Purposeful Animations](https://emilkowal.ski/ui/you-dont-need-animations) [Hacker News 📰](https://news.ycombinator.com/item?id=45139088)
+
 ## Software Tooling
 
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages#:~:text=We%20partition%20our%20messages%20by,ve%20set%20the%20replication%20factor)
@@ -205,7 +207,11 @@
 
 ## Life
 
+- [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
+
 - [You are NOT dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) [Hacker News 📰](https://news.ycombinator.com/item?id=41338354)
+
+- [You Can Try to Like Stuff](https://dynomight.net/liking/) [Hacker News 📰](https://news.ycombinator.com/item?id=45102512)
 
 - [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern) [Hacker News 📰](https://news.ycombinator.com/item?id=39373254)
 
@@ -267,6 +273,8 @@
 
 - [Thread: Which real life cheat codes do yo know?](https://www.reddit.com/r/AskMen/comments/1doi5hh/which_real_life_cheat_codes_do_you_know/?share_id=zY6O4aqe23SLjgSZJgxMd&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
+- [996](https://lucumr.pocoo.org/2025/9/4/996/) [Hacker News 📰](https://news.ycombinator.com/item?id=45149049)
+
 ## Productivity
 
 - [Ask HN: What are you working on? July 2025](https://news.ycombinator.com/item?id=44702833)
@@ -311,6 +319,8 @@
 
 - [I Tried Every Todo app and stuck with a .txt file](https://www.al3rez.com/todo-txt-journey) [Hacker News 📰](https://news.ycombinator.com/item?id=44864134)
 
+- [Sustained Attention Loop](https://www.henrikkarlsson.xyz/p/attention) [Hacker News 📰](https://news.ycombinator.com/item?id=45126503)
+
 ## Game Development
 
 - [Develop Games](https://www.develop.games/)
@@ -337,6 +347,8 @@
 
 - [Use One Big Server](https://specbranch.com/posts/one-big-server/) [Hacker News 📰](https://news.ycombinator.com/item?id=45085029)
 
+- [Making a Linux home server WoL](https://dgross.ca/blog/linux-home-server-auto-sleep) [Hacker News 📰](https://news.ycombinator.com/item?id=45108066)
+
 ## Miscellaneous Tech Topics
 
 - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/) [Hacker News 📰](https://news.ycombinator.com/item?id=44636240)
@@ -353,6 +365,8 @@
 
 - [Leadership is a Hell of a Drug](https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/) [Hacker News 📰](https://news.ycombinator.com/item?id=39624842)
 
+- [Keep Secrets out of Logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/) [Hacker News 📰](https://news.ycombinator.com/item?id=45160774)
+
 - [Ask HN: What is the most useless project you have worked on?](https://news.ycombinator.com/item?id=39942397)
 
 - [Woodworking as an excape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/) [Hacker News 📰](https://news.ycombinator.com/item?id=40245601)
@@ -360,6 +374,8 @@
 - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) [Hacker News 📰](https://news.ycombinator.com/item?id=40408291)
 
 - [Big O Notation Visualization](https://samwho.dev/big-o/) [Hacker News 📰](https://news.ycombinator.com/item?id=45002182)
+
+- [Loadmore: Unconventional Web Reference](https://loadmo.re/) [Hacker News 📰](https://news.ycombinator.com/item?id=45415207)
 
 - [Cognitive load is what matters](https://news.ycombinator.com/item?id=45074248)
 

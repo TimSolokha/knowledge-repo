@@ -31,3 +31,5 @@
 - [List of Fonts for Coding](https://github.com/Gaafar/dev-fonts)
 
 - [Bad Apple Font](https://news.ycombinator.com/item?id=37317055)
+
+- [Brutalia: Experimental Font](https://brutalita.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=45347072)

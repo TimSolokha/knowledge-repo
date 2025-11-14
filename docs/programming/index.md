@@ -14,6 +14,8 @@ TODO: Short blurb on programming
 
 ## Links
 
+- [Next.js is infuriating](https://blog.meca.sh/3lxoty3shjc2z?auth_completed=true) [Hacker News 📰](https://news.ycombinator.com/item?id=45099922)
+
 - [OSI Model Breakdown](https://www.imperva.com/learn/application-security/osi-model/#:~:text=SecurityEssentialsProtocols-,What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
 
 - [diff.blog: Link Aggregator](https://diff.blog/)

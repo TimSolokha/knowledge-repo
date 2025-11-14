@@ -6,6 +6,8 @@ TODO: Small blurb on tools (hardware/software)
 
 ## Links
 
+- [Curated Supply](https://www.curated.supply/)
+
 - [IT - Tools](https://it-tools.tech/)
 
 - [Ask HN: Programs that saved you 100 hours? (2022)](https://news.ycombinator.com/item?id=34069106)

@@ -1,14 +1,14 @@
 # Games
 
-Though I don't play them as much nowadays, games are still a great way to experience a riveting story or competitive experience. My primary platform for gaming is [Steam](https://store.steampowered.com/) for its ease of use and the vast number of game sales it holds every year. 
+Though I don't play them as much nowadays, games are still a great way to experience a riveting story or competitive experience. My primary platform for gaming is [Steam](https://store.steampowered.com/) for its ease of use and the vast number of game sales it holds every year.
 
-The [Epic Games Store](https://store.epicgames.com/en-US/) and [GOG](https://www.gog.com/) also have their fair selection of perks (mostly boils down to free games), but their experience pales in comparison to Steam. [Itch.io](https://itch.io/) is a great way to support indie developers and I mostly use it to participate in community game jams. 
+The [Epic Games Store](https://store.epicgames.com/en-US/) and [GOG](https://www.gog.com/) also have their fair selection of perks (mostly boils down to free games), but their experience pales in comparison to Steam. [Itch.io](https://itch.io/) is a great way to support indie developers and I mostly use it to participate in community game jams.
 
 ## Experience
 
-My first introduction to gaming was with the Nintendo DS Lite. That's where I got introduced to the Sonic and Mario IPs and soon decided to expand my horizons with another Nintendo device, the Wii. This is where my curiosity for games began to skyrocket and soon enough I got introduced to PC Gaming when I built my first pc. 
+My first introduction to gaming was with the Nintendo DS Lite. That's where I got introduced to the Sonic and Mario IPs and soon decided to expand my horizons with another Nintendo device, the Wii. This is where my curiosity for games began to skyrocket and soon enough I got introduced to PC Gaming when I built my first pc.
 
-Today, I tend to primarily play indie and multiplayer games on pc. My preferred way of doing this is through Linux using Steam's [Proton](https://github.com/ValveSoftware/Proton/tree/proton_8.0), however, some anti-cheat games still require me to go into my Windows environment :/. Gaming has gone through an amazing revolution over the years, but it feels as if newer AAA titles are lacking good gameplay and polish. So I currently stick to testing out the latest indie games and the unique experiences they provide. 
+Today, I tend to primarily play indie and multiplayer games on pc. My preferred way of doing this is through Linux using Steam's [Proton](https://github.com/ValveSoftware/Proton/tree/proton_8.0), however, some anti-cheat games still require me to go into my Windows environment :/. Gaming has gone through an amazing revolution over the years, but it feels as if newer AAA titles are lacking good gameplay and polish. So I currently stick to testing out the latest indie games and the unique experiences they provide.
 
 ## Personal Favorites
 
@@ -20,7 +20,7 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 - [Enter the Gungeon](https://enterthegungeon.com/)
 
-- [Inscryption](https://www.inscryption.com/) 
+- [Inscryption](https://www.inscryption.com/)
 
 ### Multiplayer
 
@@ -29,6 +29,8 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 - [Titanfall 2/Northstar](https://northstar.tf/)
 
 - [CSGO](https://www.counter-strike.net/news)
+
+- [The Finals](https://www.reachthefinals.com/)
 
 ## Game Platforms and Launchers
 
@@ -40,7 +42,7 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 - [Itch.io](https://itch.io/)
 
-## Emulators 
+## Emulators
 
 !!! warning
 

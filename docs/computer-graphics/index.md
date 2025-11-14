@@ -38,6 +38,8 @@
 
 - [Cartoonish Shader in Blender](https://twitter.com/Simon_3_D/status/1726710034892235044?t=I6RufBGQu36YwSuQogQYPw)
 
+- [Implementing A Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker) [Hacker News 📰](https://news.ycombinator.com/item?id=45095460)
+
 ## Tutorials
 
 - [Rendering References GitHub](https://github.com/Angelo1211/SoftwareRenderer/wiki/Rendering-References)
