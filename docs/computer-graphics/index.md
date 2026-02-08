@@ -14,6 +14,8 @@
 
 ## Graphics
 
+- [Shader Basics](https://bobacupcake.com/shader-basics)
+
 - [4 Methods of Making a Cel-Shader in Blender](https://medium.com/@josephclaytonhansen/four-different-methods-for-making-cel-shaders-in-blender-eevee-2-8-2-9-6d976ce2555d)
 
 - [The Book of Shaders](https://thebookofshaders.com/)

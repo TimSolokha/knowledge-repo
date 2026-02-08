@@ -91,3 +91,9 @@
 - [Linux in a PDF](https://news.ycombinator.com/item?id=42959775)
 
 - [PC Button Launch Project](https://github.com/veloci-official/pc-button-extension-v2d)
+
+- [Remove the Extra Fluff on Cooking Sites](https://www.plainoldrecipe.com/)
+
+- [What You Can Cook With Things in The Fridge](https://www.supercook.com/#/desktop)
+
+- [My Fridge Food](https://myfridgefood.com/)

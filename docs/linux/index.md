@@ -42,6 +42,8 @@ TODO: Small blurb on linux
 
 - [Niri: Scrollable-tiling Wayland compositor](https://news.ycombinator.com/item?id=45461500)
 
+- [Ask HN: How would you set up a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

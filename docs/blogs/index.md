@@ -40,6 +40,8 @@
 
 - [Daudix](https://daudix.one/blog/archiving-gradience/#top)
 
+- [The Singularity Is Nearer](https://geohot.github.io/blog/)
+
 ## My Favorite Blogs
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
@@ -281,7 +283,11 @@
 
 ## Productivity
 
+- [On Doing Things](https://jalexine.github.io/on-doing-things.html?t=Cpv5Jtk-CW85lpJz3p2yIQ&s=35)
+
 - [Ask HN: What are you working on? July 2025](https://news.ycombinator.com/item?id=44702833)
+
+- [Ask HN: What are you working on? Nov 2025](https://news.ycombinator.com/item?id=45869146)
 
 - [How is it that I'm making more money while doing less...?](https://www.reddit.com/r/sysadmin/comments/1ldp297/how_is_it_that_im_making_more_money_while_doing/?share_id=otnFxUIcwvjFL-xZbfikh&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
@@ -341,6 +347,10 @@
 
 - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 
+- [Cool Resume Site for a Game Developer](https://www.noio.nl/)
+
+- [Game Design is Simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/) [Hacker News 📰](https://news.ycombinator.com/item?id=45841262)
+
 ## Self-Host & Exploring Tech
 
 - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/) [Hacker News 📰](https://news.ycombinator.com/item?id=38823101)
@@ -394,6 +404,8 @@
 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential) [Hacker News 📰](https://news.ycombinator.com/item?id=39288669)
 
 - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first) [Hacker News 📰](https://news.ycombinator.com/item?id=39867160)
+
+- [Work, After Work: Notes From an Unemployed New Grad Watching The Job Market Break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) [Hacker News 📰](https://news.ycombinator.com/item?id=45870863)
 
 ## Outdoors
 

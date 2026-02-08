@@ -20,6 +20,8 @@
 
 ## Resources
 
+- [Curated Colors Site](https://www.happyhues.co/palettes/14)
+
 - [Website Theme Toggle Effect](https://theme-toggle.rdsx.dev/)
 
 - [World's Largest Mobile and Web Design Library](https://mobbin.com/browse/android/apps)
@@ -95,3 +97,5 @@
 - [Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
 
 - [Gamefication of Scrolling](https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification)
+
+- [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=45887957)
