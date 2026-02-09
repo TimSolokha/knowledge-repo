@@ -2,9 +2,17 @@
 
 ## Resources
 
+- [ComparisonTables for Tech](https://comparisontabl.es/)
+
 - [Subreddits that have favorite products (2022)](https://www.looria.com/reddit)
 
 - [Software for Keyboards (VIA)](https://www.caniusevia.com/)
+
+- [NanoReview for Tech](https://nanoreview.net/)
+
+- [GearLab](https://www.techgearlab.com/)
+
+- [RTINGS](https://www.rtings.com/)
 
 ## Links
 

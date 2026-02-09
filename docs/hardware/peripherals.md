@@ -4,6 +4,8 @@ TODO: Use emojis to create ways to decipher between resources
 
 ## Keyboards
 
+- [KeebFinder](https://keeb-finder.com/)
+
 - [Wooting](https://wooting.io/)
 
 - [IQUNIX](https://iqunix.store/)
@@ -42,6 +44,8 @@ TODO: Use emojis to create ways to decipher between resources
 
 ### Keycaps
 
+- [Keyboard Vendor List](https://www.alexotos.com/keyboard-vendor-list/)
+
 - [NovelKeys](https://novelkeys.com/)
 
 - [Kbdfans](https://kbdfans.com/collections/pbtfans)
@@ -67,6 +71,8 @@ TODO: Use emojis to create ways to decipher between resources
 - [Mech Land](https://mech.land/collections/switches)
 
 ## Mice
+
+- [Compare the Shape of Mice](https://www.eloshapes.com/)
 
 - [LogitechG Mice](https://www.logitechg.com/en-us/products/gaming-mice.html)
 

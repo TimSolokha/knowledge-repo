@@ -6,6 +6,8 @@
 
 - [PcPartPicker](https://pcpartpicker.com/)
 
+- [PC Tiers](https://pctiers.com/)
+
 - [IFIXIT Guides](https://www.ifixit.com/Guide)
 
 - [How to clean your computer](https://www.pcgamer.com/how-to-clean-your-computer-case/) : My key is to clean my pc(s) every 6-8 months to keep them in the best shape possible. 
@@ -17,6 +19,10 @@
 - [Why Formatting a Hard Drive Takes a While](https://askubuntu.com/questions/638262/formatting-hard-drives-takes-ages)
 
 - [PSU Tier List](https://docs.google.com/spreadsheets/u/0/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/htmlview)
+
+- [Interactive PC Builder](https://www.buildcores.com/)
+
+- [Recover Data](https://www.cgsecurity.org/wiki/TestDisk)
 
 ## Desk Setups
 

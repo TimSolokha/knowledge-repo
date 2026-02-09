@@ -20,6 +20,8 @@
 
 ## Resources
 
+- [Designer Ultimate Bookmarks](https://www.evernote.design/)
+
 - [Curated Colors Site](https://www.happyhues.co/palettes/14)
 
 - [Website Theme Toggle Effect](https://theme-toggle.rdsx.dev/)
@@ -60,7 +62,7 @@
 
 - [Mobbin: Mobile and web design library](https://mobbin.com/browse/android/apps?s=35)
 
-- [Color Designer](https://colordesigner.io/?s=35)
+- [Color Designer](https://colordesigner.io/tools)
 
 - [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer?s=35)
 

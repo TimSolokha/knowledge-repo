@@ -6,6 +6,8 @@ TODO: Explanation paragraph
 
 ## Resources
 
+- [freemediaheckyeah](https://fmhy.net/)
+
 - [TRaSH-Guides](https://trash-guides.info/)
 
 - [Noted: Self-hosting solutions](https://noted.lol/)
@@ -45,6 +47,10 @@ TODO: Explanation paragraph
 ## Documentation
 
 - [Paperless NGX: Open Source document management system](https://github.com/paperless-ngx/paperless-ngx) [Hacker News 📰](https://news.ycombinator.com/item?id=37800951)
+
+## Adblock
+
+- [OISD Ad Blocklist](https://oisd.nl/)
 
 ## Links
 

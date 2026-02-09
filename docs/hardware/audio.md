@@ -2,6 +2,10 @@
 
 TODO: Blurb about audio
 
+## Guides
+
+- [IEM Shopping Guide](https://consoomer-guide.pages.dev/)
+
 ## Vendors
 
 - [HiFiGo](https://hifigo.com/)

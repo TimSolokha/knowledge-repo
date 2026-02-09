@@ -8,6 +8,8 @@ This section lists out some advice and resources around financing. Keep in mind 
 
 - [Living Wage Calculator](https://livingwage.mit.edu/)
 
+- [Financial Visualizations](https://finviz.com/)
+
 ## Blog Posts
 
 - [Ask HN: Those making $500/month on side projects in 2024 - Show and tell](https://news.ycombinator.com/item?id=39110194)
@@ -33,3 +35,7 @@ This section lists out some advice and resources around financing. Keep in mind 
 - [Thread: What should first-time homeowners know?](https://www.reddit.com/r/LifeProTips/comments/18tycit/deleted_by_user/?share_id=gk5JtO8Mg6UCXLXXjpHmQ&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 - [Where is inflation at?](https://inflationchart.com/spx-in-m3)
+
+## Finanical Tools
+
+- [Mortgage Rates Comparison](https://finfam.app/blog/credit-union-mortgages) [Hacker News 📰](https://news.ycombinator.com/item?id=46139761)

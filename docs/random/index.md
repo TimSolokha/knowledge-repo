@@ -6,7 +6,11 @@
 
 - [Fluid Simulation on a card](https://github.com/Nicholas-L-Johnson/flip-card) [Hacker News 📰](https://news.ycombinator.com/item?id=44835879)
 
+- [Search File Extensions](https://fileinfo.com/)
+
 ## Links
+
+- [Compare Everything](https://versus.com/en)
 
 - [Models of Train Stations](http://stations.albertguillaumes.cat/) [Hacker News 📰](https://news.ycombinator.com/item?id=45238055)
 

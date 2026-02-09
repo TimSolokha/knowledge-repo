@@ -14,6 +14,8 @@
 
 ## Workout
 
+- [Bodyweight Workouts](https://darebee.com/)
+
 - [Show HN: Workout.lol - a web app to easily create a workout routine](https://news.ycombinator.com/item?id=36662655)
 
 - [Workout Plan via Notion Blog](https://get-jacked-son.notion.site/Workout-plan-510e72bb8896426fae8ce0602ebd420f)

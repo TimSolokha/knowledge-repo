@@ -86,6 +86,8 @@
 
 - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
 
+- [Opens a Random Indie Blog](https://indieblog.page/)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)

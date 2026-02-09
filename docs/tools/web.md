@@ -72,6 +72,8 @@
 
 - [Lazy Brush](https://lazybrush.dulnan.net/) [Hacker News 📰](https://news.ycombinator.com/item?id=44915897)
 
+- [Modern Hacker News](https://www.modernhn.com/)
+
 ## Frameworks/Libraries
 
 - [My journey away from the JAMstack](https://news.ycombinator.com/item?id=36944545)

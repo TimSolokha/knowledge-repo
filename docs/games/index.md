@@ -46,7 +46,13 @@ Today, I tend to primarily play indie and multiplayer games on pc. My preferred 
 
 !!! warning
 
-    These are great resources to play your favorite games from any platform on PC, but I do not condone pirating games.
+    These are great resources to play your favorite games from any platform on PC or handhelds, but I do not condone pirating games.
+
+- [Emulator Frontend](https://es-de.org/)
+
+- [EmuReady](https://www.emuready.com/)
+
+- [Retro Catalog](https://retrocatalog.com/)
 
 - [Ryujinx](https://ryujinx.org/) : Nintendo Switch Emulator
 
@@ -94,6 +100,8 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 
 - [Backloggd](https://www.backloggd.com/)
 
+- [How Long To Beat](https://howlongtobeat.com/)
+
 ## Online Games
 
 - [figure.game](https://figure.game/)
@@ -110,11 +118,17 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 
 ## Modding
 
+- [Nexus Mods](https://www.nexusmods.com/)
+
+- [GameBanana](https://gamebanana.com/)
+
 - [Trombone Champ Modding](https://trombone.wiki/#/)
 
 - [3DS Hack Guide](https://3ds.hacks.guide/)
 
 - [The 15 best Minecraft Shaders](https://www.pcgamesn.com/minecraft/minecraft-shaders-best-graphics-mods)
+
+- [Minecraft Player Skins](https://namemc.com/)
 
 - [Lunar Client](https://www.lunarclient.com/)
 
@@ -129,3 +143,7 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [List of Steam Deck Resources](https://www.reddit.com/r/SteamdeckGames/comments/1h3dl3k/megathread_list_of_steamdeck_resources_hacks/?share_id=iJQJC8kQTaI6-e1jonZ1j&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
 
 - [ShareDeck: Sharing Steam Deck settings](https://sharedeck.games/)
+
+## Game Centric Sites
+
+- [CS Nade Lineups](https://csnades.gg/)
