@@ -1,0 +1,4361 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../android/sideloaded/">
+      
+      
+        <link rel="next" href="../command-line/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Blogs - Tim's Knowledge Repository</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="cyan">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#blogs" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Tim&#39;s Knowledge Repository" class="md-header__button md-logo" aria-label="Tim's Knowledge Repository" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Tim's Knowledge Repository
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Blogs
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="cyan"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue-grey" data-md-color-accent="cyan"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Tim&#39;s Knowledge Repository" class="md-nav__button md-logo" aria-label="Tim's Knowledge Repository" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Tim's Knowledge Repository
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My Knowledge Wiki 🌱
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../android/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Android
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Android
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../android/playstore/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Google Play Store Apps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../android/sideloaded/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Side Loaded Apps
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blogs
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blogs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../command-line/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Command line
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Command line
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../computer-graphics/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Computer graphics
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Computer graphics
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computer-graphics/blender/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blender
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../computer-graphics/tutorials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Computer Graphics Tutorials
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../design/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Design
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../design/fonts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fonts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../design/pixelart/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pixel Art
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../entertainment/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entertainment
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entertainment
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entertainment/anime/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Anime
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entertainment/movies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Movies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entertainment/streaming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Streaming
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entertainment/tv-shows/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    TV Shows
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entertainment/youtube/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    YouTube
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../finance/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Finance
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Finance
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../finance/entrepreneurship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrepreneurship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../games/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Games
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9" id="__nav_9_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Games
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../games/boardgames/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Board Games
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../games/game-design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../games/game-engines/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Engines &amp; Libraries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../games/game-setting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Settings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../games/gamedev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Development
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../hardware/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hardware
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_10" id="__nav_10_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hardware
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/audio/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Audio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/consoles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Consoles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/laptops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Laptops
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/pc-building/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PC Building
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/peripherals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Peripherals
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hardware/printing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    3D Printing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../health/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Health
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_11" id="__nav_11_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Health
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../health/exercise/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exercise
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../jobs/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jobs
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Jobs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_13" id="__nav_13_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lego
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_13">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Lego
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lego/lego/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lego
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_14" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../linux/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Linux
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_14" id="__nav_14_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_14">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Linux
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../linux/customization/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Customization
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../linux/linux-apps/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Linux Applications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../linux/linux-gaming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Linux Gaming
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../linux/things-to-know/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Things to Know with Linux...
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_15" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../music/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_15_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_15">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Music
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_16" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../networking/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Networking
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_16_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_16">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Networking
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_17" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../online-platforms/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Online platforms
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_17" id="__nav_17_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_17_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_17">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Online platforms
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../online-platforms/social-media/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Media
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../open-source/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Open source
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_18_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Open source
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_19" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../privacy/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Privacy
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_19_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_19">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Privacy
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_20" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../productivity/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Productivity
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_20_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_20">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Productivity
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_21" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../programming/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Programming
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_21" id="__nav_21_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_21_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_21">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Programming
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/ai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Artificial Intelligence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/architecture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Architecture
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/cloud/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cloud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/databases/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Databases
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/lowlevel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Low Level Concepts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/pipelines/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pipelines
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/side-projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Side Projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../programming/source-control/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Source Control
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_22" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../programming-languages/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Programming languages
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_22_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_22">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Programming languages
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_23" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../random/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Random
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_23_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_23">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Random
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../reading/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reading
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_24_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Reading
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_25" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../self-hosting/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Self hosting
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_25_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_25">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Self hosting
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_26" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../tools/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tools
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_26" id="__nav_26_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_26_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_26">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Tools
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/desktop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Desktop Applications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/editor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Text Editor &amp; IDE
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/virtualization/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Virtualization
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/web/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web Tools
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_27" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../travel/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Travel
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_27_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_27">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Travel
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_28" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../uses/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Uses
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_28_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_28">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Uses
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_29" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../writing/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Writing
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_29" id="__nav_29_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_29_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_29">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Writing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../writing/documentation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Documentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="blogs">Blogs<a class="headerlink" href="#blogs" title="Permanent link">&para;</a></h1>
+<h2 id="experience">Experience<a class="headerlink" href="#experience" title="Permanent link">&para;</a></h2>
+<h2 id="bloggers">Bloggers<a class="headerlink" href="#bloggers" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://tomcritchlow.com/">Tom Critchlow</a></p>
+</li>
+<li>
+<p><a href="https://www.swyx.io/">Shawn Wang</a></p>
+</li>
+<li>
+<p><a href="https://simonwillison.net/">Simon Willison</a></p>
+</li>
+<li>
+<p><a href="https://eugeneyan.com/">Eugene Yun</a></p>
+</li>
+<li>
+<p><a href="https://andymatuschak.org/">Andy Matuschak</a></p>
+</li>
+<li>
+<p><a href="https://gwern.net/">Gwern Branwen</a></p>
+</li>
+<li>
+<p><a href="https://notes.azlen.me/g3tibyfv/">Azlen Elza's Notes</a></p>
+</li>
+<li>
+<p><a href="https://busterbenson.com/piles">Buster's "Pile" of Notes</a></p>
+</li>
+<li>
+<p><a href="https://vin.gg/">Vin</a></p>
+</li>
+<li>
+<p><a href="https://lelouch.dev/">Lelouch Dev</a></p>
+</li>
+<li>
+<p><a href="https://rknight.me/">Robb Knight</a></p>
+</li>
+<li>
+<p><a href="https://zoltan.co/37signals/">Zoltán Hosszú</a></p>
+</li>
+<li>
+<p><a href="https://mitchellh.com/">Mitchell Hashimoto</a></p>
+</li>
+<li>
+<p><a href="https://carlosbecker.com/">Carlos Becker</a></p>
+</li>
+<li>
+<p><a href="https://hamvocke.com/blog/">Ham Vocke</a></p>
+</li>
+<li>
+<p><a href="https://マリウス.com/">マリウス</a></p>
+</li>
+<li>
+<p><a href="https://blog.parasrah.com/posts">Parasrah</a></p>
+</li>
+<li>
+<p><a href="https://daudix.one/blog/archiving-gradience/#top">Daudix</a></p>
+</li>
+<li>
+<p><a href="https://geohot.github.io/blog/">The Singularity Is Nearer</a></p>
+</li>
+<li>
+<p><a href="https://toddham.com/">Todd Hamilton</a></p>
+</li>
+</ul>
+<h2 id="my-favorite-blog-posts">My Favorite Blog Posts<a class="headerlink" href="#my-favorite-blog-posts" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://lars.yencken.org/fresh-start-effect">The fresh start effect</a> - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. <a href="https://news.ycombinator.com/item?id=38831119">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=38892150">Ask HN: Experience Starting a Blog</a></p>
+</li>
+<li>
+<p><a href="https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/">Advice for new software devs who've read all those other advice essays</a> <a href="https://news.ycombinator.com/item?id=38706697">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://luke.hsiao.dev/blog/housing-documentation/">Writing Documentation for Your House</a> <a href="https://news.ycombinator.com/item?id=38444577">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ciechanow.ski/">Bartosz Ciechanowski</a> : Great visuals and deep dives into various topics</p>
+</li>
+<li>
+<p><a href="https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/">My Business Card Runs Linux</a> : Wacky side project that looks super cool</p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36605493">Show HN: Hacker News user blogroll</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36725417">Keyboards and web apps, my post/rant for the year</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36833252">Cool looking site from Antarctica</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36823605">Putting the "You" in CPU</a></p>
+</li>
+<li>
+<p><a href="https://boredreading.com/">RSS-like Feed of Blogs</a> <a href="https://news.ycombinator.com/item?id=37403534">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ifuckinghatejira.com/1/">I Hate Jira</a></p>
+</li>
+<li>
+<p><a href="https://zhangluyao.com/blog/make-something-nobody-wants/">It's okay to Make Something Nobody Wants</a> <a href="https://news.ycombinator.com/item?id=37596513">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://taylor.town/code-collocates">Compressing Codebase Collocates</a> <a href="https://news.ycombinator.com/item?id=38249616">Hacker News 📰</a> I also like the way this site looks...</p>
+</li>
+<li>
+<p><a href="http://www.lilysthings.org/blog/daily-driving-freebsd/">Daily Driving FreeBSD</a> <a href="https://news.ycombinator.com/item?id=38270473">Hacker News 📰</a> I like the way this site looks as well...</p>
+</li>
+<li>
+<p><a href="https://laplab.me/posts/whats-that-touchscreen-in-my-room/">What's that touchscreen in my room?</a> <a href="https://news.ycombinator.com/item?id=39063242">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://aboutideasnow.com/">About Ideas Now: List of personal blogs and sites</a> <a href="https://news.ycombinator.com/item?id=39511714">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://maggieappleton.com/garden-history">A Brief History of the Digital Garden</a></p>
+</li>
+<li>
+<p><a href="https://blog.depthsofrepair.com/p/do-hard-things-carefully">Do Hard Things Carefully</a> <a href="https://news.ycombinator.com/item?id=41954375">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://endler.dev/2025/best-programmers/">The best programmers I know</a> <a href="https://news.ycombinator.com/item?id=43629307">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://seated.ro/blog/tinkering-a-lost-art">If you don't tinker, you don't have taste</a></p>
+</li>
+<li>
+<p><a href="https://indieblog.page/">Opens a Random Indie Blog</a></p>
+</li>
+<li>
+<p><a href="https://seated.ro/posts/rabbit-hole-learning.html">Rabbit Hole Learning</a></p>
+</li>
+<li>
+<p><a href="https://nelson.cloud/how-i-discover-new-blogs/">How I Discover New Blogs</a></p>
+</li>
+<li>
+<p><a href="https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find">Ideas Aren't Getting Harder to Find</a> <a href="https://news.ycombinator.com/item?id=46283129">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/">If You Don't Design You Career, Someone Else Will</a> <a href="https://news.ycombinator.com/item?id=46352930">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html">The Best Things and Stuff of 2025</a> <a href="https://news.ycombinator.com/item?id=46365726">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=46618714">Ask HN: Share your personal website</a></p>
+</li>
+</ul>
+<h2 id="my-favorite-articles">My Favorite Articles<a class="headerlink" href="#my-favorite-articles" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://x.com/it_unprofession/status/2014141526599950728">IT Director's Guide to Corporate Survival</a></p>
+</li>
+<li>
+<p><a href="https://x.com/jsuarez/status/1943692968013025457">My Advice for Programming and ML</a></p>
+</li>
+<li>
+<p><a href="https://x.com/thegreatola/status/2006325991476474134">So You're "Locked In"... Now What?</a></p>
+</li>
+<li>
+<p><a href="https://x.com/alxfazio/status/1990530895221305581">Leaning Into LLMs</a></p>
+</li>
+<li>
+<p><a href="https://x.com/DrDominicNg/status/2008195481793372661">How to Trick Your Brain to do Hard Things</a></p>
+</li>
+<li>
+<p><a href="https://x.com/thedankoe/status/2010042119121957316">If you have multiple interests, do not waste the next 2-3 years</a></p>
+</li>
+<li>
+<p><a href="https://x.com/thedankoe/status/2010751592346030461">How to fix your entire life in 1 day</a></p>
+</li>
+<li>
+<p><a href="https://x.com/DrDominicNg/status/2018735498622087346">Why You Waste Your Evenings</a></p>
+</li>
+<li>
+<p><a href="https://x.com/mralexthomas/status/2019787747435626793">How to build your best physique training 3 hours a week</a></p>
+</li>
+<li>
+<p><a href="https://x.com/metabolic_print/status/2013979854862000243">The Low-Volume Advantage</a></p>
+</li>
+</ul>
+<h2 id="business">Business<a class="headerlink" href="#business" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=37102442">My <span class="arithmatex">\(0-&gt;\)</span>100M-&gt;$0 in 5 years story</a></p>
+</li>
+<li>
+<p><a href="https://x.com/thepatwalls/status/1755264819014303866?t=WOZDsQ26PPQJrA8akJTZuA">Growing a tiny SaaS to $1M/year in 2 years</a></p>
+</li>
+</ul>
+<h2 id="design">Design<a class="headerlink" href="#design" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://www.gorillasun.de/articles/">Gorilla Sun Articles</a></p>
+</li>
+<li>
+<p><a href="https://www.makingsoftware.com/">Cool Reference Manual on Software</a> <a href="https://news.ycombinator.com/item?id=43678144">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://emilkowal.ski/ui/you-dont-need-animations">Purposeful Animations</a> <a href="https://news.ycombinator.com/item?id=45139088">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="software-tooling">Software Tooling<a class="headerlink" href="#software-tooling" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://discord.com/blog/how-discord-stores-trillions-of-messages#:~:text=We%20partition%20our%20messages%20by,ve%20set%20the%20replication%20factor">How Discord Stores Trillions of Messages</a></p>
+</li>
+<li>
+<p><a href="https://www.willem.dev/articles/">Articles on Go/Golang and web development</a></p>
+</li>
+<li>
+<p><a href="https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools">An ex-Googler's guide to dev tools</a> <a href="https://news.ycombinator.com/item?id=38455505">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=37218263">Learn AutoHotKey by stealing my scripts</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36407477">Codespaces but open-source, client-only and unopinionated</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jmmv/status/1671670996921896960?t=804Wbh6C44YlpAq9XZ7rPg&amp;s=35">Is tech moving backwards (Twitter Thread)</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36658941">The 90s Developer Starter Pack</a></p>
+</li>
+<li>
+<p><a href="https://pcable.net/posts/2020-02-29-heaviness-of-systems/">The Heaviness of Maintaining Systems</a> <a href="https://news.ycombinator.com/item?id=37979930">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://research.swtch.com/acmscored">Open Source Supply Chain Security at Google</a> <a href="https://news.ycombinator.com/item?id=38471475">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://indieweb.org/POSSE#">Publish on your own site</a> <a href="https://news.ycombinator.com/item?id=46468600">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="software-development">Software Development<a class="headerlink" href="#software-development" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://rapha.land/craft-software-that-makes-people-feel-something/">Craft software that makes people feel something</a> <a href="https://news.ycombinator.com/item?id=46231274">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/">Good Engineer/Bad Engineer</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=38983067">Ask HN: Who else is working on nothing?</a></p>
+</li>
+<li>
+<p><a href="https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/">Things I Learnt The Hard Way</a></p>
+</li>
+<li>
+<p><a href="https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain">The Programmer's Brain</a> <a href="https://news.ycombinator.com/item?id=40704812">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://boringtechnology.club/">Choose Boring Technology</a></p>
+</li>
+<li>
+<p><a href="https://tratt.net/laurie/blog/2022/practising_programming.html">Practising Programming</a> <a href="https://news.ycombinator.com/item?id=38924310">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.robinsloan.com/notes/home-cooked-app/">An app can be a home-cooked meal</a> <a href="https://news.ycombinator.com/item?id=38877423">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://austinhenley.com/blog/challengingprojects.html">Challenging projects every programmer should try</a> <a href="https://news.ycombinator.com/item?id=38768678">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://jamesg.blog/2024/01/06/the-web-is-yours/">The Web is Yours</a></p>
+</li>
+<li>
+<p><a href="https://duttakapil.com/posts/coding-is-hard">Coding is actually hard</a> <a href="https://news.ycombinator.com/item?id=38322573">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://arne.me/articles/archive-your-old-projects">Archive Your Old Projects</a> <a href="https://news.ycombinator.com/item?id=38239358">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://blog.jsbarretto.com/post/software-is-joy">Writing Toy Software Is a Joy</a> <a href="https://news.ycombinator.com/item?id=44367084">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/">10 hard-to-swallow truths they won't tell you about software engineering jobs</a> <a href="https://news.ycombinator.com/item?id=38188689">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ntietz.com/blog/write-more-useless-software/">Write more "useless" software</a> <a href="https://news.ycombinator.com/item?id=37911900">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36596750">Ask HN: What boosted your confidence as a new programmer?</a></p>
+</li>
+<li>
+<p><a href="https://www.dewanahmed.com/identity-crisis-devrel/">Identity Crisis - A Tale of DevRel</a></p>
+</li>
+<li>
+<p><a href="https://www.devrel-ladders.com/">Developer Relations Career Ladders</a></p>
+</li>
+<li>
+<p><a href="https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/">20 Things I've Learned in my 20 Years as a Software Engineer</a></p>
+</li>
+<li>
+<p><a href="https://dev.to/lakatos88/10-things-i-wish-i-d-learned-sooner-after-being-a-developer-for-10-years-1261">10 Things I Wish I'd Learned Sooner After Being a Dev for 10 Years</a></p>
+</li>
+<li>
+<p><a href="https://underjord.io/why-ml-on-erlang.htmlv">Why Do ML on the Erlang VM?</a></p>
+</li>
+<li>
+<p><a href="https://blog.kchung.co/taking-over-a-dead-iot-company/">Taking over a Dead IoT Company</a></p>
+</li>
+<li>
+<p><a href="https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/">Do-nothing scripting</a></p>
+</li>
+<li>
+<p><a href="http://pketh.org/how-i-build.html">How I Build</a></p>
+</li>
+<li>
+<p><a href="http://carl.flax.ie/dothingstellpeople.html">Do things, tell people.</a></p>
+</li>
+<li>
+<p><a href="https://bitfieldconsulting.com/golang/career">A career ending mistake</a></p>
+</li>
+<li>
+<p><a href="https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c">My guiding principles after 20 years of programming</a></p>
+</li>
+<li>
+<p><a href="https://www.johnwhiles.com/posts/work">Maybe you should do less 'work'</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=31018836">Ask HN: Have you created programs for only your personal use?</a></p>
+</li>
+<li>
+<p><a href="https://tim.mcnamara.nz/post/667318290442600448/1x-programming">1x Programming</a></p>
+</li>
+<li>
+<p><a href="https://kevquirk.com/is-dark-mode-such-a-good-idea/">Is Dark Mode Good For Your Eyes?</a></p>
+</li>
+<li>
+<p><a href="https://www.jeffgeerling.com/blog/2022/just-say-no">Just Say No (Jeff Geerling)</a></p>
+</li>
+<li>
+<p><a href="https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html">We have used too many levels of abstractions...</a> <a href="https://news.ycombinator.com/item?id=37965142">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/">I Accidentally Saved Half A Million Dollars</a> <a href="https://news.ycombinator.com/item?id=38069710">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://mrbruh.com/chattr/">How I pwned half of America's fast food chains, simultaneously</a> <a href="https://news.ycombinator.com/item?id=38933999">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/">Things they didn't teach you about Software Engineering</a></p>
+</li>
+<li>
+<p><a href="https://badgerbadgerbadgerbadger.dev/posts/misc/2024-04-08-is-it-dry-yet/">Is it Dry Yet?</a> <a href="https://news.ycombinator.com/item?id=39989992">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://thoughtspile.github.io/2024/02/16/eng-to-em/">From engineer to manager: what I love, what I hate</a> <a href="https://news.ycombinator.com/item?id=39406804">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/">After 14 years in the industry, I still find programming difficult</a> <a href="https://news.ycombinator.com/item?id=39480605">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://chriskiehl.com/article/thoughts-after-10-years">Software development topics I've changed my mind on after 10 years</a> <a href="https://news.ycombinator.com/item?id=42946281">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://kibty.town/blog/todesktop/">How to gain code execution on hundreds of millions of people and popular apps</a> <a href="https://news.ycombinator.com/item?id=43210858">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://evanhahn.com/how-i-build-software-quickly/">How I build software quickly</a> <a href="https://news.ycombinator.com/item?id=44557115">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://underlap.org/developers-block/">Developer's Block</a> <a href="https://news.ycombinator.com/item?id=44994590">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.seangoedecke.com/good-api-design/">Everything I know about good API design</a> <a href="https://news.ycombinator.com/item?id=45006801">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://x.com/alxfazio/status/1980292397616484862">Mistakes I made in pricing dev projects</a></p>
+</li>
+<li>
+<p><a href="https://ntietz.com/blog/using-an-engineering-notebook/">Using an engineering notebook</a> <a href="https://news.ycombinator.com/item?id=46949814">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="life">Life<a class="headerlink" href="#life" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/">Becoming the person who does the thing</a></p>
+</li>
+<li>
+<p><a href="https://lelouch.dev/blog/you-are-probably-not-dumb/">You are NOT dumb, you just lack the prerequisites</a> <a href="https://news.ycombinator.com/item?id=41338354">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://dynomight.net/liking/">You Can Try to Like Stuff</a> <a href="https://news.ycombinator.com/item?id=45102512">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://tidyfirst.substack.com/p/the-pleasure-of-pattern">The Pleasure of Pattern</a> <a href="https://news.ycombinator.com/item?id=39373254">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.simplermachines.com/why-you-need-a-wtf-notebook/">Why you need a "WTF Notebook"</a> <a href="https://news.ycombinator.com/item?id=40078106">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project">I quit my job to work full time on my open source project</a> <a href="https://news.ycombinator.com/item?id=38935205">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://winnielim.org/journal/2024-one-pull-up/">2024: one pull up</a></p>
+</li>
+<li>
+<p><a href="https://blog.codinghorror.com/programming-your-hands/">Programming Your Hands</a></p>
+</li>
+<li>
+<p><a href="https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext">10 Things Software Developers Should Learn about Learning</a> <a href="https://news.ycombinator.com/item?id=38777647">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.ch3ngl0rd.com/staring-at-a-wall/">Staring at a Wall: Embracing Deliberate Boredom</a> <a href="https://news.ycombinator.com/item?id=38046396">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://chaidarun.com/ten-years-of-logging-my-life">10 Years of Logging My Life</a></p>
+</li>
+<li>
+<p><a href="https://arunkprasad.com/log/unlearning-perfectionism/">Unlearning Perfectionism</a></p>
+</li>
+<li>
+<p><a href="https://every.to/superorganizers/why-you-re-not-doing-creative-work">Why You're Not Doing Creative Work</a></p>
+</li>
+<li>
+<p><a href="https://odysee.com/@rossmanngroup:a/career-advancement-and-the-myth-of:0?r=BKHx7yypUWAAkS7a34StVf5eA3aG6CcZ">Career advancement (Louis Rossmann)</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=33382056">Ask HN: Advice that changed your life?</a></p>
+</li>
+<li>
+<p><a href="https://simonwillison.net/2022/Nov/6/what-to-blog-about/">What to blog about</a></p>
+</li>
+<li>
+<p><a href="https://nabeelqu.co/advice">Advice That Actually Worked For Me</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=33488891">Ask HN: Comment here about whatever you're passionate about at the moment</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36847960">Show HN: I built a transit travel time map</a></p>
+</li>
+<li>
+<p><a href="https://fortelabs.com/blog/para/">The PARA Method: A Simple System for Organizing your Digital Life</a></p>
+</li>
+<li>
+<p><a href="https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html">Unauthoritative Pronouncements</a> <a href="https://news.ycombinator.com/item?id=37949899">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://uplab.pro/2023/11/i-hacked-the-magic-mouse/">I hacked the Magic Mouse</a> <a href="https://news.ycombinator.com/item?id=38312649">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built">My Toddler Loves Planes, So I Built Her a Radar</a> <a href="https://news.ycombinator.com/item?id=38435908">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.whizzy.org/2023-12-14-bricked-xmas/">I Bricked My Christmas Lights</a> <a href="https://news.ycombinator.com/item?id=38657126">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://matduggan.com/fixing-macs-door-to-door/">Fixing Macs Door to Door</a> <a href="https://news.ycombinator.com/item?id=38886030">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life">Obituary for a Quiet Life</a> <a href="https://news.ycombinator.com/item?id=40028643">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/AskMen/comments/1b8v88p/men_over_30_what_do_you_wish_you_knew_at_21/?share_id=qzei_BAS9MpFZUw6Qj_sK&amp;utm_content=1&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">Men over 30: What do you wish you knew at 21?</a></p>
+</li>
+<li>
+<p><a href="https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/">Why time seems to pass faster as we age</a> <a href="https://news.ycombinator.com/item?id=39522249">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/LifeProTips/comments/1c9bygg/lpt_im_going_to_start_a_debate_how_the_hell_do/?share_id=pYjzhXVMf8p2g3scwcpxc&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">Thread: How do you fit a whole life in a routine?</a></p>
+</li>
+<li>
+<p><a href="https://ajkprojects.com/stopactinglikeyourefamous">Stop Acting Like You're Famous</a> <a href="https://news.ycombinator.com/item?id=40059887">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/gamedev/comments/1bxi21p/how_do_you_typically_stay_motivated_on_a_project/?share_id=WxQA4aGJsYiWpfyK2zVqb&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">Thread: How do you typically stay motivated on a project?</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/LifeProTips/comments/1cv5xfe/lpt_you_can_become_reasonably_proficient_in_just/?share_id=P1lVc-f5k163Vj3JJdnIx&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">Thread: LPT - You can become reasonably proficient in just about anything in six months</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/AskMen/comments/1doi5hh/which_real_life_cheat_codes_do_you_know/?share_id=zY6O4aqe23SLjgSZJgxMd&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">Thread: Which real life cheat codes do yo know?</a></p>
+</li>
+<li>
+<p><a href="https://lucumr.pocoo.org/2025/9/4/996/">996</a> <a href="https://news.ycombinator.com/item?id=45149049">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ludwigabap.com/posts/on-becoming-competitive-when-joining-a-new-company/">On Becoming Competitive When Joining A New Company</a></p>
+</li>
+</ul>
+<h2 id="productivity">Productivity<a class="headerlink" href="#productivity" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://jalexine.github.io/on-doing-things.html?t=Cpv5Jtk-CW85lpJz3p2yIQ&amp;s=35">On Doing Things</a></p>
+</li>
+<li>
+<p><a href="https://www.vangemert.dev/blog/nothing">"Nothing" is the secret to structuring your work</a> <a href="https://news.ycombinator.com/item?id=46933529">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=44702833">Ask HN: What are you working on? July 2025</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=45869146">Ask HN: What are you working on? Nov 2025</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/sysadmin/comments/1ldp297/how_is_it_that_im_making_more_money_while_doing/?share_id=otnFxUIcwvjFL-xZbfikh&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">How is it that I'm making more money while doing less...?</a></p>
+</li>
+<li>
+<p><a href="https://longform.asmartbear.com/extreme-questions/?utm_content=share-button&amp;s=35">Extreme Brainstorming questions to trigger new, better ideas</a></p>
+</li>
+<li>
+<p><a href="https://www.reddit.com/r/LifeProTips/comments/1bd0x71/lpt_if_you_find_a_way_to_do_your_job_faster_and/?share_id=xkj63QS-RxzseQPUZ6SQ8&amp;utm_content=1&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=14">LPT: If you find a way to do your job faster and are satisfied with your current level of responsibility, keep it to yourself</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=30905620">Ask HN: How do I develop focus?</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=37623086">Ask HN: How do I stop overthinking personal project management?</a></p>
+</li>
+<li>
+<p><a href="https://about.sourcegraph.com/blog/developer-productivity-thoughts">A dev's thoughts on developer productivity</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=35164819">Ask HN: What has your personal website/blog done for you?</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=35437062">Everything is a Practice</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36313671">Finish your projects</a></p>
+</li>
+<li>
+<p><a href="https://x.com/frozenboon/status/1836419978540601466?t=mnY51H_f96GkkEO8HUYIxw">Tweet: Finish Your Projects</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=36575081">Ask HN: Could you share your personal blog here?</a></p>
+</li>
+<li>
+<p><a href="https://fasterthanli.me/articles/just-paying-figma-15-dollars">Just paying Figma because nothing else works</a> <a href="https://news.ycombinator.com/item?id=37946203">Hackere News 📰</a></p>
+</li>
+<li>
+<p><a href="https://martin.sh/engaging-okr-checkins-with-hill-charts/">How I make OKRs more playful for my team using Hill-Charts</a> <a href="https://news.ycombinator.com/item?id=38617346">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.preethamrn.com/posts/when-should-you-give-up">When should you give up on a project that doesn't work?</a> <a href="https://news.ycombinator.com/item?id=39232004">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://jeffhuang.com/productivity_text_file/">My productivity app is a never-ending .txt file</a> <a href="https://news.ycombinator.com/item?id=39432876">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess">Stop postponing things by embracing the mess</a> <a href="https://news.ycombinator.com/item?id=39451793">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://myme.no/posts/2024-03-19-focus-by-automation.html">Focus By Automation</a> <a href="https://news.ycombinator.com/item?id=39766236">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://fev.al/posts/work-journal/">Use a Work Journal</a> <a href="https://news.ycombinator.com/item?id=40950584">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://learnhowtolearn.org/">How To Learn</a></p>
+</li>
+<li>
+<p><a href="https://www.al3rez.com/todo-txt-journey">I Tried Every Todo app and stuck with a .txt file</a> <a href="https://news.ycombinator.com/item?id=44864134">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.henrikkarlsson.xyz/p/attention">Sustained Attention Loop</a> <a href="https://news.ycombinator.com/item?id=45126503">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://jeffhuang.com/productivity_text_file/">My productivity app is a never-ending .txt file</a> <a href="https://news.ycombinator.com/item?id=46236037">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.seangoedecke.com/addicted-to-being-useful/">I'm addicted to being useful</a> <a href="https://news.ycombinator.com/item?id=46690402">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="game-development">Game Development<a class="headerlink" href="#game-development" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://www.develop.games/">Develop Games</a></p>
+</li>
+<li>
+<p><a href="https://abagames.github.io/joys-of-small-game-development-en/">Joys of Small Game Development</a> <a href="https://news.ycombinator.com/item?id=37799387">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://tonsky.me/blog/good-times-weak-men/">Good times create weak men</a> <a href="https://news.ycombinator.com/item?id=37997423">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.play.date/news/skew/">How the Creator of Alone in the Dark Came Back to Games</a> <a href="https://news.ycombinator.com/item?id=37961232">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://toruzz.com/blog/how-to-colorize-gb-games-04/">How to colorize Game Boy games</a> <a href="https://news.ycombinator.com/item?id=39672965">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/">Coding the anime "woosh" screen on Amiga</a> <a href="https://news.ycombinator.com/item?id=39494227">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=43186406">Show HN: I got laid off from Meta and created a minor hit on Steam</a></p>
+</li>
+<li>
+<p><a href="https://www.noio.nl/">Cool Resume Site for a Game Developer</a></p>
+</li>
+<li>
+<p><a href="https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/">Game Design is Simple</a> <a href="https://news.ycombinator.com/item?id=45841262">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="self-host-exploring-tech">Self-Host &amp; Exploring Tech<a class="headerlink" href="#self-host-exploring-tech" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://iliana.fyi/blog/build-your-own-steamos-updates/">How I forked SteamOS for my living room PC</a> <a href="https://news.ycombinator.com/item?id=38823101">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://tonsky.me/blog/crdt-filesync/">Local first, forever</a> <a href="https://news.ycombinator.com/item?id=40786425">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/">The MiniPC Revolution</a> <a href="https://news.ycombinator.com/item?id=45015814">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://specbranch.com/posts/one-big-server/">Use One Big Server</a> <a href="https://news.ycombinator.com/item?id=45085029">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://dgross.ca/blog/linux-home-server-auto-sleep">Making a Linux home server WoL</a> <a href="https://news.ycombinator.com/item?id=45108066">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="miscellaneous-tech-topics">Miscellaneous Tech Topics<a class="headerlink" href="#miscellaneous-tech-topics" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://ntietz.com/blog/covers-as-a-way-of-learning/">Covers as a way of learning music and code</a> <a href="https://news.ycombinator.com/item?id=44636240">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://danilafe.com/blog/blog_microfeatures/">Microfeatures I love in Blogs</a> <a href="https://news.ycombinator.com/item?id=40774277">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://qr.blinry.org/">Reading QR Codes Without a Computer</a> <a href="https://news.ycombinator.com/item?id=39087752">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill">If buying isn't owning, piracy isn't stealing</a> <a href="https://news.ycombinator.com/item?id=38579899">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult">It's weird how design systems are so rote, yet so difficult</a> <a href="https://news.ycombinator.com/item?id=38627674">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://lisyarus.github.io/blog/posts/exponential-smoothing.html">My favorite animation trick: exponential smoothing</a> <a href="https://news.ycombinator.com/item?id=39637487">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/">Leadership is a Hell of a Drug</a> <a href="https://news.ycombinator.com/item?id=39624842">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/">Keep Secrets out of Logs</a> <a href="https://news.ycombinator.com/item?id=45160774">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=39942397">Ask HN: What is the most useless project you have worked on?</a></p>
+</li>
+<li>
+<p><a href="https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/">Woodworking as an excape from the absurdity of software</a> <a href="https://news.ycombinator.com/item?id=40245601">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript">Coding my Handwriting</a> <a href="https://news.ycombinator.com/item?id=40408291">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://samwho.dev/big-o/">Big O Notation Visualization</a> <a href="https://news.ycombinator.com/item?id=45002182">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://loadmo.re/">Loadmore: Unconventional Web Reference</a> <a href="https://news.ycombinator.com/item?id=45415207">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=45074248">Cognitive load is what matters</a></p>
+</li>
+<li>
+<p><a href="https://justfuckingusehtml.com/">JUST USE HTML</a></p>
+</li>
+<li>
+<p><a href="https://x.com/Mike_Andreuzza/status/2014263404442144874">JUST USE ASTRO</a></p>
+</li>
+<li>
+<p>[Your app subscription is now my weekend project]<a href="https://rselbach.com/your-sub-is-now-my-weekend-project">(</a> <a href="https://news.ycombinator.com/item?id=46672713">Hacker News 📰</a></p>
+</li>
+</ul>
+<h2 id="entertainment">Entertainment<a class="headerlink" href="#entertainment" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://hitregbroke.com/anime/">Anime: A Slave Industry</a> <a href="https://news.ycombinator.com/item?id=39074062">Hacker News 📰</a></li>
+</ul>
+<h2 id="career">Career<a class="headerlink" href="#career" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p><a href="https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential">How to hire low experience, high potential people</a> <a href="https://news.ycombinator.com/item?id=39288669">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first">When New Hires Get Paid More, Top Performers Resign First</a> <a href="https://news.ycombinator.com/item?id=39867160">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/">Work, After Work: Notes From an Unemployed New Grad Watching The Job Market Break</a> <a href="https://news.ycombinator.com/item?id=45870863">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://addyosmani.com/blog/21-lessons/">Lessons from 14 years at Google</a> <a href="https://news.ycombinator.com/item?id=46488819">Hacker News 📰</a></p>
+</li>
+<li>
+<p><a href="https://x.com/aakashgupta/status/2012311340803916113">The Empty Door</a></p>
+</li>
+</ul>
+<h2 id="outdoors">Outdoors<a class="headerlink" href="#outdoors" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://jeremymaluf.com/onebag/">Indefinite Backpack Travel</a> <a href="https://news.ycombinator.com/item?id=45452472">Hacker News 📰</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../android/sideloaded/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Side Loaded Apps">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Side Loaded Apps
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../command-line/" class="md-footer__link md-footer__link--next" aria-label="Next: Command Line">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Command Line
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.sections", "navigation.instant", "navigation.indexes", "toc.integrate", "toc.follow", "navigation.top", "navigation.footer", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
