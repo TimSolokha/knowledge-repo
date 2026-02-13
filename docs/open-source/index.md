@@ -2,6 +2,8 @@
 
 ## Platforms
 
+- [Open Source Projects List](https://www.opensourceprojects.dev/)
+
 ## Contributing
 
 - [First Timers Only](https://www.firsttimersonly.com/)

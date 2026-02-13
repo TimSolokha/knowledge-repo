@@ -101,3 +101,5 @@
 - [Gamefication of Scrolling](https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification)
 
 - [Pikaday: A friendly guide to front-end date pickers](https://pikaday.dbushell.com/) [Hacker News 📰](https://news.ycombinator.com/item?id=45887957)
+
+- [Cool ASCII Cloud Tool](https://caidan.dev/portfolio/ascii_clouds/?cs=8&wa=0.7&ws=0.5&ni=0.05&vi=0.8&vr=0.75&ba=0.2&ca=1&ts=0.5&h=200&sa=0.3&t1=0.15&t2=0.28&t3=0.4&t4=0.52&t5=0.65&sd=hg3kix) [Hacker News 📰](https://news.ycombinator.com/item?id=46611507)

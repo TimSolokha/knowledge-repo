@@ -104,6 +104,10 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 
 ## Online Games
 
+- [Enclose.horse](https://enclose.horse/) [Hacker News 📰](https://news.ycombinator.com/item?id=46509211)
+
+- [Neal.fun](https://neal.fun/)
+
 - [figure.game](https://figure.game/)
 
 - [Human Benchmark](https://humanbenchmark.com/)
@@ -111,8 +115,6 @@ TWITTER ACCOUNTS AND DISCORD GO HERE
 - [COD-like game in ROBLOX](https://www.roblox.com/games/5938036553/FRONTLINES)
 
 - [Grimace Birthday Game 2023](https://archive.org/details/grimaces-birthday)
-
-- [Noclip: A digital museum of video game levels](https://news.ycombinator.com/item?id=37043934)
 
 - [Jackbox Style Game vs AI](https://news.ycombinator.com/item?id=38318889)
 

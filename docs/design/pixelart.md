@@ -4,7 +4,9 @@
 
 - [World of Pixels](https://ourworldofpixels.com/)
 
-- [Dithering: Part 1](https://visualrambling.space/dithering-part-1/) [Hacker News 📰](https://news.ycombinator.com/item?id=45750954)
+- [Dithering: Part I](https://visualrambling.space/dithering-part-1/) [Hacker News 📰](https://news.ycombinator.com/item?id=45750954)
+
+- [Dithering: Part II](https://visualrambling.space/dithering-part-2/) [Hacker News 📰](https://news.ycombinator.com/item?id=46770274)
 
 ## Inspiration
 

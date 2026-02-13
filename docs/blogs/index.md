@@ -100,18 +100,35 @@
 
 - [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html) [Hacker News 📰](https://news.ycombinator.com/item?id=46365726)
 
+- [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
+
 ## My Favorite Articles
+
+- [IT Director's Guide to Corporate Survival](https://x.com/it_unprofession/status/2014141526599950728)
 
 - [My Advice for Programming and ML](https://x.com/jsuarez/status/1943692968013025457)
 
 - [So You're "Locked In"... Now What?](https://x.com/thegreatola/status/2006325991476474134)
+
+- [Leaning Into LLMs](https://x.com/alxfazio/status/1990530895221305581)
+
+- [How to Trick Your Brain to do Hard Things](https://x.com/DrDominicNg/status/2008195481793372661)
+
+- [If you have multiple interests, do not waste the next 2-3 years](https://x.com/thedankoe/status/2010042119121957316)
+
+- [How to fix your entire life in 1 day](https://x.com/thedankoe/status/2010751592346030461)
+
+- [Why You Waste Your Evenings](https://x.com/DrDominicNg/status/2018735498622087346)
+
+- [How to build your best physique training 3 hours a week](https://x.com/mralexthomas/status/2019787747435626793)
+
+- [The Low-Volume Advantage](https://x.com/metabolic_print/status/2013979854862000243)
 
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
 
 - [Growing a tiny SaaS to $1M/year in 2 years](https://x.com/thepatwalls/status/1755264819014303866?t=WOZDsQ26PPQJrA8akJTZuA)
-
 
 ## Design
 
@@ -140,6 +157,8 @@
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/) [Hacker News 📰](https://news.ycombinator.com/item?id=37979930)
 
 - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
+
+- [Publish on your own site](https://indieweb.org/POSSE#) [Hacker News 📰](https://news.ycombinator.com/item?id=46468600)
 
 ## Software Development
 
@@ -233,6 +252,8 @@
 
 - [Mistakes I made in pricing dev projects](https://x.com/alxfazio/status/1980292397616484862)
 
+- [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/) [Hacker News 📰](https://news.ycombinator.com/item?id=46949814)
+
 ## Life
 
 - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
@@ -309,6 +330,8 @@
 
 - [On Doing Things](https://jalexine.github.io/on-doing-things.html?t=Cpv5Jtk-CW85lpJz3p2yIQ&s=35)
 
+- ["Nothing" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing) [Hacker News 📰](https://news.ycombinator.com/item?id=46933529)
+
 - [Ask HN: What are you working on? July 2025](https://news.ycombinator.com/item?id=44702833)
 
 - [Ask HN: What are you working on? Nov 2025](https://news.ycombinator.com/item?id=45869146)
@@ -356,6 +379,8 @@
 - [Sustained Attention Loop](https://www.henrikkarlsson.xyz/p/attention) [Hacker News 📰](https://news.ycombinator.com/item?id=45126503)
 
 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/) [Hacker News 📰](https://news.ycombinator.com/item?id=46236037)
+
+- [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/) [Hacker News 📰](https://news.ycombinator.com/item?id=46690402)
 
 ## Game Development
 
@@ -421,17 +446,25 @@
 
 - [JUST USE HTML](https://justfuckingusehtml.com/)
 
+- [JUST USE ASTRO](https://x.com/Mike_Andreuzza/status/2014263404442144874)
+
+- [Your app subscription is now my weekend project][(](https://rselbach.com/your-sub-is-now-my-weekend-project) [Hacker News 📰](https://news.ycombinator.com/item?id=46672713)
+
 ## Entertainment
 
 - [Anime: A Slave Industry](https://hitregbroke.com/anime/) [Hacker News 📰](https://news.ycombinator.com/item?id=39074062)
 
-## Job Market
+## Career
 
 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential) [Hacker News 📰](https://news.ycombinator.com/item?id=39288669)
 
 - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first) [Hacker News 📰](https://news.ycombinator.com/item?id=39867160)
 
 - [Work, After Work: Notes From an Unemployed New Grad Watching The Job Market Break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) [Hacker News 📰](https://news.ycombinator.com/item?id=45870863)
+
+- [Lessons from 14 years at Google](https://addyosmani.com/blog/21-lessons/) [Hacker News 📰](https://news.ycombinator.com/item?id=46488819)
+
+- [The Empty Door](https://x.com/aakashgupta/status/2012311340803916113)
 
 ## Outdoors
 

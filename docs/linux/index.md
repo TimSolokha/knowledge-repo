@@ -44,6 +44,8 @@ TODO: Small blurb on linux
 
 - [Ask HN: How would you set up a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
 
+- [HN Link: Linux is good now](https://news.ycombinator.com/item?id=46457770)
+
 ## Content around Linux
 
 - [Linuxize](https://linuxize.com/)

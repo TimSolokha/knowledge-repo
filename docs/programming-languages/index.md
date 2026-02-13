@@ -27,6 +27,8 @@
 
 - [Go Concurrency Explorer](https://www.concurrency.rocks/)
 
+- [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
+
 ## Flutter
 
 - [Learn Flutter](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)

@@ -9,3 +9,7 @@ TODO: Use emojis to create ways to decipher between resources
 - [BambuStudio](https://github.com/bambulab/BambuStudio)
 
 - [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+
+## Tools
+
+- [Gridfinity Templates](https://gridfinitylayouttool.com/l/qobpda1wE1SD/untitled-layout)

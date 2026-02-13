@@ -57,3 +57,6 @@
 - [Bezier Curves](https://keavon.github.io/Bezier-rs/) [Hacker News 📰](https://news.ycombinator.com/item?id=44846781)
 
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api) [Hacker News 📰](https://news.ycombinator.com/item?id=46293062)
+
+- [Disney Animator's Thoughts on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html) 
+[Hacker News 📰](https://news.ycombinator.com/item?id=46525639)

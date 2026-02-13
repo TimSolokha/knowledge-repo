@@ -103,3 +103,9 @@
 - [My Fridge Food](https://myfridgefood.com/)
 
 - [Non Zero Sum Games](https://nonzerosum.games/) [Hacker News 📰](https://news.ycombinator.com/item?id=46432311)
+
+- [Why some clothes shrink in the wash and how to unshrink them](https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/) [Hacker News 📰](https://news.ycombinator.com/item?id=46572307)
+
+- [The Startup Graveyard](https://www.loot-drop.io/)
+
+- [Isometric NYC](https://cannoneyed.com/isometric-nyc/) [Hacker News 📰](https://news.ycombinator.com/item?id=46721802)

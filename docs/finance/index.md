@@ -39,3 +39,5 @@ This section lists out some advice and resources around financing. Keep in mind 
 ## Finanical Tools
 
 - [Mortgage Rates Comparison](https://finfam.app/blog/credit-union-mortgages) [Hacker News 📰](https://news.ycombinator.com/item?id=46139761)
+
+- [Beancount Approach](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/) [Hacker News 📰](https://news.ycombinator.com/item?id=46463644)
