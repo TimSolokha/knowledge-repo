@@ -7,6 +7,10 @@
 
 - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings) [Hacker News 📰](https://news.ycombinator.com/item?id=37393820)
 
+- [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/) [Hacker News 📰](https://news.ycombinator.com/item?id=46153466)
+
+- [Software Architeture Patterns](https://www.patterns.dev/) [Hacker News 📰](https://news.ycombinator.com/item?id=46226483)
+
 ## Java
 
 - [Don't call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
@@ -20,6 +24,8 @@
 - [LearnGo GitHub Repo](https://github.com/inancgumus/learngo)
 
 - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
+
+- [Go Concurrency Explorer](https://www.concurrency.rocks/)
 
 ## Flutter
 

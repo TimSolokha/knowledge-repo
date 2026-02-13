@@ -37,3 +37,5 @@
 ## Visuals
 
 - [Cocoon Visuals Thread](https://twitter.com/JgDoesThings/status/1716518216686584226?t=e05T-mBeD1yLfGZVCiuC0Q)
+
+- [Noclip.website - A digital museum of video game levels](https://noclip.website/) [Hacker News 📰](https://news.ycombinator.com/item?id=46321619)

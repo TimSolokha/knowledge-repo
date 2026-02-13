@@ -55,3 +55,5 @@
 - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings) [Hacker News 📰](https://news.ycombinator.com/item?id=44792441)
 
 - [Bezier Curves](https://keavon.github.io/Bezier-rs/) [Hacker News 📰](https://news.ycombinator.com/item?id=44846781)
+
+- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api) [Hacker News 📰](https://news.ycombinator.com/item?id=46293062)

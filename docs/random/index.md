@@ -101,3 +101,5 @@
 - [What You Can Cook With Things in The Fridge](https://www.supercook.com/#/desktop)
 
 - [My Fridge Food](https://myfridgefood.com/)
+
+- [Non Zero Sum Games](https://nonzerosum.games/) [Hacker News 📰](https://news.ycombinator.com/item?id=46432311)

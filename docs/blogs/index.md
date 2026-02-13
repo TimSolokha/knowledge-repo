@@ -42,7 +42,9 @@
 
 - [The Singularity Is Nearer](https://geohot.github.io/blog/)
 
-## My Favorite Blogs
+- [Todd Hamilton](https://toddham.com/)
+
+## My Favorite Blog Posts
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
 
@@ -88,6 +90,22 @@
 
 - [Opens a Random Indie Blog](https://indieblog.page/)
 
+- [Rabbit Hole Learning](https://seated.ro/posts/rabbit-hole-learning.html)
+
+- [How I Discover New Blogs](https://nelson.cloud/how-i-discover-new-blogs/)
+
+- [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find) [Hacker News 📰](https://news.ycombinator.com/item?id=46283129)
+
+- [If You Don't Design You Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/) [Hacker News 📰](https://news.ycombinator.com/item?id=46352930)
+
+- [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html) [Hacker News 📰](https://news.ycombinator.com/item?id=46365726)
+
+## My Favorite Articles
+
+- [My Advice for Programming and ML](https://x.com/jsuarez/status/1943692968013025457)
+
+- [So You're "Locked In"... Now What?](https://x.com/thegreatola/status/2006325991476474134)
+
 ## Business
 
 - [My $0->$100M->$0 in 5 years story](https://news.ycombinator.com/item?id=37102442)
@@ -124,6 +142,8 @@
 - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored) [Hacker News 📰](https://news.ycombinator.com/item?id=38471475)
 
 ## Software Development
+
+- [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/) [Hacker News 📰](https://news.ycombinator.com/item?id=46231274)
 
 - [Good Engineer/Bad Engineer](https://terriblesoftware.org/2025/06/13/good-engineer-bad-engineer/)
 
@@ -283,6 +303,8 @@
 
 - [996](https://lucumr.pocoo.org/2025/9/4/996/) [Hacker News 📰](https://news.ycombinator.com/item?id=45149049)
 
+- [On Becoming Competitive When Joining A New Company](https://ludwigabap.com/posts/on-becoming-competitive-when-joining-a-new-company/)
+
 ## Productivity
 
 - [On Doing Things](https://jalexine.github.io/on-doing-things.html?t=Cpv5Jtk-CW85lpJz3p2yIQ&s=35)
@@ -313,7 +335,7 @@
 
 - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 
-- [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars) [Hacker News 📰](https://news.ycombinator.com/item?id=37946203)
+- [Just paying Figma because nothing else works](https://fasterthanli.me/articles/just-paying-figma-15-dollars) [Hackere News 📰](https://news.ycombinator.com/item?id=37946203)
 
 - [How I make OKRs more playful for my team using Hill-Charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/) [Hacker News 📰](https://news.ycombinator.com/item?id=38617346)
 
@@ -332,6 +354,8 @@
 - [I Tried Every Todo app and stuck with a .txt file](https://www.al3rez.com/todo-txt-journey) [Hacker News 📰](https://news.ycombinator.com/item?id=44864134)
 
 - [Sustained Attention Loop](https://www.henrikkarlsson.xyz/p/attention) [Hacker News 📰](https://news.ycombinator.com/item?id=45126503)
+
+- [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/) [Hacker News 📰](https://news.ycombinator.com/item?id=46236037)
 
 ## Game Development
 
