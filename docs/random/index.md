@@ -109,3 +109,5 @@
 - [The Startup Graveyard](https://www.loot-drop.io/)
 
 - [Isometric NYC](https://cannoneyed.com/isometric-nyc/) [Hacker News 📰](https://news.ycombinator.com/item?id=46721802)
+
+- [masters in time watches](https://www.mastersintime.com/casio/)

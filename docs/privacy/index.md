@@ -10,6 +10,8 @@ TODO: Short blurb on privacy and my thoughts on it
 
 - [Modern Cars are a privacy nightmare](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
 
+- [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/) [Hacker News 📰](https://news.ycombinator.com/item?id=47184288)
+
 ## Privacy Resources
 
 - [Reddit Thread with List of Tools for Privacy](https://www.reddit.com/r/f0am/comments/1c21wex/no_more_ads_no_more_sponsors_no_more_paywalls_no/?share_id=TEbVWvb26kDCeFZApiRO8&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=14)
@@ -21,6 +23,8 @@ TODO: Short blurb on privacy and my thoughts on it
 - [SimpleLogin](https://simplelogin.io/)
 
 - [NeverSSL](http://silverinnershinylight.neverssl.com/online/)
+
+- [Fulu | Bounties](https://bounties.fulu.org/)
 
 ## Password Manager
 

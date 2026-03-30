@@ -44,6 +44,10 @@
 
 - [Todd Hamilton](https://toddham.com/)
 
+- [Xbox UI Portfolio](https://gabrielcabrera.co/)
+
+- [Ooh.directory: A place to find blogs in different interests](https://ooh.directory/) [Hacker News 📰](https://news.ycombinator.com/item?id=47014449)
+
 ## My Favorite Blog Posts
 
 - [The fresh start effect](https://lars.yencken.org/fresh-start-effect) - This article talks about the having a different perspective to a "new start" of a habit or goal. Admire people for going out of their way to make a change, while also reflecting on how you can improve your own strategy to maintaining a habit/goal. [Hacker News 📰](https://news.ycombinator.com/item?id=38831119)
@@ -256,6 +260,8 @@
 
 ## Life
 
+- [Show HN: Micasa - track your house from the terminal](https://micasa.dev/) [Hacker News 📰](https://news.ycombinator.com/item?id=47075124)
+
 - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
 
 - [You are NOT dumb, you just lack the prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) [Hacker News 📰](https://news.ycombinator.com/item?id=41338354)
@@ -328,6 +334,10 @@
 
 ## Productivity
 
+- [How to Record and Retrieve Anything](https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase) [Hacker News 📰](https://news.ycombinator.com/item?id=47213819)
+
+- [Skill Stacking: A Practical Strategy To Achieve Career Success](https://dariusforoux.com/skill-stacking/)
+
 - [On Doing Things](https://jalexine.github.io/on-doing-things.html?t=Cpv5Jtk-CW85lpJz3p2yIQ&s=35)
 
 - ["Nothing" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing) [Hacker News 📰](https://news.ycombinator.com/item?id=46933529)
@@ -384,6 +394,8 @@
 
 ## Game Development
 
+- [Making Video Games in 2025](https://www.noelberry.ca/posts/making_games_in_2025/) [Hacker News 📰](https://news.ycombinator.com/item?id=47176576)
+
 - [Develop Games](https://www.develop.games/)
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
@@ -415,6 +427,8 @@
 - [Making a Linux home server WoL](https://dgross.ca/blog/linux-home-server-auto-sleep) [Hacker News 📰](https://news.ycombinator.com/item?id=45108066)
 
 ## Miscellaneous Tech Topics
+
+- [Never buy a .online domain](https://www.0xsid.com/blog/online-tld-is-pain) [Hacker News 📰](https://news.ycombinator.com/item?id=47151233)
 
 - [Covers as a way of learning music and code](https://ntietz.com/blog/covers-as-a-way-of-learning/) [Hacker News 📰](https://news.ycombinator.com/item?id=44636240)
 
@@ -465,6 +479,8 @@
 - [Lessons from 14 years at Google](https://addyosmani.com/blog/21-lessons/) [Hacker News 📰](https://news.ycombinator.com/item?id=46488819)
 
 - [The Empty Door](https://x.com/aakashgupta/status/2012311340803916113)
+
+- [The Best Devrels of 2025](https://x.com/michael_chomsky/status/1930323572532359397)
 
 ## Outdoors
 

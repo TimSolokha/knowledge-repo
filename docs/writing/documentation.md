@@ -16,6 +16,8 @@
 
 ## Links
 
+- [How to write](https://garden.bradwoods.io/notes/story/how-to-write)
+
 - [How to write a good design document](https://grantslatton.com/how-to-design-document) [Hacker News 📰](https://news.ycombinator.com/item?id=44779428)
 
 - [What's the Best Documentation You've Used?](https://dev.to/medusajs/whats-the-best-documentation-youve-used-83d)
