@@ -60,3 +60,5 @@
 
 - [Disney Animator's Thoughts on Zootopia 2](https://blog.yiningkarlli.com/2025/12/zootopia-2.html) 
 [Hacker News 📰](https://news.ycombinator.com/item?id=46525639)
+
+- [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/) [Hacker News 📰](https://news.ycombinator.com/item?id=47242193)

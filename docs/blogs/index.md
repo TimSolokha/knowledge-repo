@@ -164,6 +164,8 @@
 
 - [Publish on your own site](https://indieweb.org/POSSE#) [Hacker News 📰](https://news.ycombinator.com/item?id=46468600)
 
+- [Building a New Flash](https://bill.newgrounds.com/news/post/1607118) [Hacker News 📰](https://news.ycombinator.com/item?id=47253177)
+
 ## Software Development
 
 - [Craft software that makes people feel something](https://rapha.land/craft-software-that-makes-people-feel-something/) [Hacker News 📰](https://news.ycombinator.com/item?id=46231274)
@@ -257,6 +259,10 @@
 - [Mistakes I made in pricing dev projects](https://x.com/alxfazio/status/1980292397616484862)
 
 - [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/) [Hacker News 📰](https://news.ycombinator.com/item?id=46949814)
+
+- [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) [Hacker News 📰](https://news.ycombinator.com/item?id=47261561)
+
+- [Create Value for Others](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html) [Hacker News 📰](https://news.ycombinator.com/item?id=47332074)
 
 ## Life
 
@@ -396,6 +402,8 @@
 
 - [Making Video Games in 2025](https://www.noelberry.ca/posts/making_games_in_2025/) [Hacker News 📰](https://news.ycombinator.com/item?id=47176576)
 
+- [15 Years of Indie Dev In 4 Bits of Advice](https://www.pentadact.com/2026-01-08-15-years-of-indie-dev-in-4-bits-of-advice/)
+
 - [Develop Games](https://www.develop.games/)
 
 - [Joys of Small Game Development](https://abagames.github.io/joys-of-small-game-development-en/) [Hacker News 📰](https://news.ycombinator.com/item?id=37799387)
@@ -472,6 +480,8 @@
 
 - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential) [Hacker News 📰](https://news.ycombinator.com/item?id=39288669)
 
+- [The Polymath Career Path](https://www.keytostudy.com/polymath-career-path/)
+
 - [When New Hires Get Paid More, Top Performers Resign First](https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first) [Hacker News 📰](https://news.ycombinator.com/item?id=39867160)
 
 - [Work, After Work: Notes From an Unemployed New Grad Watching The Job Market Break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) [Hacker News 📰](https://news.ycombinator.com/item?id=45870863)
@@ -481,6 +491,10 @@
 - [The Empty Door](https://x.com/aakashgupta/status/2012311340803916113)
 
 - [The Best Devrels of 2025](https://x.com/michael_chomsky/status/1930323572532359397)
+
+- [The DevRel Path To Success](https://www.marythengvall.com/blog/2021/3/9/the-devrel-path-to-success-awareness-enablement-engagement)
+
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) [Hacker News 📰](https://news.ycombinator.com/item?id=47246110)
 
 ## Outdoors
 
