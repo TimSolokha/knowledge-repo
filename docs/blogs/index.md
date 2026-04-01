@@ -46,6 +46,8 @@
 
 - [Xbox UI Portfolio](https://gabrielcabrera.co/)
 
+- [Omar Roth](https://omar.yt/)
+
 - [Ooh.directory: A place to find blogs in different interests](https://ooh.directory/) [Hacker News 📰](https://news.ycombinator.com/item?id=47014449)
 
 ## My Favorite Blog Posts
@@ -470,7 +472,15 @@
 
 - [JUST USE ASTRO](https://x.com/Mike_Andreuzza/status/2014263404442144874)
 
-- [Your app subscription is now my weekend project][(](https://rselbach.com/your-sub-is-now-my-weekend-project) [Hacker News 📰](https://news.ycombinator.com/item?id=46672713)
+- [Have a flipping website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) [Hacker News 📰](https://news.ycombinator.com/item?id=47421442)
+
+- [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project) [Hacker News 📰](https://news.ycombinator.com/item?id=46672713)
+
+- [Writing my own text editor and daily driving it](https://blog.jsbarretto.com/post/text-editor) [Hacker News 📰](https://news.ycombinator.com/item?id=47331034)
+
+- [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/) [Hacker News 📰](https://news.ycombinator.com/item?id=47327703)
+
+- [JPEG Compression](https://www.sophielwang.com/blog/jpeg) [Hacker News 📰](https://news.ycombinator.com/item?id=47372367)
 
 ## Entertainment
 

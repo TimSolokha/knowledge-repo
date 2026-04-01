@@ -27,3 +27,7 @@
 - [Jetbrains Fleet](https://www.jetbrains.com/fleet/)
 
 - [Lapce](https://lapce.dev/)
+
+## Links
+
+- [Shell Tricks That Make Your Life Easier](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/) [Hacker News 📰](https://news.ycombinator.com/item?id=47525243)
